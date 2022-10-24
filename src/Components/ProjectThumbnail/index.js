@@ -11,17 +11,21 @@ class ProjectThumbnail extends React.PureComponent {
     this._renderThumbnail = this._renderThumbnail.bind(this);
   }
 
-  _renderThumbnail(thumbnail, src, title, autoplay) {
+  _renderThumbnail(thumbnail, src, title, autoplay, photography) {
     const imageFormats = ["png", "jpg", "jpeg", "svg", "gif"];
     const videoFormats = ["mp4", "webm"];
     const HtmlThumbnail = React.lazy(() =>
-      import(`../../Work/${src}/thumbnails/${thumbnail}`)
+      import(`../../DesignWork/${src}/thumbnails/${thumbnail}`)
     );
 
     if (new RegExp(`[.](${imageFormats.join("|")})`).test(thumbnail)) {
       return (
         <img
-          src={require(`../../Work/${src}/thumbnails/${thumbnail}`)}
+          src={
+            photography ?
+            require(`../../PhotographyWork/${src}/${thumbnail}`) :
+            require(`../../DesignWork/${src}/thumbnails/${thumbnail}`)
+          }
           alt={title}
         ></img>
       );
@@ -29,17 +33,31 @@ class ProjectThumbnail extends React.PureComponent {
       return (
         <video playsInline muted autoPlay={autoplay} loop>
           <source
-            src={require(`../../Work/${src}/thumbnails/${thumbnail.replace(
-              ".mp4",
-              ".webm"
-            )}`)}
+            src={
+              photography ?
+              require(`../../PhotographyWork/${src}/${thumbnail.replace(
+                ".mp4",
+                ".webm"
+              )}`) :
+              require(`../../DesignWork/${src}/thumbnails/${thumbnail.replace(
+                ".mp4",
+                ".webm"
+              )}`)
+            }
             type="video/webm"
           />
           <source
-            src={require(`../../Work/${src}/thumbnails/${thumbnail.replace(
-              ".webm",
-              ".mp4"
-            )}`)}
+            src={
+              photography ?
+              require(`../../PhotographyWork/${src}/${thumbnail.replace(
+                ".webm",
+                ".mp4"
+              )}`) :
+              require(`../../DesignWork/${src}/thumbnails/${thumbnail.replace(
+                ".webm",
+                ".mp4"
+              )}`)
+            }
             type="video/mp4"
           />
         </video>
@@ -69,6 +87,7 @@ class ProjectThumbnail extends React.PureComponent {
       autoplay,
       portrait,
       fadeIn,
+      photography,
     } = this.props;
 
     const Tag = as ? as : "div";
@@ -93,7 +112,7 @@ class ProjectThumbnail extends React.PureComponent {
           </Link>
         )}
         <figure className="project-artwork" aria-hidden="true">
-          {this._renderThumbnail(thumbnailToRender, src, title, autoplay)}
+          {this._renderThumbnail(thumbnailToRender, src, title, autoplay, photography)}
         </figure>
         {!img_only && (
           <div className="project-info" aria-hidden={hover}>

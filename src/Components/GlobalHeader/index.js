@@ -192,7 +192,17 @@ class GlobalHeader extends React.PureComponent {
                   exact
                   to="/"
                 >
-                  Work
+                  Design
+                </NavLink>
+              </li>
+              <li>
+                <NavLink
+                  className="nav-item"
+                  activeClassName="active"
+                  exact
+                  to="/photography"
+                >
+                  Photography
                 </NavLink>
               </li>
               <li>

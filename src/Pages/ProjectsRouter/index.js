@@ -2,7 +2,7 @@ import React, { Suspense, Fragment } from "react";
 import ProjectPageFallback from "../../Components/ProjectPageFallback";
 
 function ProjectsRouter(props) {
-  const ProjectPage = React.lazy(() => import(`../../Work/${props.src}`));
+  const ProjectPage = React.lazy(() => import(`../../DesignWork/${props.src}`));
 
   return (
     <Fragment>

@@ -1,0 +1,60 @@
+{
+  "PhotographyWork": [
+    {
+      "title": "Playa Honda",
+      "client": "Cornershop by Uber",
+      "description": [
+        "Originally aimed at making Cornershop's web application suitable for smaller screen sizes, multiple discussions between the Product Design and Engineering teams snowballed the project into a complete redesign and development of the website.",
+        "While preserving its underlying Javascript foundations, the entire markup and CSS of the web app were reimagined and rebuilt from the ground up, taking advantage of modern CSS properties to achieve native-feeling interactions, visually polished elements, and a brand new, mobile-first component library—all while taking the opportunity to significantly improve accessibility for both screen readers and keyboard users throughout every point of the experience.",
+        "Most Javascript-powered UI libraries were deprecated from the codebase afterwards, helping consolidate a mature, propietary, and flexible design and development environment."
+      ],
+      "release_year": "2020",
+      "release_month": "03",
+      "featured": true,
+      "has_page": false,
+      "src": "2015/playa-honda",
+      "thumbnails": [
+        "2015-playa-honda-1.jpg"
+      ],
+      "cta": [
+        {
+          "title": "Open Cornershop by Uber",
+          "url": "https://web.cornershopapp.com"
+        }
+      ],
+      "team": {
+        "Product Design": [
+          {
+            "name": "Laura Sandoval"
+          },
+          {
+            "name": "Matías Martínez"
+          },
+          {
+            "name": "Varsha Ashock"
+          },
+          {
+            "name": "Gonzalo Castillo"
+          }
+        ],
+        "Frontend Engineering": [
+          {
+            "name": "Laura Sandoval"
+          },
+          {
+            "name": "Erasmo Marin"
+          },
+          {
+            "name": "Franciso Yáñez"
+          },
+          {
+            "name": "Francisco García"
+          },
+          {
+            "name": "Gonzalo Castillo"
+          }
+        ]
+      }
+    }
+  ]
+}

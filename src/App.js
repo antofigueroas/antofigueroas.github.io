@@ -6,6 +6,7 @@ import ProjectsRouter from "./Pages/ProjectsRouter";
 
 import "./App.scss";
 import DesignWork from "./Pages/DesignWork";
+import PhotographyWork from "./Pages/PhotographyWork";
 import About from "./Pages/About";
 import Balance from "./Pages/Balance";
 import ScrollToTop from "./Components/ScrollToTop";
@@ -17,6 +18,7 @@ function App() {
       <ScrollToTop />
       <Switch>
         <Route exact path="/" component={DesignWork} />
+        <Route exact path="/photography" component={PhotographyWork} />
         <Route exact path="/about" component={About} />
         <Route exact path="/balance" component={Balance} />
         <Route exact path="/balance/privacy-policy" component={BalancePrivacyPolicy} />
