@@ -2,6 +2,7 @@ import React from "react";
 import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
 
 import DesignWorkSrc from "./Assets/design-work.json";
+import PhotographyWorkSrc from "./Assets/photography-work.json";
 import ProjectsRouter from "./Pages/ProjectsRouter";
 
 import "./App.scss";
@@ -31,16 +32,30 @@ function App() {
         <Route exact path="/patreon" component={() => { 
           window.location.replace("https://patreon.com/laurasideral");
         }}/>
-        {DesignWorkSrc.DesignWork.map((project, index) => {
-          return (
-            <Route
-              exact
-              path={`/${project.src}`}
-              key={index}
-              render={() => <ProjectsRouter {...project} />}
-            />
-          );
-        })}
+        {
+          DesignWorkSrc.DesignWork.map((project, index) => {
+            return (
+              <Route
+                exact
+                path={`/${project.src}`}
+                key={index}
+                render={() => <ProjectsRouter {...project} />}
+              />
+            );
+          })
+        }
+        {
+          PhotographyWorkSrc.PhotographyWork.map((project, index) => {
+            return (
+              <Route
+                exact
+                path={`/${project.src}`}
+                key={index}
+                render={() => <ProjectsRouter photography {...project} />}
+              />
+            );
+          })
+        }
       </Switch>
     </Router>
   );

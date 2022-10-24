@@ -73,6 +73,7 @@ class ProjectPageFallback extends React.PureComponent {
                   thumbnail={thumbnail}
                   key={index}
                   autoplay
+                  photography={this.props.photography}
                 />
               );
             })}
