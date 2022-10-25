@@ -26,7 +26,7 @@
           "url": "https://web.cornershopapp.com"
         }
       ],
-      "team": {
+      "parameters": {
         "Product Design": [
           {
             "name": "Laura Sandoval"
@@ -87,7 +87,7 @@
           "url": "https://cornershopapp.com/"
         }
       ],
-      "team": {
+      "parameters": {
         "Cornershop Product Design": [
           {
             "name": "Laura Sandoval"
@@ -270,7 +270,7 @@
           "url": "https://cornershopapp.com/"
         }
       ],
-      "team": {
+      "parameters": {
         "Product Design": [
           {
             "name": "Matías Martínez"
@@ -322,7 +322,7 @@
           "url": "https://corner.shop/stores"
         }
       ],
-      "team": {
+      "parameters": {
         "Product Design": [
           {
             "name": "Laura Sandoval"
@@ -366,7 +366,7 @@
         "kappo-brand-pillars-simplified.png"
       ],
       "cta": null,
-      "team": {
+      "parameters": {
         "Graphic Design": [
           {
             "name": "Laura Sandoval"
@@ -397,7 +397,7 @@
         "web-cool-place-to-bike.webm"
       ],
       "cta": null,
-      "team": {
+      "parameters": {
         "Web Design": [
           {
             "name": "Laura Sandoval"
@@ -489,7 +489,7 @@
           "url": "https://balanceapp.cl"
         }
       ],
-      "team": {
+      "parameters": {
         "Product Design": [
           {
             "name": "Laura Sandoval"
@@ -538,7 +538,7 @@
           "url": "https://fintual.com"
         }
       ],
-      "team": {
+      "parameters": {
         "Product Design": [
           {
             "name": "Laura Sandoval"
@@ -574,7 +574,7 @@
         "ministerio-de-salud-lip-variant.png"
       ],
       "cta": null,
-      "team": {
+      "parameters": {
         "Graphic Design": [
           {
             "name": "Jose Allard"
@@ -636,7 +636,7 @@
           "url": "https://guemil.info"
         }
       ],
-      "team": {
+      "parameters": {
         "Project Owner": [
           {
             "name": "Rodrigo Ramírez"
@@ -688,7 +688,7 @@
         "y4pt-2nd-national-transport-hackathon-chile-2017-sketch.png"
       ],
       "cta": null,
-      "team": {
+      "parameters": {
         "Graphic Design": [
           {
             "name": "Laura Sandoval"
@@ -749,7 +749,7 @@
         "cycling-wayfinding-signage-plain.png"
       ],
       "cta": null,
-      "team": {
+      "parameters": {
         "Design": [
           {
             "name": "Laura Sandoval"
@@ -830,7 +830,7 @@
           "url": "https://github.com/laurasandoval/SimpleBipApp"
         }
       ],
-      "team": {
+      "parameters": {
         "Design and Frontend Engineering": [
           {
             "name": "Laura Sandoval"

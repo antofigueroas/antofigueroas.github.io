@@ -110,68 +110,76 @@ class ProjectPageFallback extends React.PureComponent {
               )}
             </div>
             <div className="credits">
-              {this.props.client && (
+              {
+                !this.props.photography &&
+                this.props.client && (
+                  <div className="item" role="text">
+                    <h3>
+                      Client<AccessibilityLabel>: </AccessibilityLabel>
+                    </h3>
+                    <p>{this.props.client}</p>
+                  </div>
+                )
+              }
+              {
+                !this.props.photography &&
                 <div className="item" role="text">
                   <h3>
-                    Client<AccessibilityLabel>: </AccessibilityLabel>
+                    Release Date<AccessibilityLabel>: </AccessibilityLabel>
                   </h3>
-                  <p>{this.props.client}</p>
+                  <p>
+                    <Time
+                      year={this.props.release_year}
+                      month={this.props.release_month}
+                      as="span"
+                    />
+                  </p>
                 </div>
-              )}
-              <div className="item" role="text">
-                <h3>
-                  Release Date<AccessibilityLabel>: </AccessibilityLabel>
-                </h3>
-                <p>
-                  <Time
-                    year={this.props.release_year}
-                    month={this.props.release_month}
-                    as="span"
-                  />
-                </p>
-              </div>
-              {this.props.team &&
-                Object.keys(this.props.team).map((item, i) => {
-                  return (
-                    <div className="item" key={i} role="text">
-                      <h3>
-                        {item}
-                        <AccessibilityLabel>: </AccessibilityLabel>
-                      </h3>
-                      {this.props.team[item].map((person, i) => {
-                        if (this.props.team[item].length > 1) {
-                          if (i + 1 === this.props.team[item].length) {
-                            return (
-                              <p key={i}>
-                                {person.name}
-                                <AccessibilityLabel>.</AccessibilityLabel>
-                              </p>
-                            );
-                          } else if (
-                            i + 1 ===
-                            this.props.team[item].length - 1
-                          ) {
-                            return (
-                              <p key={i}>
-                                {person.name}
-                                <AccessibilityLabel> and </AccessibilityLabel>
-                              </p>
-                            );
+              }
+              {
+                this.props.parameters &&
+                  Object.keys(this.props.parameters).map((item, i) => {
+                    return (
+                      <div className="item" key={i} role="text">
+                        <h3>
+                          {item}
+                          <AccessibilityLabel>: </AccessibilityLabel>
+                        </h3>
+                        {this.props.parameters[item].map((parameter, i) => {
+                          if (this.props.parameters[item].length > 1) {
+                            if (i + 1 === this.props.parameters[item].length) {
+                              return (
+                                <p key={i}>
+                                  {parameter.name}
+                                  <AccessibilityLabel>.</AccessibilityLabel>
+                                </p>
+                              );
+                            } else if (
+                              i + 1 ===
+                              this.props.parameters[item].length - 1
+                            ) {
+                              return (
+                                <p key={i}>
+                                  {parameter.name}
+                                  <AccessibilityLabel> and </AccessibilityLabel>
+                                </p>
+                              );
+                            } else {
+                              return (
+                                <p key={i}>
+                                  {parameter.name}
+                                  <AccessibilityLabel>, </AccessibilityLabel>
+                                </p>
+                              );
+                            }
                           } else {
-                            return (
-                              <p key={i}>
-                                {person.name}
-                                <AccessibilityLabel>, </AccessibilityLabel>
-                              </p>
-                            );
+                            return <p key={i}>{parameter.name}</p>;
                           }
-                        } else {
-                          return <p key={i}>{person.name}</p>;
-                        }
-                      })}
-                    </div>
-                  );
-                })}
+                        })}
+                      </div>
+                    );
+                  })
+                }
             </div>
           </div>
         </article>
