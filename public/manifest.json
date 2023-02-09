@@ -1,19 +1,19 @@
 {
-  "short_name": "Laura Sandoval",
+  "short_name": "Antonia Figueroa",
   "name": "Digital Product Designer & Developer from Santiago, Chile. Featured clients include Cornershop, Uber, among others.",
   "icons": [
     {
-      "src": "favicon.ico",
+      "src": "idealogoanto.ico",
       "sizes": "48x48 32x32 16x16",
       "type": "image/x-icon"
     },
     {
-      "src": "logo192.png",
+      "src": "idealogoanto.png",
       "type": "image/png",
       "sizes": "192x192"
     },
     {
-      "src": "logo512.png",
+      "src": "idealogoanto.png",
       "type": "image/png",
       "sizes": "512x512"
     }
