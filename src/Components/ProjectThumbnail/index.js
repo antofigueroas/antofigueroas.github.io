@@ -13,38 +13,42 @@ class ProjectThumbnail extends React.PureComponent {
 
   _renderThumbnail(thumbnail, src, title, autoplay) {
     const imageFormats = ["png", "jpg", "jpeg", "svg", "gif"];
-    const videoFormats = ["mp4", "webm"];
+    const videoFormatsMP4 = ["mp4"];
+    const videoFormatsWebm = ["webm"];
     const HtmlThumbnail = React.lazy(() =>
       import(`../../Work/${src}/thumbnails/${thumbnail}`)
     );
-
-    if (new RegExp(`[.](${imageFormats.join("|")})`).test(thumbnail)) {
+    const splittedThumbnail=thumbnail.split(".");
+    
+    if (imageFormats.includes(splittedThumbnail[splittedThumbnail.length-1])){
       return (
         <img
           src={require(`../../Work/${src}/thumbnails/${thumbnail}`)}
           alt={title}
         ></img>
       );
-    } else if (new RegExp(`[.](${videoFormats.join("|")})`).test(thumbnail)) {
+    } else if (videoFormatsWebm.includes(splittedThumbnail[splittedThumbnail.length-1])){
+      console.log(thumbnail)
       return (
         <video playsInline muted autoPlay={autoplay} loop>
           <source
-            src={require(`../../Work/${src}/thumbnails/${thumbnail.replace(
-              ".mp4",
-              ".webm"
-            )}`)}
+            src={require(`../../Work/${src}/thumbnails/${thumbnail}`)}
             type="video/webm"
           />
+        </video>
+      );
+    } else if (videoFormatsMP4.includes(splittedThumbnail[splittedThumbnail.length-1])){
+      console.log(thumbnail)
+      return (
+        <video playsInline muted autoPlay={autoplay} loop>
           <source
-            src={require(`../../Work/${src}/thumbnails/${thumbnail.replace(
-              ".webm",
-              ".mp4"
-            )}`)}
+            src={require(`../../Work/${src}/thumbnails/${thumbnail}`)}
             type="video/mp4"
           />
         </video>
       );
-    } else {
+    }
+     else {
       return (
         <div className="html-thumbnail-container">
           <Suspense fallback={<span></span>}>

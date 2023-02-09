@@ -71,7 +71,7 @@ class DesignWork extends React.PureComponent {
     return (
       <Fragment>
         <Helmet>
-          <title>Laura Sandoval — Work</title>
+          <title>Antonia Figueroa — Work</title>
         </Helmet>
 
         <GlobalHeader sticky />
@@ -100,7 +100,7 @@ class DesignWork extends React.PureComponent {
           />
         </Grid>
         <Callout>
-          <p>This portfolio website uses Bézier Curves (aka. <a href="/squircles.png" rel="noopener noreferrer">squircles</a>) and it's also part of my portfolio. You can find the code on <a href="https://github.com/laurasandoval/lau-portfolio/" rel="noopener noreferrer">GitHub</a>.</p>
+          <p>This portfolio makes use of the code from laurasandoval's <a href="https://github.com/laurasandoval/" rel="noopener noreferrer">GitHub</a></p> repository, a big thank you for sharing your work. 
         </Callout>
       </Fragment>
     );

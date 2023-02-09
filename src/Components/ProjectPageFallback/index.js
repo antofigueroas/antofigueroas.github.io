@@ -53,7 +53,7 @@ class ProjectPageFallback extends React.PureComponent {
     return (
       <Fragment>
         <Helmet>
-          <title>{this.props.title} — Laura Sandoval</title>
+          <title>{this.props.title} — Antonia Figueroa</title>
         </Helmet>
 
         <GlobalHeader />

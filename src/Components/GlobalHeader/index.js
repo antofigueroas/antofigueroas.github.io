@@ -174,9 +174,9 @@ class GlobalHeader extends React.PureComponent {
               </span>
             </div>
             <h1 aria-hidden={this.state.navOpen}>
-              <AccessibilityLabel>Laura Sandoval</AccessibilityLabel>
+              <AccessibilityLabel>Antonia Figueroa</AccessibilityLabel>
               <NavLink className="nav-item" exact to="/" aria-hidden="true">
-                Laura Sandoval
+                Antonia Figueroa
               </NavLink>
             </h1>
           </div>

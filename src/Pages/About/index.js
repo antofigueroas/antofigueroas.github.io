@@ -11,14 +11,14 @@ function About() {
   return (
     <Fragment>
       <Helmet>
-        <title>About — Laura Sandoval</title>
+        <title>About — Antonia Figueroa</title>
       </Helmet>
 
       <GlobalHeader sticky />
       <GenericContainer className="about-page">
         <h2>
           <AccessibilityLabel>
-            About — Laura Sandoval
+            About — Antonia Figueroa
           </AccessibilityLabel>
         </h2>
         <figure className="hearts-animation" role="img">
@@ -51,26 +51,18 @@ function About() {
           </AccessibilityLabel>
         </figure>
         <h3 className="big-statement">
-          I like building digital products that people love—without them even
-          noticing it.
+        I love to create subtle yet memorable designs.
         </h3>
-        <p className="big-statement-subtitle">(Hopefully at least)</p>
+        <p className="big-statement-subtitle"></p>
         <div className="about-me-paragraphs">
-          <p role="text">
-            Born in Peru {Age} years ago. Moved to Chile a year after that. Then
-            back to Peru in 2014. And back to Chile again two years later. So
-            here I am.
+          <p>
+          Born in Santiago, Chile, {Age} years ago, where I studied Integral Design at Pontificia Universidad Católica de Chile.
           </p>
           <p>
-            I strive to design wonderful and accessible digital products that go
-            unnoticed in day-to-day life, while staying true to their intended
-            meaning. Currently doing that at Cornershop, an Uber-owned grocery
-            delivery service that offers world-class digital products powered by
-            software and design.
+          I strive to create beautiful designs that remain truthful to their intended function—with the user's needs in mind. Currently I'm learning to code and illustrate in order to keep on designing everything that pops up in my head.
           </p>
-          <p role="text">
-            Taught myself to code, studied Design at Pontificia Universidad Católica de Chile, and you
-            know how it goes. Find more of that on my{" "}
+          <p>
+          Find out more information in my {" "} 
             <a
               href="/resume"
               rel="noopener noreferrer"
