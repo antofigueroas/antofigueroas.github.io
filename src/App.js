@@ -32,8 +32,7 @@ function App() {
           window.location.replace("https://patreon.com/laurasideral");
         }}/>
         <Route exact path="/resume" component={() => { 
-          window.location.href = 'https://drive.google.com/file/d/1hdTxpqyKGul61S2h2KDk27Bnq49Ob8Uo/view?usp=sharing';
-          return null
+          window.location.replace(`/resume/ResumeJan2023.pdf`)
         }}/>
         {DesignWorkSrc.DesignWork.map((project, index) => {
           return (

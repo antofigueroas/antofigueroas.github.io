@@ -1,0 +1,25 @@
+{
+  "short_name": "Antonia Figueroa",
+  "name": "Digital Product Designer & Developer from Santiago, Chile. Featured clients include Cornershop, Uber, among others.",
+  "icons": [
+    {
+      "src": "idealogoanto.ico",
+      "sizes": "48x48 32x32 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "idealogoanto.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "idealogoanto.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
