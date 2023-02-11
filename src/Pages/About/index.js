@@ -67,7 +67,7 @@ function About() {
               href="/resume/ResumeJan2023.pdf"
               rel="noopener noreferrer"
             >
-              Résumé
+              Resume
             </a>
             {<AccessibilityLabel>.</AccessibilityLabel>} :-)
           </p>
@@ -76,7 +76,7 @@ function About() {
               href="/resume/ResumeJan2023.pdf"
               rel="noopener noreferrer"
             >
-              Résumé
+              Resume
             </a>
           </AccessibilityLabel>
         </div>
