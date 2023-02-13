@@ -11,7 +11,7 @@
       "release_month": "06",
       "featured": true,
       "has_page": false,
-      "src": "open-source/responsive-muller-brockmann",
+      "src": "coaniquem/colecta",
       "thumbnails": [
         "devices1.png",
         "stickerscolecta.png",
@@ -43,7 +43,7 @@
       "release_month": "07",
       "featured": true,
       "has_page": false,
-      "src": "hombre/uber-grocery-with-cornershop",
+      "src": "hombre-de-verdad/fanzine",
       "thumbnails": [
         "librolargofanzine.png",
         "cuadernillo.png"
@@ -81,7 +81,7 @@
       "release_month": "01",
       "featured": true,
       "has_page": false,
-      "src": "cornershop/cornershop-referral-landing",
+      "src": "coaniquem/bcf",
       "thumbnails": [
         "bcfscreen2.png",
         "bcfahorasi.png"
@@ -110,7 +110,7 @@
       "release_month": "06",
       "featured": false,
       "has_page": false,
-      "src": "cornershop/tostador",
+      "src": "ilko/toaster",
       "thumbnails": [
         "ilko tostadores.png",
         "tostadorcomercial.mp4",
@@ -147,7 +147,7 @@
       "release_month": "06",
       "featured": false,
       "has_page": false,
-      "src": "cornershop/paperman",
+      "src": "paperman",
       "thumbnails": [
         "paperman-02.jpg",
         "paperman doblado 2.jpg",
@@ -178,7 +178,7 @@
       "release_month": "11",
       "featured": true,
       "has_page": false,
-      "src": "grik/kappo-brand-identity",
+      "src": "grik/grik-brand-identity",
       "thumbnails": [
         "construccion logo grik.jpg",
         "grik flyers.png"
@@ -203,7 +203,7 @@
       "release_month": "09",
       "featured": true,
       "has_page": false,
-      "src": "minekra",
+      "src": "minecraft",
       "thumbnails": [
         "minecraft2imagen.png",
         "minecraft brochure con luces.png",
@@ -227,7 +227,7 @@
       "release_month": "02",
       "featured": false,
       "has_page": false,
-      "src": "minecraft/2018",
+      "src": "m30m/portadas",
       "thumbnails": [
         "guia1matematicas_Mesa de trabajo 1.png",
         "mathreciclado.png"
@@ -252,7 +252,7 @@
       "release_month": "12",
       "featured": false,
       "has_page": false,
-      "src": "transantiago-bot",
+      "src": "ciudad-de-dios",
       "thumbnails": [
         "ciudad de dios panfleto.jpg",
         "cdd3.gif"
@@ -282,7 +282,7 @@
       "release_month": "08",
       "featured": false,
       "has_page": false,
-      "src": "rcp/app",
+      "src": "rcp/project",
       "thumbnails": [
         "cosechadoraafiche2.jpg",
         "afiches cosechadora1.jpg",
@@ -326,9 +326,9 @@
       ],
       "release_year": "2020",
       "release_month": "03",
-      "featured": false,
+      "featured": true,
       "has_page": false,
-      "src": "fullface",
+      "src": "yo-pongo-la-cara",
       "thumbnails": [
         "mascarafullface1.jpg",
         "mascarapng2.jpg",
@@ -380,7 +380,7 @@
       "release_month": "06",
       "featured": false,
       "has_page": false,
-      "src": "organ/icon-uploader",
+      "src": "organ/infographic",
       "thumbnails": [
         "folletoorganos2_Mesa de trabajo 1.jpg",
         "folletoorganos1_Mesa de trabajo 1.jpg",
@@ -405,7 +405,7 @@
       "release_month": "07",
       "featured": false,
       "has_page": false,
-      "src": "triada/2nd-transport-hackathon-chile",
+      "src": "triada/social-media",
       "thumbnails": [
         "celular2triada.mp4",
         "redes sociales triada video.mp4"
@@ -464,7 +464,7 @@
       "release_month": "11",
       "featured": false,
       "has_page": false,
-      "src": "sello",
+      "src": "coaniquem/sellosinusoide",
       "thumbnails": [
         "leaf.mp4"
       ],
@@ -487,7 +487,7 @@
       "release_month": "02",
       "featured": true,
       "has_page": false,
-      "src": "amazon",
+      "src": "finis-terrae",
       "thumbnails": [
         "finisabierto.png",
         "finiss.png",
@@ -518,7 +518,7 @@
       "release_month": "03",
       "featured": false,
       "has_page": false,
-      "src": "dentistas",
+      "src": "amazon-bcf",
       "thumbnails": [
         "amazon oficial.png"
       ],
@@ -547,7 +547,7 @@
       "release_month": "02",
       "featured": true,
       "has_page": false,
-      "src": "open-source/simple-bip-app",
+      "src": "triada/brochure",
       "thumbnails": [
         "mockuptriada.png",
         "triadacosapsd.png",

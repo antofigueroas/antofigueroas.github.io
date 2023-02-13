@@ -205,10 +205,10 @@ class GlobalHeader extends React.PureComponent {
               <li>
                 <a
                   className="nav-item"
-                  href="/resume"
+                  href="/resume/ResumeJan2023.pdf"
                   rel="noopener noreferrer"
                 >
-                  Résumé
+                  Resume
                 </a>
               </li>
               <li className="search-button" onClick={this._openSearch}>
