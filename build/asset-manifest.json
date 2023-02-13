@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.a81b2450.css",
-    "main.js": "/static/js/main.ca6f3ac5.js",
+    "main.js": "/static/js/main.779dee7c.js",
     "static/media/videoinstructivo.mp4": "/static/media/videoinstructivo.203cc9f2d7c7628475f2.mp4",
     "static/media/leaf.mp4": "/static/media/leaf.0a1add229eafd2cbc0da.mp4",
     "static/media/fondogrisvideo.mp4": "/static/media/fondogrisvideo.1b089cbb1457f491c0b0.mp4",
@@ -41,6 +41,9 @@
     "static/media/videomascara2.mp4": "/static/media/videomascara2.d9741e09cded7b4848fa.mp4",
     "static/media/libroestudio1.png": "/static/media/libroestudio1.17c80083af63216d2fd2.png",
     "static/media/amazon coaniquem.png": "/static/media/amazon coaniquem.bfeb73ec23955bbc75c7.png",
+    "static/media/uber-grocery-department.png": "/static/media/uber-grocery-department.4de15eaaccb6c5138ce8.png",
+    "static/media/uber-grocery-home.png": "/static/media/uber-grocery-home.74baf759af23eda355c1.png",
+    "static/media/uber-grocery-product.png": "/static/media/uber-grocery-product.a64fd034839790af0e26.png",
     "static/media/amazon oficial.png": "/static/media/amazon oficial.5687e0da79a3afa14829.png",
     "static/media/paperman doblado.jpg": "/static/media/paperman doblado.674ecac22550046bae1c.jpg",
     "static/media/paperman doblado 2.jpg": "/static/media/paperman doblado 2.c6f745a30d3efe7e7f2c.jpg",
@@ -72,10 +75,10 @@
     "static/media/kappo-brand-pillars-simplified.png": "/static/media/kappo-brand-pillars-simplified.4a4457d0a417c8c12001.png",
     "index.html": "/index.html",
     "main.a81b2450.css.map": "/static/css/main.a81b2450.css.map",
-    "main.ca6f3ac5.js.map": "/static/js/main.ca6f3ac5.js.map"
+    "main.779dee7c.js.map": "/static/js/main.779dee7c.js.map"
   },
   "entrypoints": [
     "static/css/main.a81b2450.css",
-    "static/js/main.ca6f3ac5.js"
+    "static/js/main.779dee7c.js"
   ]
 }
