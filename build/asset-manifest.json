@@ -1,12 +1,13 @@
 {
   "files": {
     "main.css": "/static/css/main.a81b2450.css",
-    "main.js": "/static/js/main.779dee7c.js",
+    "main.js": "/static/js/main.feb5a989.js",
     "static/media/videoinstructivo.mp4": "/static/media/videoinstructivo.203cc9f2d7c7628475f2.mp4",
     "static/media/leaf.mp4": "/static/media/leaf.0a1add229eafd2cbc0da.mp4",
     "static/media/fondogrisvideo.mp4": "/static/media/fondogrisvideo.1b089cbb1457f491c0b0.mp4",
     "static/media/tostadorcomercial.mp4": "/static/media/tostadorcomercial.5f5a349c93f1aea1f36a.mp4",
     "static/media/redes sociales triada video.mp4": "/static/media/redes sociales triada video.2a468878836b2641b3f1.mp4",
+    "static/media/T1.png": "/static/media/T1.5ba62aa1af00f53a2a8d.png",
     "static/media/tostador3.png": "/static/media/tostador3.977805d99e171e069435.png",
     "static/media/grik flyers.png": "/static/media/grik flyers.4a8bb03bd070040cb84b.png",
     "static/media/cuadernillo.png": "/static/media/cuadernillo.5af73b4c0c96485b62be.png",
@@ -40,6 +41,7 @@
     "static/media/finis.png": "/static/media/finis.cbd7d8f490197307ff35.png",
     "static/media/videomascara2.mp4": "/static/media/videomascara2.d9741e09cded7b4848fa.mp4",
     "static/media/libroestudio1.png": "/static/media/libroestudio1.17c80083af63216d2fd2.png",
+    "static/media/veamos.png": "/static/media/veamos.4ca208c804024818cb87.png",
     "static/media/amazon coaniquem.png": "/static/media/amazon coaniquem.bfeb73ec23955bbc75c7.png",
     "static/media/uber-grocery-department.png": "/static/media/uber-grocery-department.4de15eaaccb6c5138ce8.png",
     "static/media/uber-grocery-home.png": "/static/media/uber-grocery-home.74baf759af23eda355c1.png",
@@ -75,10 +77,10 @@
     "static/media/kappo-brand-pillars-simplified.png": "/static/media/kappo-brand-pillars-simplified.4a4457d0a417c8c12001.png",
     "index.html": "/index.html",
     "main.a81b2450.css.map": "/static/css/main.a81b2450.css.map",
-    "main.779dee7c.js.map": "/static/js/main.779dee7c.js.map"
+    "main.feb5a989.js.map": "/static/js/main.feb5a989.js.map"
   },
   "entrypoints": [
     "static/css/main.a81b2450.css",
-    "static/js/main.779dee7c.js"
+    "static/js/main.feb5a989.js"
   ]
 }
