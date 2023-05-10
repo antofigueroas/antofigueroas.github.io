@@ -62,7 +62,7 @@ function About() {
           I strive to create beautiful designs that remain truthful to their intended function—with the user's needs in mind. Currently I'm learning to code and illustrate in order to keep on designing everything that pops up in my head.
           </p>
           <p>
-          Find out more information in my {" "}
+          Find out more in my {" "}
             <a
               href="/resume/ResumeMay2023.pdf"
               rel="noopener noreferrer"
@@ -76,7 +76,7 @@ function About() {
             >
               Linkedin
             </a>
-            {<AccessibilityLabel>.</AccessibilityLabel>} :-)
+            {<AccessibilityLabel>.</AccessibilityLabel>} (new tab) :-)
           </p>
           <AccessibilityLabel>
             <a
