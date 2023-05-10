@@ -51,7 +51,7 @@ function About() {
           </AccessibilityLabel>
         </figure>
         <h3 className="big-statement">
-        I love to create subtle yet memorable designs.
+        I love designing and looking for new projects and ideas.
         </h3>
         <p className="big-statement-subtitle"></p>
         <div className="about-me-paragraphs">
@@ -62,12 +62,19 @@ function About() {
           I strive to create beautiful designs that remain truthful to their intended function—with the user's needs in mind. Currently I'm learning to code and illustrate in order to keep on designing everything that pops up in my head.
           </p>
           <p>
-          Find out more information in my {" "} 
+          Find out more information in my {" "}
             <a
               href="/resume/ResumeMay2023.pdf"
               rel="noopener noreferrer"
             >
               Resume
+            </a>
+            {<AccessibilityLabel>.</AccessibilityLabel>} or {" "}
+            <a
+              href="https://www.linkedin.com/in/antonia-figueroa-sánchez/"
+              rel="noopener noreferrer"
+            >
+              Linkedin
             </a>
             {<AccessibilityLabel>.</AccessibilityLabel>} :-)
           </p>
