@@ -9,7 +9,7 @@
       ],
       "release_year": "2020",
       "release_month": "06",
-      "featured": true,
+      "featured": false,
       "has_page": false,
       "src": "coaniquem/colecta",
       "thumbnails": [
@@ -181,7 +181,8 @@
       "src": "grik/grik-brand-identity",
       "thumbnails": [
         "construccion logo grik.jpg",
-        "grik flyers.png"
+        "grik flyers.png",
+        "loguito pa probar.png"
       ],
       "cta": null,
       "team": {
@@ -201,13 +202,12 @@
       ],
       "release_year": "2021",
       "release_month": "09",
-      "featured": true,
+      "featured": false,
       "has_page": false,
       "src": "minecraft",
       "thumbnails": [
         "minecraft2imagen.png",
-        "minecraft brochure con luces.png",
-        "boceto minecraft.jpg"
+        "minecraft brochure con luces.png"
       ],
       "cta": [
         {
@@ -218,19 +218,20 @@
       "team": null
     },
     {
-      "title": "M30M, PDT/PAES preparation courses ",
-      "client": "Matemáticas en 30 Minutos",
+      "title": "Tecnogruas",
+      "client": "Anonimo Design Studio",
       "description": [
-        "Logo and cover design for the study manuals of M30M (\"MatemáticasEn30Minutos\"), an educational center that prepares high school students for the \"Prueba de Selección Universitaria\" (PSU)."
+        "Business cards, brochure and silicone bracelets for \"Tecnogruas\" for ExpoMin 2023."
       ],
-      "release_year": "2018",
-      "release_month": "02",
+      "release_year": "2023",
+      "release_month": "03",
       "featured": false,
       "has_page": false,
       "src": "m30m/portadas",
       "thumbnails": [
-        "guia1matematicas_Mesa de trabajo 1.png",
-        "mathreciclado.png"
+        "tarjetas1.png",
+        "pulseras3.png",
+        "tecno2.png"
       ],
       "cta": null,
       "team":    {
@@ -326,15 +327,14 @@
       ],
       "release_year": "2020",
       "release_month": "03",
-      "featured": false,
+      "featured": true,
       "has_page": false,
       "src": "yo-pongo-la-cara",
       "thumbnails": [
         "mascarafullface1.jpg",
         "mascarapng2.jpg",
-        "videomascara2.mp4",
-        "videoinstructivo.mp4",
-        "instamascaras.jpg"
+        "celularmascara.png",
+        "videomascara2.mp4"
       ],
       "cta": [
         {
@@ -383,8 +383,7 @@
       "src": "organ/infographic",
       "thumbnails": [
         "folletoorganos2_Mesa de trabajo 1.jpg",
-        "folletoorganos1_Mesa de trabajo 1.jpg",
-        "donacion de organos_Mesa de trabajo 1.jpg"
+        "folletoorganos1_Mesa de trabajo 1.jpg"
       ],
       "team": {
         "Graphic Design": [
@@ -407,8 +406,7 @@
       "has_page": false,
       "src": "triada/social-media",
       "thumbnails": [
-        "celular2triada.mp4",
-        "redes sociales triada video.mp4"
+        "celular2triada.mp4"
       ],
       "cta": null,
       "team": {
@@ -455,22 +453,22 @@
       }
     },
     {
-      "title": "Coaniquem and SelloSinusoide's Festival Video",
-      "client": "Coaniquem",
+      "title": "Cover design",
+      "client": "Ril Editores",
       "description": [
-        "Video editing and audiovisual animation of burn patient testimonials for the Musical Festival event between Coaniquem and SelloSinusoide Studio."
+        " "
       ],
-      "release_year": "2021",
-      "release_month": "11",
-      "featured": false,
+      "release_year": "2023",
+      "release_month": "03",
+      "featured": true,
       "has_page": false,
       "src": "coaniquem/sellosinusoide",
       "thumbnails": [
-        "leaf.mp4"
+        "portadaril2.png"
       ],
       "cta": null,
       "team": {
-        "Designer": [
+        "Editorial Designer": [
           {
             "name": "Antonia Figueroa"
           } 
@@ -485,7 +483,7 @@
       ],
       "release_year": "2021",
       "release_month": "02",
-      "featured": true,
+      "featured": false,
       "has_page": false,
       "src": "finis-terrae",
       "thumbnails": [
@@ -549,10 +547,10 @@
       "has_page": false,
       "src": "triada/brochure",
       "thumbnails": [
-        "mockuptriada.png",
+        "triadaimagen.png",
         "triadacosapsd.png",
-        "triadapartedeatras.png",
-        "libritoabierto.png"
+        "mockuptriada.png",
+        "triadapartedeatras.png"
       ],
       "team": {
         "Graphic Design": [
