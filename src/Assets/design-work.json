@@ -9,13 +9,13 @@
       ],
       "release_year": "2020",
       "release_month": "06",
-      "featured": false,
+      "featured": true,
       "has_page": false,
       "src": "coaniquem/colecta",
       "thumbnails": [
-        "devices1.png",
-        "stickerscolecta.png",
-        "fondogrisvideo.mp4"
+        "devicescolecta.png",
+        "stickersclaro.png",
+        "videoclaro.mp4"
 
       ],
       "cta": [
@@ -176,7 +176,7 @@
       ],
       "release_year": "2018",
       "release_month": "11",
-      "featured": true,
+      "featured": false,
       "has_page": false,
       "src": "grik/grik-brand-identity",
       "thumbnails": [
@@ -456,7 +456,7 @@
       "title": "Cover design",
       "client": "Ril Editores",
       "description": [
-        " "
+        "This cover was created as a freelance work for \"Ril Editores\" editorial. It combines visual elements and typography, achieving the incorporation of initials from philosopher Richard Rorty as the main design."
       ],
       "release_year": "2023",
       "release_month": "03",
@@ -518,7 +518,7 @@
       "has_page": false,
       "src": "amazon-bcf",
       "thumbnails": [
-        "amazon oficial.png"
+        "copiaamazon.png"
       ],
       "cta": [
         {
