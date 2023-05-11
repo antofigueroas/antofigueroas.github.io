@@ -80,7 +80,7 @@
       ],
       "release_year": "2022",
       "release_month": "01",
-      "featured": true,
+      "featured": false,
       "has_page": false,
       "src": "coaniquem/bcf",
       "thumbnails": [
@@ -150,10 +150,8 @@
       "has_page": false,
       "src": "paperman",
       "thumbnails": [
-        "paperman-02.jpg",
-        "paperman doblado 2.jpg",
-        "paperman.jpg",
-        "paperman doblado.jpg"
+        "permancito.png",
+        "ilus_Mesa de trabajo 1.jpg"
       ],
       "cta": [
         {
@@ -383,8 +381,8 @@
       "has_page": false,
       "src": "organ/infographic",
       "thumbnails": [
-        "folletoorganos2_Mesa de trabajo 1.jpg",
-        "folletoorganos1_Mesa de trabajo 1.jpg"
+        "trans1.jpg",
+        "trans2.jpg"
       ],
       "team": {
         "Graphic Design": [
@@ -432,12 +430,12 @@
       ],
       "release_year": "2019",
       "release_month": "05",
-      "featured": false,
+      "featured": true,
       "has_page": false,
       "src": "virutex",
       "thumbnails": [
-        "clorogeloficial.jpg",
-        "guantesoficial.jpg"
+        "draw1.jpg",
+        "draw2.jpg"
       ],
       "cta": null,
       "team": {
