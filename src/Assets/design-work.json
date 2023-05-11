@@ -46,7 +46,8 @@
       "src": "hombre-de-verdad/fanzine",
       "thumbnails": [
         "librolargofanzine.png",
-        "cuadernillo.png"
+        "cuadernillo.png",
+        "abiertos.png"
       ],
       "cta": [
         {
@@ -487,7 +488,7 @@
       "has_page": false,
       "src": "finis-terrae",
       "thumbnails": [
-        "finisabierto.png",
+        "sistema.jpg",
         "finiss.png",
         "finis.png"
       ],
