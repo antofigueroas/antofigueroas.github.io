@@ -251,13 +251,12 @@
       ],
       "release_year": "2020",
       "release_month": "12",
-      "featured": false,
+      "featured": true,
       "has_page": false,
       "src": "ciudad-de-dios",
       "thumbnails": [
         "ciudad.jpg",
-        "gifprociudad.mp4",
-        "textos.png"
+        "gifprociudad.mp4"
       ],
       "cta": [
         {
@@ -282,13 +281,12 @@
       ],
       "release_year": "2019",
       "release_month": "08",
-      "featured": false,
+      "featured": true,
       "has_page": false,
       "src": "rcp/project",
       "thumbnails": [
-        "cosechadoraafiche2.jpg",
-        "afiches cosechadora1.jpg",
-        "RCP19video.mp4"
+        "masjunto.png",
+        "cosechadora en persona.png"
       ],
       "cta": [
         {
