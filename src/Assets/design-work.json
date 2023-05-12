@@ -15,6 +15,7 @@
       "thumbnails": [
         "devicescolecta.png",
         "stickersclaro.png",
+        "standcolecta.jpg",
         "videoclaro.mp4"
 
       ],
@@ -255,7 +256,8 @@
       "src": "ciudad-de-dios",
       "thumbnails": [
         "ciudad.jpg",
-        "gifprociudad.mp4"
+        "gifprociudad.mp4",
+        "textos.png"
       ],
       "cta": [
         {
