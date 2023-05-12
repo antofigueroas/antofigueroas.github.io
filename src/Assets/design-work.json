@@ -147,12 +147,15 @@
       ],
       "release_year": "2020",
       "release_month": "06",
-      "featured": false,
+      "featured": true,
       "has_page": false,
       "src": "paperman",
       "thumbnails": [
-        "permancito.png",
-        "ilus_Mesa de trabajo 1.jpg"
+        "paperman_2poster.png",
+        "paperman_1poster.png",
+        "veamosquetal.png"
+
+
       ],
       "cta": [
         {
@@ -169,7 +172,7 @@
       }
     },
     {
-      "title": "GRIK - logo and infographic",
+      "title": "GRIK - Logo and Infographic",
       "client": null,
       "description": [
         "Logo design, brand identity and explanatory infographics for the GRIK project (2018). The font of the logo was designed from scratch for this particular project."
@@ -193,7 +196,7 @@
       }
     },
     {
-      "title": "Minecraft Nether Update infographic",
+      "title": "Minecraft Nether Update Infographic",
       "client": null,
       "description": [
         "Infographic that in an easy, fast and entertaining way, shows the features and changes integrated to the new update of the Minecraft video game.",
@@ -217,7 +220,7 @@
       "team": null
     },
     {
-      "title": "Tecnogruas",
+      "title": "Tecnogruas, Expomin 2023",
       "client": "Anonimo Design Studio",
       "description": [
         "Business cards, brochure and silicone bracelets for \"Tecnogruas\" for ExpoMin 2023."
@@ -242,7 +245,7 @@
       }
     },
     {
-      "title": "Ciudad de Dios, cinematographic imaginaries",
+      "title": "Ciudad de Dios, Cinematographic Imaginaries",
       "client": null,
       "description": [
         "This project represents the collective imaginary of the Brazilian favela in the movie Ciudad de Dios, which shows an approach to the criminal world in Rio de Janeiro.",
@@ -272,7 +275,7 @@
       }
     },
     {
-      "title": "RCP19 - Low cost harvesting machine project",
+      "title": "RCP19 - Low Cost Harvesting Machine Project",
       "client": null,
       "description": [
         "RCP-19 is a horizontal trailed potato harvester. Its function is to replace the act of bending down and replace part of the force required during work in order to increase productivity and at the same time reduce work-related injuries. The tool is designed to be intuitive, simple to use and easy to operate.",
@@ -369,7 +372,7 @@
       }
     },
     {
-      "title": "Organ Donation data visualization",
+      "title": "Organ Donation Data Visualization",
       "client": null,
       "description": [
         "Easy-to-read infographic on multiple aspects of organ donation in Chile. Through the use of five transparent and individual micas, detailed information is presented on the most relevant organs for each topic."
@@ -392,7 +395,7 @@
       }
     },
     {
-      "title": "Triada social media content",
+      "title": "Triada Social Media Content",
       "client": null,
       "description": [
         "Managed, designed and implemented a brand identity design for the social networks of the meditation center \"Triada\". Based in Santiago, Chile, Triada aspired to become a global facilitator of distance meditation tools.",
@@ -404,7 +407,7 @@
       "has_page": false,
       "src": "triada/social-media",
       "thumbnails": [
-        "celular2triada.mp4"
+        "sm_triada.mp4"
       ],
       "cta": null,
       "team": {
@@ -451,7 +454,7 @@
       }
     },
     {
-      "title": "Cover design",
+      "title": "Ril Editores - Cover Design",
       "client": "Ril Editores",
       "description": [
         "This cover was created as a freelance work for \"Ril Editores\" editorial. It combines visual elements and typography, achieving the incorporation of initials from philosopher Richard Rorty as the main design."
@@ -504,7 +507,7 @@
       }
     },
     {
-      "title": "BCF x AmazonSmile - social media content",
+      "title": "BCF x AmazonSmile - Social Media Content",
       "client": "Coaniquem BCF by Coaniquem",
       "description": [
         "Design of social media content and explanatory videos of the collaboration between Coaniquem BCF and Amazon Smile, with the purpose of encouraging the use of the platform and explaining the donation process.",
@@ -533,7 +536,7 @@
       }
     },
     {
-      "title": "Triada - brochure",
+      "title": "Triada - Brochure",
       "client": null,
       "description": [
         "Information brochure for the meditation center \"Triada\".",
