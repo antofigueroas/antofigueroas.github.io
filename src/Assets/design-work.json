@@ -81,12 +81,12 @@
       ],
       "release_year": "2022",
       "release_month": "01",
-      "featured": false,
+      "featured": true,
       "has_page": false,
       "src": "coaniquem/bcf",
       "thumbnails": [
         "bcfscreen2.png",
-        "bcfahorasi.png"
+        "bcf video oficial.mp4"
       ],
       "cta": [
         {
