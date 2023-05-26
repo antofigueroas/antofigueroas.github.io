@@ -64,7 +64,7 @@ function About() {
           <p>
           Find out more in my {" "}
             <a
-              href="/resume/ResumeMay2023.pdf"
+              href="/resume/Antonia Figueroa_May.pdf"
               rel="noopener noreferrer"
             >
               Resume
@@ -80,7 +80,7 @@ function About() {
           </p>
           <AccessibilityLabel>
             <a
-              href="/resume/ResumeMay2023.pdf"
+              href="/resume/Antonia Figueroa_May.pdf"
               rel="noopener noreferrer"
             >
               Resume

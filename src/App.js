@@ -31,8 +31,8 @@ function App() {
         <Route exact path="/patreon" component={() => { 
           window.location.replace("https://patreon.com/laurasideral");
         }}/>
-        <Route exact path="/resume/ResumeMay2023.pdf" component={() => { 
-          window.location.replace(`/resume/ResumeMay2023.pdf`)
+        <Route exact path="/resume/Antonia Figueroa_May.pdf" component={() => { 
+          window.location.replace(`/resume/Antonia Figueroa_May.pdf`)
         }}/>
         {DesignWorkSrc.DesignWork.map((project, index) => {
           return (
