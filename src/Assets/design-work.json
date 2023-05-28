@@ -46,9 +46,9 @@
       "has_page": false,
       "src": "hombre-de-verdad/fanzine",
       "thumbnails": [
-        "librolargofanzine.png",
-        "cuadernillo.png",
-        "abiertos.png"
+        "hombredeverdad_web.jpg",
+        "hombredeverdad_web-02.jpg",
+        "hombredeverdad_web-03.jpg"
       ],
       "cta": [
         {
@@ -136,7 +136,7 @@
             "name": "Florencia Valdés"
           }
         ]
-      }
+      }                            
     },
     {
       "title": "Paperman Short Film, Alternative Covers",
@@ -153,7 +153,8 @@
       "thumbnails": [
         "paperman_2poster.png",
         "paperman_1poster.png",
-        "veamosquetal.png"
+        "veamosquetal.png",
+        "postersss.png"
 
 
       ],
@@ -287,7 +288,7 @@
       "has_page": false,
       "src": "rcp/project",
       "thumbnails": [
-        "masjunto.png",
+        "cosechadora_web.jpg",
         "cosechadora en persona.png"
       ],
       "cta": [
@@ -548,10 +549,10 @@
       "has_page": false,
       "src": "triada/brochure",
       "thumbnails": [
-        "triadaimagen.png",
-        "triadacosapsd.png",
-        "mockuptriada.png",
-        "triadapartedeatras.png"
+        "triada_web.jpg",
+        "triada_web-02.jpg",
+        "triada_web-04.jpg",
+        "triada_web-03.jpg"
       ],
       "team": {
         "Graphic Design": [
