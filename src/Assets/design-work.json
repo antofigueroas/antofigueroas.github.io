@@ -7,7 +7,7 @@
         "Development of the graphic production for Coaniquem's \"Colecta 2022\" campaign.",
         "Coaniquem is a private non-profit institution, whose main objectives are to rehabilitate children and teenagers with burns and other scars free of charge, being \"Colecta\" the most important source of income for its financing."
       ],
-      "release_year": "2020",
+      "release_year": "2022",
       "release_month": "06",
       "featured": true,
       "has_page": false,
@@ -396,19 +396,21 @@
       }
     },
     {
-      "title": "Triada Social Media Content",
+      "title": "\"Colecta 2023\" by Coaniquem",
       "client": null,
       "description": [
-        "Managed, designed and implemented a brand identity design for the social networks of the meditation center \"Triada\". Based in Santiago, Chile, Triada aspired to become a global facilitator of distance meditation tools.",
-        "The development of this project resulted in several audiovisual creations and social media content design."
+        "Development of the graphic production for Coaniquem's \"Colecta 2023\" campaign.",
+        "Coaniquem is a private non-profit institution, whose main objectives are to rehabilitate children and teenagers with burns and other scars free of charge, being \"Colecta\" the most important source of income for its financing."
       ],
-      "release_year": "2022",
+      "release_year": "2023",
       "release_month": "07",
-      "featured": false,
+      "featured": true,
       "has_page": false,
       "src": "triada/social-media",
       "thumbnails": [
-        "sm definitivo.mp4"
+        "carpetita.png",
+        "quizasahora.png",
+        "videocolecta_02.mp4"
       ],
       "cta": null,
       "team": {
@@ -419,7 +421,7 @@
         ],
         "Client": [
           {
-            "name": "Triada"
+            "name": "Coaniquem"
           }
         ]
       }
@@ -537,22 +539,23 @@
       }
     },
     {
-      "title": "Triada - Brochure",
+      "title": "Triada - Brochure and Social Media Content",
       "client": null,
       "description": [
-        "Information brochure for the meditation center \"Triada\".",
+        "Information brochure and social media content for the meditation center \"Triada\".",
         "This project was done during the internship at Piano&Piano design studio."
       ],
       "release_year": "2021",
       "release_month": "02",
-      "featured": true,
+      "featured": false,
       "has_page": false,
       "src": "triada/brochure",
       "thumbnails": [
         "triada_web.jpg",
         "triada_web-02.jpg",
         "triada_web-04.jpg",
-        "triada_web-03.jpg"
+        "triada_web-03.jpg",
+        "rrsstriada.mp4"
       ],
       "team": {
         "Graphic Design": [
