@@ -73,20 +73,21 @@
       }
     },
     {
-      "title": "Coaniquem BCF",
+      "title": "Coaniquem BCF 2022-2023",
       "client": "Coaniquem BCF by Coaniquem",
       "description": [
         "Graphic and informational content design for Coaniquem BCF's social networks.",
         "Coaniquem BCF is a non-profit organization in the United States. Its mission is to support the work of Coaniquem based in Chile, with special emphasis on international programs."
       ],
-      "release_year": "2022",
+      "release_year": "2023",
       "release_month": "01",
       "featured": true,
       "has_page": false,
       "src": "coaniquem/bcf",
       "thumbnails": [
         "bcf video oficial.mp4",
-        "bcfscreen2.png"
+        "bcfscreen2.png",
+        "2023.mp4"
       ],
       "cta": [
         {
