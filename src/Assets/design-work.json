@@ -53,9 +53,7 @@
       "cta": [
         {
           "title": "See Full Fanzines",
-          "url": "https://drive.google.com/file/d/1U6DycIJttar2uQH2ebyymqe9K6uOiHCt/view?usp=sharing",
-          "target": "_blank"
-          
+          "url": "https://drive.google.com/file/d/1U6DycIJttar2uQH2ebyymqe9K6uOiHCt/view?usp=sharing"
         }
       ],
       "team": {
@@ -94,8 +92,7 @@
       "cta": [
         {
           "title": "About Coaniquem BCF",
-          "url": "https://burnedchildren.org",
-          "target": "_blank"
+          "url": "https://burnedchildren.org"
         }
       ],
       "team": {
@@ -416,7 +413,12 @@
         "quizasahora.png",
         "videocolecta_02.mp4"
       ],
-      "cta": null,
+      "cta": [
+        {
+          "title": "About Coaniquem",
+          "url": "https://coaniquem.cl/es/quienes-somos/"
+        }
+      ],
       "team": {
         "Designer": [
           {
@@ -446,7 +448,12 @@
         "draw1.jpg",
         "draw2.jpg"
       ],
-      "cta": null,
+      "cta": [
+        {
+          "title": "About Virutex",
+          "url": "https://somosvirutex.cl"
+        }
+      ],
       "team": {
         "Program": [
           {
@@ -474,7 +481,12 @@
       "thumbnails": [
         "portadaril2.png"
       ],
-      "cta": null,
+      "cta": [
+        {
+          "title": "Book",
+          "url": "https://rileditores.com/tienda/la-propuesta-posmetafisica-de-rorty-pragmatismo-liberalismo-y-solidaridad/"
+        }
+      ],
       "team": {
         "Editorial Designer": [
           {
