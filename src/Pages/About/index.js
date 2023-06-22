@@ -70,16 +70,16 @@ function About() {
               Resume
             </a>
             {<AccessibilityLabel>.</AccessibilityLabel>} or {" "}
-            <a
+            <a target="_blank"
               href="https://www.linkedin.com/in/antonia-figueroa-sánchez/"
               rel="noopener noreferrer"
             >
               Linkedin
             </a>
-            {<AccessibilityLabel>.</AccessibilityLabel>} (new tab) :-)
+            {<AccessibilityLabel>.</AccessibilityLabel>} :-)
           </p>
           <AccessibilityLabel>
-            <a
+            <a target="_blank"
               href="/resume/Antonia Figueroa_May.pdf"
               rel="noopener noreferrer"
             >
