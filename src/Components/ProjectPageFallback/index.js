@@ -95,7 +95,8 @@ class ProjectPageFallback extends React.PureComponent {
                       <a
                         className="call-to-action"
                         key={i}
-                        href={cta.url}
+                        target="_blank"
+                        href={cta.url} target="_blank"
                         rel="noopener noreferrer"
                       >
                         {cta.title}{" "}
