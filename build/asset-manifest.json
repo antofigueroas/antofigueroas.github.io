@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.a81b2450.css",
-    "main.js": "/static/js/main.a8e4328b.js",
+    "main.css": "/static/css/main.66a081cd.css",
+    "main.js": "/static/js/main.64a55752.js",
     "static/media/videoinstructivo.mp4": "/static/media/videoinstructivo.203cc9f2d7c7628475f2.mp4",
     "static/media/leaf.mp4": "/static/media/leaf.0a1add229eafd2cbc0da.mp4",
     "static/media/fondogrisvideo.mp4": "/static/media/fondogrisvideo.1b089cbb1457f491c0b0.mp4",
@@ -26,9 +26,13 @@
     "static/media/colectacositas.png": "/static/media/colectacositas.6fe97fb40b7b95e1e837.png",
     "static/media/librom30mportafolio.png": "/static/media/librom30mportafolio.9f6e36ae3534630b31f1.png",
     "static/media/paperman_1poster.png": "/static/media/paperman_1poster.66a9392e7a77dfd28525.png",
+    "static/media/tote2.png": "/static/media/tote2.1073535f980fd5bb39a4.png",
     "static/media/mathreciclado.png": "/static/media/mathreciclado.5f77f79582a370caa700.png",
     "static/media/triadaimagen.png": "/static/media/triadaimagen.7f3cc8c4fc23ac13c01e.png",
     "static/media/devices1.png": "/static/media/devices1.d26c196a6905b58ff715.png",
+    "static/media/Totebag en rojo.png": "/static/media/Totebag en rojo.2eb78387f393cfa8136d.png",
+    "static/media/TOTE1.png": "/static/media/TOTE1.25d06da3abda690c4cfb.png",
+    "static/media/masomfe.png": "/static/media/masomfe.bb3e34a33d7a3d822eaf.png",
     "static/media/paperman_2poster.png": "/static/media/paperman_2poster.eadfa6842389bea4468c.png",
     "static/media/gifprociudad.mp4": "/static/media/gifprociudad.8b9bb7a5ab7d3013d5fd.mp4",
     "static/media/postersss.png": "/static/media/postersss.8eac341881a41180b048.png",
@@ -58,6 +62,7 @@
     "static/media/loopminecraft2.webm": "/static/media/loopminecraft2.25a97c4350305443427e.webm",
     "static/media/cosechadora en persona.png": "/static/media/cosechadora en persona.17a3dc9884b0ef0ebd29.png",
     "static/media/cachemo.png": "/static/media/cachemo.5ace15e70c5dfe8f237a.png",
+    "static/media/tote123-01.jpg": "/static/media/tote123-01.9288fc32158fa0ced048.jpg",
     "static/media/pulseras2.png": "/static/media/pulseras2.184b27c45522d70099e9.png",
     "static/media/ciudad.jpg": "/static/media/ciudad.f3addc4beb840d305ee7.jpg",
     "static/media/finiss.png": "/static/media/finiss.6f4aa83798ecc34c869a.png",
@@ -66,6 +71,7 @@
     "static/media/videomascara2.mp4": "/static/media/videomascara2.d9741e09cded7b4848fa.mp4",
     "static/media/devicescolecta.png": "/static/media/devicescolecta.dfec9883b63b34f503b4.png",
     "static/media/libroestudio1.png": "/static/media/libroestudio1.17c80083af63216d2fd2.png",
+    "static/media/pendones-bienestar.png": "/static/media/pendones-bienestar.84e5017382e70c193e14.png",
     "static/media/pulseras1.png": "/static/media/pulseras1.aa62b15b8a8753f2d18f.png",
     "static/media/triada_web.jpg": "/static/media/triada_web.ba9dfa4b770e73159b7c.jpg",
     "static/media/prueba amazon.mp4": "/static/media/prueba amazon.1ab89dec7c54c6fdb100.mp4",
@@ -78,6 +84,8 @@
     "static/media/photoshop tostador.png": "/static/media/photoshop tostador.a14671f86be1212f8c46.png",
     "static/media/amazon oficial.png": "/static/media/amazon oficial.5687e0da79a3afa14829.png",
     "static/media/rrsstriada.mp4": "/static/media/rrsstriada.8a088a81b11523d29182.mp4",
+    "static/media/vistapreviacuaderno.png": "/static/media/vistapreviacuaderno.dadfef0c03b240183919.png",
+    "static/media/Spiral.png": "/static/media/Spiral.3e79dba90468b6a379c8.png",
     "static/media/stickersclaro.png": "/static/media/stickersclaro.88590b7064e8fc282c56.png",
     "static/media/tostitosoficiales.png": "/static/media/tostitosoficiales.76dbaf39e377910c42a0.png",
     "static/media/ellogo.png": "/static/media/ellogo.13c32c3b8c07cc3ed303.png",
@@ -128,11 +136,11 @@
     "static/media/grik loguito prueba 2.png": "/static/media/grik loguito prueba 2.35e8465fb41915735935.png",
     "static/media/kappo-brand-pillars-simplified.png": "/static/media/kappo-brand-pillars-simplified.4a4457d0a417c8c12001.png",
     "index.html": "/index.html",
-    "main.a81b2450.css.map": "/static/css/main.a81b2450.css.map",
-    "main.a8e4328b.js.map": "/static/js/main.a8e4328b.js.map"
+    "main.66a081cd.css.map": "/static/css/main.66a081cd.css.map",
+    "main.64a55752.js.map": "/static/js/main.64a55752.js.map"
   },
   "entrypoints": [
-    "static/css/main.a81b2450.css",
-    "static/js/main.a8e4328b.js"
+    "static/css/main.66a081cd.css",
+    "static/js/main.64a55752.js"
   ]
 }

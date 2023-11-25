@@ -1,7 +1,7 @@
 {
   "DesignWork": [
     {
-      "title": "\"Colecta 2022\" with Coaniquem",
+      "title": "\"Colecta 2022-2023\" with Coaniquem",
       "client": "Coaniquem",
       "description": [
         "Development of the graphic production for Coaniquem's \"Colecta 2022\" campaign.",
@@ -9,14 +9,16 @@
       ],
       "release_year": "2022",
       "release_month": "06",
-      "featured": true,
+      "featured": false,
       "has_page": false,
       "src": "coaniquem/colecta",
       "thumbnails": [
         "devicescolecta.png",
         "stickersclaro.png",
         "standcolecta.jpg",
-        "videoclaro.mp4"
+        "videoclaro.mp4",
+        "graficascolecta.png",
+        "videocolecta_02.mp4"
 
       ],
       "cta": [
@@ -42,7 +44,7 @@
       ],
       "release_year": "2022",
       "release_month": "07",
-      "featured": true,
+      "featured": false,
       "has_page": false,
       "src": "hombre-de-verdad/fanzine",
       "thumbnails": [
@@ -81,7 +83,7 @@
       ],
       "release_year": "2023",
       "release_month": "06",
-      "featured": true,
+      "featured": false,
       "has_page": false,
       "src": "coaniquem/bcf",
       "thumbnails": [
@@ -222,31 +224,6 @@
       "team": null
     },
     {
-      "title": "Tecnogruas, Expomin 2023",
-      "client": "Anonimo Design Studio",
-      "description": [
-        "Business cards, brochure and silicone bracelets for \"Tecnogruas\" for ExpoMin 2023."
-      ],
-      "release_year": "2023",
-      "release_month": "03",
-      "featured": false,
-      "has_page": false,
-      "src": "m30m/portadas",
-      "thumbnails": [
-        "tarjetas1.png",
-        "pulseras3.png",
-        "tecno2.png"
-      ],
-      "cta": null,
-      "team":    {
-        "Graphic Design": [
-          {
-            "name": "Antonia Figueroa"
-          }
-        ]
-      }
-    },
-    {
       "title": "Ciudad de Dios, Cinematographic Imaginaries",
       "client": null,
       "description": [
@@ -255,7 +232,7 @@
       ],
       "release_year": "2020",
       "release_month": "12",
-      "featured": true,
+      "featured": false,
       "has_page": false,
       "src": "ciudad-de-dios",
       "thumbnails": [
@@ -285,7 +262,7 @@
       ],
       "release_year": "2019",
       "release_month": "08",
-      "featured": true,
+      "featured": false,
       "has_page": false,
       "src": "rcp/project",
       "thumbnails": [
@@ -374,49 +351,21 @@
       }
     },
     {
-      "title": "Organ Donation Data Visualization",
+      "title": "UANDES: Christmas themed Totebag",
       "client": null,
-      "description": [
-        "Easy-to-read infographic on multiple aspects of organ donation in Chile. Through the use of five transparent and individual micas, detailed information is presented on the most relevant organs for each topic."
-      ],
-      "release_year": "2020",
-      "release_month": "06",
-      "featured": false,
-      "has_page": false,
-      "src": "organ/infographic",
-      "thumbnails": [
-        "trans1.jpg",
-        "trans2.jpg"
-      ],
-      "team": {
-        "Graphic Design": [
-          {
-            "name": "Antonia Figueroa"
-          }
-        ]
-      }
-    },
-    {
-      "title": "\"Colecta 2023\" by Coaniquem",
-      "client": null,
-      "description": [
-        "Development of the graphic production for Coaniquem's \"Colecta 2023\" campaign.",
-        "Coaniquem is a private non-profit institution, whose main objectives are to rehabilitate children and teenagers with burns and other scars free of charge, being \"Colecta\" the most important source of income for its financing."
-      ],
+      "description": null,
       "release_year": "2023",
-      "release_month": "07",
+      "release_month": "11",
       "featured": true,
       "has_page": false,
-      "src": "triada/social-media",
+      "src": "uandes-navidad",
       "thumbnails": [
-        "carpetita.png",
-        "quizasahora.png",
-        "videocolecta_02.mp4"
+        "masomfe.png"
       ],
       "cta": [
         {
-          "title": "About Coaniquem",
-          "url": "https://coaniquem.cl/es/quienes-somos/"
+          "title": "About Universidad de los Andes",
+          "url": "https://www.uandes.cl/"
         }
       ],
       "team": {
@@ -427,7 +376,7 @@
         ],
         "Client": [
           {
-            "name": "Coaniquem"
+            "name": "Universidad de los Andes"
           }
         ]
       }
@@ -441,7 +390,7 @@
       ],
       "release_year": "2019",
       "release_month": "05",
-      "featured": true,
+      "featured": false,
       "has_page": false,
       "src": "virutex",
       "thumbnails": [
@@ -475,7 +424,7 @@
       ],
       "release_year": "2023",
       "release_month": "03",
-      "featured": true,
+      "featured": false,
       "has_page": false,
       "src": "coaniquem/sellosinusoide",
       "thumbnails": [
@@ -582,6 +531,64 @@
         "Client": [
           {
             "name": "Triada"
+          }
+        ]
+      }
+    },
+    {
+      "title": "UANDES Notebook",
+      "client": null,
+      "description": null,
+      "release_year": "2023",
+      "release_month": "11",
+      "featured": true,
+      "has_page": false,
+      "src": "uandes-notebook",
+      "thumbnails": [
+        "Spiral.png"
+      ],
+      "cta": [
+        {
+          "title": "About Universidad de los Andes",
+          "url": "https://www.uandes.cl/"
+        }
+      ],
+      "team": {
+        "Graphic Design": [
+          {
+            "name": "Antonia Figueroa"
+          }
+        ],
+        "Client": [
+          {
+            "name": "Universidad de los Andes"
+          }
+        ]
+      }
+    },
+    {
+      "title": "UANDES Banners",
+      "client": "Universidad de los Andes",
+      "description": [
+      ],
+      "release_year": "2023",
+      "release_month": "07",
+      "featured": false,
+      "has_page": false,
+      "src": "banners-uandes",
+      "thumbnails": [
+        "pendones-bienestar.png"
+      ],
+      "cta": [
+        {
+          "title": "About Universidad de los Andes",
+          "url": "https://www.uandes.cl/"
+        }
+      ],
+      "team": {
+        "Graphic Design": [
+          {
+            "name": "Antonia Figueroa"
           }
         ]
       }
