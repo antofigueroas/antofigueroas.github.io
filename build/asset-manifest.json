@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.66a081cd.css",
-    "main.js": "/static/js/main.64a55752.js",
+    "main.css": "/static/css/main.5cc45326.css",
+    "main.js": "/static/js/main.2ac248fb.js",
     "static/media/videoinstructivo.mp4": "/static/media/videoinstructivo.203cc9f2d7c7628475f2.mp4",
     "static/media/leaf.mp4": "/static/media/leaf.0a1add229eafd2cbc0da.mp4",
     "static/media/fondogrisvideo.mp4": "/static/media/fondogrisvideo.1b089cbb1457f491c0b0.mp4",
@@ -36,6 +36,7 @@
     "static/media/paperman_2poster.png": "/static/media/paperman_2poster.eadfa6842389bea4468c.png",
     "static/media/gifprociudad.mp4": "/static/media/gifprociudad.8b9bb7a5ab7d3013d5fd.mp4",
     "static/media/postersss.png": "/static/media/postersss.8eac341881a41180b048.png",
+    "static/media/postcards.png": "/static/media/postcards.0d6af1b0c1a0992fa7f6.png",
     "static/media/minecraft3imagen.png": "/static/media/minecraft3imagen.a4e66246806f45a80010.png",
     "static/media/libritoabierto.png": "/static/media/libritoabierto.6be119195764f3fd1015.png",
     "static/media/videocolecta_02.mp4": "/static/media/videocolecta_02.5c37b1b73fa18dec5da9.mp4",
@@ -47,6 +48,7 @@
     "static/media/cdd3.gif": "/static/media/cdd3.23a3b35a4d66be7d99ba.gif",
     "static/media/stickerscolecta.png": "/static/media/stickerscolecta.245742d21597e63cf462.png",
     "static/media/veamosito.png": "/static/media/veamosito.e57edd108151be5735cf.png",
+    "static/media/wifiuandes.png": "/static/media/wifiuandes.17dfe12f7e2ce33f3d75.png",
     "static/media/triadacosapsd.png": "/static/media/triadacosapsd.5712a0d5d1d88197cae2.png",
     "static/media/minecraft brochure con luces.png": "/static/media/minecraft brochure con luces.bcf7ff1f4874e4399b40.png",
     "static/media/bcfahorasi.png": "/static/media/bcfahorasi.c7763209fac09144b94c.png",
@@ -59,12 +61,14 @@
     "static/media/guia1matematicas_Mesa de trabajo 1.png": "/static/media/guia1matematicas_Mesa de trabajo 1.e12b3e33a936fa39aa9f.png",
     "static/media/cosecha.png": "/static/media/cosecha.00284e3d3b74a4b40cf1.png",
     "static/media/RCP19video.mp4": "/static/media/RCP19video.d4333c66bfc9c9a989ad.mp4",
+    "static/media/minibanners.png": "/static/media/minibanners.827032403902870bb53e.png",
     "static/media/loopminecraft2.webm": "/static/media/loopminecraft2.25a97c4350305443427e.webm",
     "static/media/cosechadora en persona.png": "/static/media/cosechadora en persona.17a3dc9884b0ef0ebd29.png",
     "static/media/cachemo.png": "/static/media/cachemo.5ace15e70c5dfe8f237a.png",
     "static/media/tote123-01.jpg": "/static/media/tote123-01.9288fc32158fa0ced048.jpg",
     "static/media/pulseras2.png": "/static/media/pulseras2.184b27c45522d70099e9.png",
     "static/media/ciudad.jpg": "/static/media/ciudad.f3addc4beb840d305ee7.jpg",
+    "static/media/campussalusable.png": "/static/media/campussalusable.f16d4339a9b13f98a3f8.png",
     "static/media/finiss.png": "/static/media/finiss.6f4aa83798ecc34c869a.png",
     "static/media/bcfscreen2.png": "/static/media/bcfscreen2.0732e9a0806c3c9150be.png",
     "static/media/finis.png": "/static/media/finis.cbd7d8f490197307ff35.png",
@@ -136,11 +140,11 @@
     "static/media/grik loguito prueba 2.png": "/static/media/grik loguito prueba 2.35e8465fb41915735935.png",
     "static/media/kappo-brand-pillars-simplified.png": "/static/media/kappo-brand-pillars-simplified.4a4457d0a417c8c12001.png",
     "index.html": "/index.html",
-    "main.66a081cd.css.map": "/static/css/main.66a081cd.css.map",
-    "main.64a55752.js.map": "/static/js/main.64a55752.js.map"
+    "main.5cc45326.css.map": "/static/css/main.5cc45326.css.map",
+    "main.2ac248fb.js.map": "/static/js/main.2ac248fb.js.map"
   },
   "entrypoints": [
-    "static/css/main.66a081cd.css",
-    "static/js/main.64a55752.js"
+    "static/css/main.5cc45326.css",
+    "static/js/main.2ac248fb.js"
   ]
 }

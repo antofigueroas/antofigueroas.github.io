@@ -1,24 +1,21 @@
 {
   "DesignWork": [
     {
-      "title": "\"Colecta 2022-2023\" with Coaniquem",
+      "title": "\"Colecta\" 2022 and 2023 campaign",
       "client": "Coaniquem",
       "description": [
-        "Development of the graphic production for Coaniquem's \"Colecta 2022\" campaign.",
+        "Graphic production development for Coaniquem's 'Colecta' campaign over the course of two years.",
         "Coaniquem is a private non-profit institution, whose main objectives are to rehabilitate children and teenagers with burns and other scars free of charge, being \"Colecta\" the most important source of income for its financing."
       ],
       "release_year": "2022",
       "release_month": "06",
-      "featured": false,
+      "featured": true,
       "has_page": false,
       "src": "coaniquem/colecta",
       "thumbnails": [
         "devicescolecta.png",
         "stickersclaro.png",
-        "standcolecta.jpg",
-        "videoclaro.mp4",
-        "graficascolecta.png",
-        "videocolecta_02.mp4"
+        "standcolecta.jpg"
 
       ],
       "cta": [
@@ -156,8 +153,7 @@
       "thumbnails": [
         "paperman_2poster.png",
         "paperman_1poster.png",
-        "veamosquetal.png",
-        "postersss.png"
+        "veamosquetal.png"
 
 
       ],
@@ -227,8 +223,8 @@
       "title": "Ciudad de Dios, Cinematographic Imaginaries",
       "client": null,
       "description": [
-        "This project represents the collective imaginary of the Brazilian favela in the movie Ciudad de Dios, which shows an approach to the criminal world in Rio de Janeiro.",
-        "Based on an analysis of the film, elements that build the identity of the favela and illustrate the vulnerability of its reality were used for the project."
+        "This project encapsulates the collective imagination of the Brazilian favela as portrayed in the film 'Ciudad de Dios,' offering an exploration into the criminal underworld of Rio de Janeiro.",
+        " Drawing from an analysis of the film, the project incorporates elements that shape the identity of the favela, vividly illustrating the vulnerability inherent in its reality."
       ],
       "release_year": "2020",
       "release_month": "12",
@@ -504,38 +500,6 @@
       }
     },
     {
-      "title": "Triada - Brochure and Social Media Content",
-      "client": null,
-      "description": [
-        "Information brochure and social media content for the meditation center \"Triada\".",
-        "This project was done during the internship at Piano&Piano design studio."
-      ],
-      "release_year": "2021",
-      "release_month": "02",
-      "featured": false,
-      "has_page": false,
-      "src": "triada/brochure",
-      "thumbnails": [
-        "triada_web.jpg",
-        "triada_web-02.jpg",
-        "triada_web-04.jpg",
-        "triada_web-03.jpg",
-        "rrsstriada.mp4"
-      ],
-      "team": {
-        "Graphic Design": [
-          {
-            "name": "Antonia Figueroa"
-          }
-        ],
-        "Client": [
-          {
-            "name": "Triada"
-          }
-        ]
-      }
-    },
-    {
       "title": "UANDES Notebook",
       "client": null,
       "description": null,
@@ -567,16 +531,51 @@
       }
     },
     {
+      "title": "UANDES Doctoral Programs - Brochure",
+      "client": null,
+      "description": null,
+      "release_year": "2023",
+      "release_month": "08",
+      "featured": false,
+      "has_page": false,
+      "src": "uandes-postcards",
+      "thumbnails": [
+        "triptico2.png",
+        "tripticoparteinterior.png"
+      ],
+      "cta": [
+        {
+          "title": "About Universidad de los Andes",
+          "url": "https://www.uandes.cl/"
+        }
+      ],
+      "team": {
+        "Graphic Design": [
+          {
+            "name": "Antonia Figueroa"
+          }
+        ],
+        "Client": [
+          {
+            "name": "Universidad de los Andes"
+          }
+        ]
+      }
+    },
+    {
       "title": "UANDES Banners",
       "client": "Universidad de los Andes",
       "description": [
+        "Multiple banners for Universidad de los Andes, including promotional and informational designs for events and departments."
       ],
       "release_year": "2023",
       "release_month": "07",
-      "featured": false,
+      "featured": true,
       "has_page": false,
       "src": "banners-uandes",
       "thumbnails": [
+        "minibanners.png",
+        "campussalusable.png",
         "pendones-bienestar.png"
       ],
       "cta": [
