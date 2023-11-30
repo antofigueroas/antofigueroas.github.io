@@ -347,7 +347,7 @@
       }
     },
     {
-      "title": "UANDES: Christmas themed Totebag",
+      "title": "UANDES: Christmas Campaign 2023",
       "client": null,
       "description": null,
       "release_year": "2023",
@@ -356,7 +356,8 @@
       "has_page": false,
       "src": "uandes-navidad",
       "thumbnails": [
-        "masomfe.png"
+        "masomfe.png",
+        "parantenavidad.png"
       ],
       "cta": [
         {
@@ -523,10 +524,15 @@
             "name": "Antonia Figueroa"
           }
         ],
-        "Client": [
+        "Illustrator": [
           {
-            "name": "Universidad de los Andes"
+            "name": "Dirección de Cultura Corporativa UANDES"
           }
+        ],
+          "Client": [
+            {
+              "name": "Universidad de los Andes"
+            }
         ]
       }
     },
