@@ -41,7 +41,7 @@
       ],
       "release_year": "2022",
       "release_month": "07",
-      "featured": false,
+      "featured": true,
       "has_page": false,
       "src": "hombre-de-verdad/fanzine",
       "thumbnails": [
@@ -442,10 +442,10 @@
       }
     },
     {
-      "title": "Medical School, Finis Terrae - Covers",
+      "title": "Finis Terrae's Medical School",
       "client": null,
       "description": [
-        "Design of a collection of workshop front and back covers."
+        ""
       ],
       "release_year": "2021",
       "release_month": "02",
@@ -457,7 +457,12 @@
         "finiss.png",
         "finis.png"
       ],
-      "cta": null,
+      "cta": [
+        {
+          "title": "About Finis Terrae University",
+          "url": "https://uft.cl/"
+        }
+      ],
       "team": {
         "Graphic Design": [
           {
@@ -466,7 +471,7 @@
         ],
         "Client": [
           {
-            "name": "Finis Terrae's Medical School"
+            "name": "Finis Terrae's University"
           }
         ]
       }
@@ -497,42 +502,6 @@
           {
             "name": "Antonia Figueroa"
           }
-        ]
-      }
-    },
-    {
-      "title": "UANDES Notebook",
-      "client": null,
-      "description": null,
-      "release_year": "2023",
-      "release_month": "11",
-      "featured": true,
-      "has_page": false,
-      "src": "uandes-notebook",
-      "thumbnails": [
-        "Spiral.png"
-      ],
-      "cta": [
-        {
-          "title": "About Universidad de los Andes",
-          "url": "https://www.uandes.cl/"
-        }
-      ],
-      "team": {
-        "Graphic Design": [
-          {
-            "name": "Antonia Figueroa"
-          }
-        ],
-        "Illustrator": [
-          {
-            "name": "Dirección de Cultura Corporativa UANDES"
-          }
-        ],
-          "Client": [
-            {
-              "name": "Universidad de los Andes"
-            }
         ]
       }
     },
