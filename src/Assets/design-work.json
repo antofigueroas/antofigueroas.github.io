@@ -196,6 +196,38 @@
       }
     },
     {
+      "title": "Triada - Brochure and Social Media Content",
+      "client": null,
+      "description": [
+        "Information brochure and social media content for the meditation center \"Triada\".",
+        "This project was done during the internship at Piano&Piano design studio."
+      ],
+      "release_year": "2021",
+      "release_month": "02",
+      "featured": true,
+      "has_page": false,
+      "src": "triada/brochure",
+      "thumbnails": [
+        "triada_web.jpg",
+        "triada_web-02.jpg",
+        "triada_web-04.jpg",
+        "triada_web-03.jpg",
+        "rrsstriada.mp4"
+      ],
+      "team": {
+        "Graphic Design": [
+          {
+            "name": "Antonia Figueroa"
+          }
+        ],
+        "Client": [
+          {
+            "name": "Triada"
+          }
+        ]
+      }
+    },
+    {
       "title": "Minecraft Nether Update Infographic",
       "client": null,
       "description": [
