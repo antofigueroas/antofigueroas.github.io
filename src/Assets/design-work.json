@@ -538,6 +538,34 @@
       }
     },
     {
+      "title": "Amundsen Cafe",
+      "client": null,
+      "description": null,
+      "release_year": "2024",
+      "release_month": "03",
+      "featured": true,
+      "has_page": false,
+      "src": "amundsen",
+      "thumbnails": [
+        "tote.png",
+        "amundsendas.png",
+        "ventanita.png"
+      ],
+      "cta": null,
+      "team": {
+        "Graphic Design": [
+          {
+            "name": "Antonia Figueroa"
+          }
+        ],
+        "Client": [
+          {
+            "name": "Amundsen Cafe"
+          }
+        ]
+      }
+    },
+    {
       "title": "UANDES Doctoral Programs - Brochure",
       "client": null,
       "description": null,

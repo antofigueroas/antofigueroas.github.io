@@ -6,7 +6,7 @@ import AccessibilityLabel from "../../Components/AccessibilityLabel";
 import "./index.scss";
 
 function About() {
-  const Age = "24";
+  const Age = "25";
 
   return (
     <Fragment>
