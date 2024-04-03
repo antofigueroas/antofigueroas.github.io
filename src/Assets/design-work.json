@@ -549,7 +549,7 @@
       "thumbnails": [
         "tote.png",
         "amundsendas.png",
-        "ventanita.png"
+        "ventanita.png"  
       ],
       "cta": null,
       "team": {
@@ -609,6 +609,7 @@
       "has_page": false,
       "src": "banners-uandes",
       "thumbnails": [
+        "hihihihi.png",
         "minibanners.png",
         "campussalusable.png",
         "pendones-bienestar.png"
