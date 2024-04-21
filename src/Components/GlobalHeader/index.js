@@ -205,7 +205,7 @@ class GlobalHeader extends React.PureComponent {
               <li>
                 <a
                   className="nav-item"
-                  href="/resume/Antonia Figueroa_May.pdf"
+                  href="/resume/Antonia Figueroa_CV.pdf"
                   rel="noopener noreferrer"
                 >
                   Resume
