@@ -538,6 +538,45 @@
       }
     },
     {
+      "title": "Logo and Visual Identity Design - Persia Motorsport",
+      "client": "Persia Motorsport",
+      "description": [
+        "This project showcases the development of comprehensive branding and stationary designs for Persia Motorsport. It encompasses the creation of the logo and the establishment of visual identities that resonate with the essence and values of the brand."
+      ],
+      "release_year": "2024",
+      "release_month": "05",
+      "featured": true,
+      "has_page": false,
+      "src": "persia",
+      "thumbnails": [
+        "cartas persia.png",
+        "Lanyard_Mockup_1dasdsa.png",
+        "bolsita.png",
+        "bolsinana.png",
+        "cajinas.png",
+        "tarjetete.png",
+        "compupu.png"
+      ],
+      "cta": [
+        {
+          "title": "About Persia Motorsport",
+          "url": "https://www.instagram.com/persiamotorsport/"
+        }
+      ],
+      "team": {
+        "Graphic Design": [
+          {
+            "name": "Antonia Figueroa"
+          }
+        ],
+        "Client": [
+          {
+            "name": "Dopamine Works"
+          }
+        ]
+      }
+    },
+    {
       "title": "Amundsen Cafe",
       "client": null,
       "description": null,

@@ -1,15 +1,19 @@
 {
   "files": {
     "main.css": "/static/css/main.66a081cd.css",
-    "main.js": "/static/js/main.84003bb7.js",
+    "main.js": "/static/js/main.a547a591.js",
     "static/media/videoinstructivo.mp4": "/static/media/videoinstructivo.203cc9f2d7c7628475f2.mp4",
     "static/media/leaf.mp4": "/static/media/leaf.0a1add229eafd2cbc0da.mp4",
     "static/media/fondogrisvideo.mp4": "/static/media/fondogrisvideo.1b089cbb1457f491c0b0.mp4",
+    "static/media/bolsinana.png": "/static/media/bolsinana.cacf2cec3d3969c4f6b8.png",
+    "static/media/cajinas.png": "/static/media/cajinas.f84b243ae5a8f91c3a64.png",
     "static/media/videoclaro.mp4": "/static/media/videoclaro.9ad30e801a645a2e04d7.mp4",
     "static/media/masjunto.png": "/static/media/masjunto.9342c1cd6d42693115be.png",
     "static/media/tote.png": "/static/media/tote.feb4eea986a59c1f978d.png",
     "static/media/permancito.png": "/static/media/permancito.221b0ba3369aeda82aea.png",
+    "static/media/bolsita.png": "/static/media/bolsita.9c7a70518a73007b509c.png",
     "static/media/videitoilkooficial.mp4": "/static/media/videitoilkooficial.62b3cabff3afad24754e.mp4",
+    "static/media/cartas persia.png": "/static/media/cartas persia.07a25c4c173c21271035.png",
     "static/media/hihihihi.png": "/static/media/hihihihi.5fcf3c3c876e8249ca06.png",
     "static/media/Brochure Inner Page Mockup.png": "/static/media/Brochure Inner Page Mockup.48dc5f591b2ac7c08279.png",
     "static/media/2023.mp4": "/static/media/2023.fd79d6ce4e01cee0d920.mp4",
@@ -18,6 +22,7 @@
     "static/media/videocampo1.mp4": "/static/media/videocampo1.811fa57196fce67aa91a.mp4",
     "static/media/aberoficial.png": "/static/media/aberoficial.9a6598e3af5dbe541043.png",
     "static/media/pulseras3.png": "/static/media/pulseras3.81fcd79c6b75d7822910.png",
+    "static/media/tarjetete.png": "/static/media/tarjetete.27c1295514f139015335.png",
     "static/media/bcf video oficial.mp4": "/static/media/bcf video oficial.f0625bc9e2ab6ef81f82.mp4",
     "static/media/tarjetas1.png": "/static/media/tarjetas1.955b5797bc33ff27a169.png",
     "static/media/ts1.png": "/static/media/ts1.6be8682c068e76ba863d.png",
@@ -64,6 +69,7 @@
     "static/media/tecno2.png": "/static/media/tecno2.c412ee129d11c65c5de5.png",
     "static/media/finisabierto.png": "/static/media/finisabierto.177b04f0bc6709865146.png",
     "static/media/abiertos.png": "/static/media/abiertos.20475a729aa261f1d53f.png",
+    "static/media/manual2.png": "/static/media/manual2.afe763d7c4a9f70d3975.png",
     "static/media/guia1matematicas_Mesa de trabajo 1.png": "/static/media/guia1matematicas_Mesa de trabajo 1.e12b3e33a936fa39aa9f.png",
     "static/media/cosecha.png": "/static/media/cosecha.00284e3d3b74a4b40cf1.png",
     "static/media/RCP19video.mp4": "/static/media/RCP19video.d4333c66bfc9c9a989ad.mp4",
@@ -71,6 +77,7 @@
     "static/media/loopminecraft2.webm": "/static/media/loopminecraft2.25a97c4350305443427e.webm",
     "static/media/cosechadora en persona.png": "/static/media/cosechadora en persona.17a3dc9884b0ef0ebd29.png",
     "static/media/cachemo.png": "/static/media/cachemo.5ace15e70c5dfe8f237a.png",
+    "static/media/manuldit.png": "/static/media/manuldit.6e24fab01f5523d43105.png",
     "static/media/tote123-01.jpg": "/static/media/tote123-01.9288fc32158fa0ced048.jpg",
     "static/media/pulseras2.png": "/static/media/pulseras2.184b27c45522d70099e9.png",
     "static/media/ciudad.jpg": "/static/media/ciudad.f3addc4beb840d305ee7.jpg",
@@ -85,6 +92,7 @@
     "static/media/pendones-bienestar.png": "/static/media/pendones-bienestar.84e5017382e70c193e14.png",
     "static/media/pulseras1.png": "/static/media/pulseras1.aa62b15b8a8753f2d18f.png",
     "static/media/triada_web.jpg": "/static/media/triada_web.ba9dfa4b770e73159b7c.jpg",
+    "static/media/compupu.png": "/static/media/compupu.5502cfcaa20ab3dd31a6.png",
     "static/media/prueba amazon.mp4": "/static/media/prueba amazon.1ab89dec7c54c6fdb100.mp4",
     "static/media/amazon coaniquem.png": "/static/media/amazon coaniquem.bfeb73ec23955bbc75c7.png",
     "static/media/tostitosoficiales2.png": "/static/media/tostitosoficiales2.8cba47be3e12a51105bc.png",
@@ -109,6 +117,7 @@
     "static/media/ciudad de dios panfleto.jpg": "/static/media/ciudad de dios panfleto.a9f39b4b561cb180d557.jpg",
     "static/media/detalles organos.png": "/static/media/detalles organos.a6b98dafcc31c9ee3494.png",
     "static/media/hombredeverdad_web.jpg": "/static/media/hombredeverdad_web.e264d1a99171e90c177f.jpg",
+    "static/media/Lanyard_Mockup_1dasdsa.png": "/static/media/Lanyard_Mockup_1dasdsa.7b57b29849f64467c32a.png",
     "static/media/textos.png": "/static/media/textos.df76d6dbd6709568ba4a.png",
     "static/media/triada_web-03.jpg": "/static/media/triada_web-03.33d72678b72847dac8d7.jpg",
     "static/media/quizasahora.png": "/static/media/quizasahora.e5cb16045bd2202ae85e.png",
@@ -155,10 +164,10 @@
     "static/media/kappo-brand-pillars-simplified.png": "/static/media/kappo-brand-pillars-simplified.4a4457d0a417c8c12001.png",
     "index.html": "/index.html",
     "main.66a081cd.css.map": "/static/css/main.66a081cd.css.map",
-    "main.84003bb7.js.map": "/static/js/main.84003bb7.js.map"
+    "main.a547a591.js.map": "/static/js/main.a547a591.js.map"
   },
   "entrypoints": [
     "static/css/main.66a081cd.css",
-    "static/js/main.84003bb7.js"
+    "static/js/main.a547a591.js"
   ]
 }
