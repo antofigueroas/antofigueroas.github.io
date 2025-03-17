@@ -18,7 +18,8 @@
     "sass": "^1.55.0"
   },
   "engines": {
-    "node": ">=18.0.0 <23.0.0"
+    "node": "18.x",
+    "yarn": "1.x"
   },
   "scripts": {
     "predeploy": "yarn run build",
