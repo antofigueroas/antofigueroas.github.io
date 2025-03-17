@@ -9,7 +9,7 @@
       ],
       "release_year": "2022",
       "release_month": "06",
-      "featured": true,
+      "featured": false,
       "has_page": false,
       "src": "coaniquem/colecta",
       "thumbnails": [
@@ -41,7 +41,7 @@
       ],
       "release_year": "2022",
       "release_month": "07",
-      "featured": true,
+      "featured": false,
       "has_page": false,
       "src": "hombre-de-verdad/fanzine",
       "thumbnails": [
@@ -147,7 +147,7 @@
       ],
       "release_year": "2020",
       "release_month": "06",
-      "featured": true,
+      "featured": false,
       "has_page": false,
       "src": "paperman",
       "thumbnails": [
@@ -204,7 +204,7 @@
       ],
       "release_year": "2021",
       "release_month": "02",
-      "featured": true,
+      "featured": false,
       "has_page": false,
       "src": "triada/brochure",
       "thumbnails": [
@@ -335,7 +335,7 @@
       ],
       "release_year": "2020",
       "release_month": "03",
-      "featured": true,
+      "featured": false,
       "has_page": false,
       "src": "yo-pongo-la-cara",
       "thumbnails": [
@@ -384,7 +384,7 @@
       "description": null,
       "release_year": "2023",
       "release_month": "11",
-      "featured": true,
+      "featured": false,
       "has_page": false,
       "src": "uandes-navidad",
       "thumbnails": [
@@ -545,7 +545,7 @@
       ],
       "release_year": "2024",
       "release_month": "05",
-      "featured": true,
+      "featured": false,
       "has_page": false,
       "src": "persia",
       "thumbnails": [
@@ -577,6 +577,42 @@
       }
     },
     {
+      "title": "Clinica Elements - Rebranding",
+      "client": "Persia Motorsport",
+      "description": [
+        "This project showcases the development of comprehensive branding and stationary designs for Clinica Elements. It encompasses the creation of the logo and the establishment of visual identities that resonate with the essence and values of the brand."
+      ],
+      "release_year": "2025",
+      "release_month": "01",
+      "featured": true,
+      "has_page": false,
+      "src": "clinicaelements",
+      "thumbnails": [
+        "letreroclinica.png",
+        "cajas clinica.png",
+        "cajasclinica2.png",
+        "letreroclinica3.png"
+      ],
+      "cta": [
+        {
+          "title": "About Persia Motorsport",
+          "url": "https://www.instagram.com/persiamotorsport/"
+        }
+      ],
+      "team": {
+        "Graphic Design": [
+          {
+            "name": "Antonia Figueroa"
+          }
+        ],
+        "Client": [
+          {
+            "name": "Dopamine Works"
+          }
+        ]
+      }
+    },
+    {
       "title": "Amundsen Cafe",
       "client": null,
       "description": null,
@@ -587,7 +623,9 @@
       "src": "amundsen",
       "thumbnails": [
         "tote.png",
-        "amundsendas.png"
+        "cartelino.png",
+        "menucito.png",
+        "menu_largo.png"
       ],
       "cta": null,
       "team": {
@@ -599,6 +637,63 @@
         "Client": [
           {
             "name": "Amundsen Cafe"
+          }
+        ]
+      }
+    },
+    {
+      "title": "Hoop Branding",
+      "client": null,
+      "description": null,
+      "release_year": "2024",
+      "release_month": "03",
+      "featured": false,
+      "has_page": false,
+      "src": "hoop",
+      "thumbnails": [
+        "hoop-01.png",
+        "hoop-02.png",
+        "hoop-03.png"
+      ],
+      "cta": null,
+      "team": {
+        "Graphic Design": [
+          {
+            "name": "Antonia Figueroa"
+          }
+        ],
+        "Client": [
+          {
+            "name": "Hoop Accesorios @hoop.cl"
+          }
+        ]
+      }
+    },
+    {
+      "title": "EasyRoomie - Presentation and Prototype Animation",
+      "client": null,
+      "description": [
+        "Easy roomie is an application that facilitates contact between users in order to find roommates.",
+        "It was designed a presentation for investors during the UDD New Business Creation Seminar and the prototype animations."
+      ],
+      "release_year": "2024",
+      "release_month": "10",
+      "featured": true,
+      "has_page": false,
+      "src": "easyroomie",
+      "thumbnails": [
+        "easyroomie1.png"
+      ],
+      "cta": null,
+      "team": {
+        "Graphic Design": [
+          {
+            "name": "Antonia Figueroa"
+          }
+        ],
+        "Client": [
+          {
+            "name": "Private"
           }
         ]
       }
@@ -643,7 +738,7 @@
       ],
       "release_year": "2023",
       "release_month": "07",
-      "featured": true,
+      "featured": false,
       "has_page": false,
       "src": "banners-uandes",
       "thumbnails": [

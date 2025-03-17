@@ -1,10 +1,13 @@
 {
   "files": {
     "main.css": "/static/css/main.66a081cd.css",
-    "main.js": "/static/js/main.a547a591.js",
+    "main.js": "/static/js/main.7a9114d6.js",
     "static/media/videoinstructivo.mp4": "/static/media/videoinstructivo.203cc9f2d7c7628475f2.mp4",
     "static/media/leaf.mp4": "/static/media/leaf.0a1add229eafd2cbc0da.mp4",
     "static/media/fondogrisvideo.mp4": "/static/media/fondogrisvideo.1b089cbb1457f491c0b0.mp4",
+    "static/media/menucito.png": "/static/media/menucito.19a13961ca1d0b2c7b86.png",
+    "static/media/letreroclinica.png": "/static/media/letreroclinica.ac3fd6c6d1694966928e.png",
+    "static/media/letreroclinica2.png": "/static/media/letreroclinica2.e9b83a115a96fd331b6f.png",
     "static/media/bolsinana.png": "/static/media/bolsinana.cacf2cec3d3969c4f6b8.png",
     "static/media/cajinas.png": "/static/media/cajinas.f84b243ae5a8f91c3a64.png",
     "static/media/videoclaro.mp4": "/static/media/videoclaro.9ad30e801a645a2e04d7.mp4",
@@ -12,16 +15,22 @@
     "static/media/tote.png": "/static/media/tote.feb4eea986a59c1f978d.png",
     "static/media/permancito.png": "/static/media/permancito.221b0ba3369aeda82aea.png",
     "static/media/bolsita.png": "/static/media/bolsita.9c7a70518a73007b509c.png",
+    "static/media/cajasclinica2.png": "/static/media/cajasclinica2.b6c5b1a9cf9fa73a8fb6.png",
+    "static/media/cajas clinica.png": "/static/media/cajas clinica.5e22d42d8d226927c33c.png",
     "static/media/videitoilkooficial.mp4": "/static/media/videitoilkooficial.62b3cabff3afad24754e.mp4",
     "static/media/cartas persia.png": "/static/media/cartas persia.07a25c4c173c21271035.png",
     "static/media/hihihihi.png": "/static/media/hihihihi.5fcf3c3c876e8249ca06.png",
+    "static/media/menu_largo.png": "/static/media/menu_largo.1aa69b023531204b437d.png",
+    "static/media/cartelinos.png": "/static/media/cartelinos.94aed85dc6a2b10ec226.png",
     "static/media/Brochure Inner Page Mockup.png": "/static/media/Brochure Inner Page Mockup.48dc5f591b2ac7c08279.png",
     "static/media/2023.mp4": "/static/media/2023.fd79d6ce4e01cee0d920.mp4",
     "static/media/ilko2ipad.mp4": "/static/media/ilko2ipad.4ed4e727e419166badd4.mp4",
+    "static/media/cartelino.png": "/static/media/cartelino.ddf8c8719246f798e3aa.png",
     "static/media/4 ipads tostador.mp4": "/static/media/4 ipads tostador.e95f714635dc2fe338aa.mp4",
     "static/media/videocampo1.mp4": "/static/media/videocampo1.811fa57196fce67aa91a.mp4",
     "static/media/aberoficial.png": "/static/media/aberoficial.9a6598e3af5dbe541043.png",
     "static/media/pulseras3.png": "/static/media/pulseras3.81fcd79c6b75d7822910.png",
+    "static/media/letreroclinica3.png": "/static/media/letreroclinica3.026279b0c7f217866cd7.png",
     "static/media/tarjetete.png": "/static/media/tarjetete.27c1295514f139015335.png",
     "static/media/bcf video oficial.mp4": "/static/media/bcf video oficial.f0625bc9e2ab6ef81f82.mp4",
     "static/media/tarjetas1.png": "/static/media/tarjetas1.955b5797bc33ff27a169.png",
@@ -74,6 +83,7 @@
     "static/media/cosecha.png": "/static/media/cosecha.00284e3d3b74a4b40cf1.png",
     "static/media/RCP19video.mp4": "/static/media/RCP19video.d4333c66bfc9c9a989ad.mp4",
     "static/media/minibanners.png": "/static/media/minibanners.827032403902870bb53e.png",
+    "static/media/hoop-01.png": "/static/media/hoop-01.814f6406e0c005cc494d.png",
     "static/media/loopminecraft2.webm": "/static/media/loopminecraft2.25a97c4350305443427e.webm",
     "static/media/cosechadora en persona.png": "/static/media/cosechadora en persona.17a3dc9884b0ef0ebd29.png",
     "static/media/cachemo.png": "/static/media/cachemo.5ace15e70c5dfe8f237a.png",
@@ -87,6 +97,7 @@
     "static/media/finis.png": "/static/media/finis.cbd7d8f490197307ff35.png",
     "static/media/videomascara2.mp4": "/static/media/videomascara2.d9741e09cded7b4848fa.mp4",
     "static/media/devicescolecta.png": "/static/media/devicescolecta.dfec9883b63b34f503b4.png",
+    "static/media/hoop-02.png": "/static/media/hoop-02.e166263e61c97cb184db.png",
     "static/media/libroestudio1.png": "/static/media/libroestudio1.17c80083af63216d2fd2.png",
     "static/media/rollnavidad.png": "/static/media/rollnavidad.0c25c89428c8a94d76d1.png",
     "static/media/pendones-bienestar.png": "/static/media/pendones-bienestar.84e5017382e70c193e14.png",
@@ -103,6 +114,7 @@
     "static/media/copiaamazon.png": "/static/media/copiaamazon.e237d393cfa98991d547.png",
     "static/media/intento1.png": "/static/media/intento1.ceb7b5ae35c588d02038.png",
     "static/media/photoshop tostador.png": "/static/media/photoshop tostador.a14671f86be1212f8c46.png",
+    "static/media/hoop-03.png": "/static/media/hoop-03.aaf2eaabdf2e34e19747.png",
     "static/media/amazon oficial.png": "/static/media/amazon oficial.5687e0da79a3afa14829.png",
     "static/media/rrsstriada.mp4": "/static/media/rrsstriada.8a088a81b11523d29182.mp4",
     "static/media/vistapreviacuaderno.png": "/static/media/vistapreviacuaderno.dadfef0c03b240183919.png",
@@ -164,10 +176,10 @@
     "static/media/kappo-brand-pillars-simplified.png": "/static/media/kappo-brand-pillars-simplified.4a4457d0a417c8c12001.png",
     "index.html": "/index.html",
     "main.66a081cd.css.map": "/static/css/main.66a081cd.css.map",
-    "main.a547a591.js.map": "/static/js/main.a547a591.js.map"
+    "main.7a9114d6.js.map": "/static/js/main.7a9114d6.js.map"
   },
   "entrypoints": [
     "static/css/main.66a081cd.css",
-    "static/js/main.a547a591.js"
+    "static/js/main.7a9114d6.js"
   ]
 }
