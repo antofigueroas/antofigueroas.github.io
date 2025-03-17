@@ -17,6 +17,9 @@
     "react-scripts": "^5.0.1",
     "sass": "^1.55.0"
   },
+  "engines": {
+    "node": "18.x"
+  },
   "scripts": {
     "predeploy": "yarn run build",
     "deploy": "gh-pages -d build",
