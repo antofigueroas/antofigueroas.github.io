@@ -11,8 +11,6 @@ import Balance from "./Pages/Balance";
 import ScrollToTop from "./Components/ScrollToTop";
 import BalancePrivacyPolicy from "./Pages/Balance/PrivacyPolicy";
 
-import LatestResume from "./Assets/latest-resume.json";
-
 function App() {
   return (
     <Router>

@@ -95,7 +95,6 @@ class ProjectPageFallback extends React.PureComponent {
                       <a
                         className="call-to-action"
                         key={i}
-                        target="_blank"
                         href={cta.url} target="_blank"
                         rel="noopener noreferrer"
                       >
@@ -111,14 +110,14 @@ class ProjectPageFallback extends React.PureComponent {
             </div>
             <div className="credits">
               {this.props.client && (
-                <div className="item" role="text">
+                <div className="item">
                   <h3>
                     Client<AccessibilityLabel>: </AccessibilityLabel>
                   </h3>
                   <p>{this.props.client}</p>
                 </div>
               )}
-              <div className="item" role="text">
+              <div className="item">
                 <h3>
                   Date<AccessibilityLabel>: </AccessibilityLabel>
                 </h3>
@@ -133,7 +132,7 @@ class ProjectPageFallback extends React.PureComponent {
               {this.props.team &&
                 Object.keys(this.props.team).map((item, i) => {
                   return (
-                    <div className="item" key={i} role="text">
+                    <div className="item" key={i}>
                       <h3>
                         {item}
                         <AccessibilityLabel>: </AccessibilityLabel>
