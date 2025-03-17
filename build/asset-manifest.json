@@ -1,16 +1,19 @@
 {
   "files": {
     "main.css": "/static/css/main.66a081cd.css",
-    "main.js": "/static/js/main.7a9114d6.js",
+    "main.js": "/static/js/main.d24514d0.js",
     "static/media/videoinstructivo.mp4": "/static/media/videoinstructivo.203cc9f2d7c7628475f2.mp4",
     "static/media/leaf.mp4": "/static/media/leaf.0a1add229eafd2cbc0da.mp4",
     "static/media/fondogrisvideo.mp4": "/static/media/fondogrisvideo.1b089cbb1457f491c0b0.mp4",
     "static/media/menucito.png": "/static/media/menucito.19a13961ca1d0b2c7b86.png",
     "static/media/letreroclinica.png": "/static/media/letreroclinica.ac3fd6c6d1694966928e.png",
     "static/media/letreroclinica2.png": "/static/media/letreroclinica2.e9b83a115a96fd331b6f.png",
+    "static/media/easy1.png": "/static/media/easy1.d100f9bd1b7d5fbd5949.png",
     "static/media/bolsinana.png": "/static/media/bolsinana.cacf2cec3d3969c4f6b8.png",
+    "static/media/easyroomie1.png": "/static/media/easyroomie1.ec1321aa9130f1d31985.png",
     "static/media/cajinas.png": "/static/media/cajinas.f84b243ae5a8f91c3a64.png",
     "static/media/videoclaro.mp4": "/static/media/videoclaro.9ad30e801a645a2e04d7.mp4",
+    "static/media/easy4.png": "/static/media/easy4.6e6cfd9b91a9fa71f459.png",
     "static/media/masjunto.png": "/static/media/masjunto.9342c1cd6d42693115be.png",
     "static/media/tote.png": "/static/media/tote.feb4eea986a59c1f978d.png",
     "static/media/permancito.png": "/static/media/permancito.221b0ba3369aeda82aea.png",
@@ -69,9 +72,12 @@
     "static/media/stickerscolecta.png": "/static/media/stickerscolecta.245742d21597e63cf462.png",
     "static/media/veamosito.png": "/static/media/veamosito.e57edd108151be5735cf.png",
     "static/media/wifiuandes.png": "/static/media/wifiuandes.17dfe12f7e2ce33f3d75.png",
+    "static/media/video easy roomie.mp4": "/static/media/video easy roomie.7dd58e2301226b2bf484.mp4",
     "static/media/triadacosapsd.png": "/static/media/triadacosapsd.5712a0d5d1d88197cae2.png",
+    "static/media/easy2.png": "/static/media/easy2.eeb7402793218302079b.png",
     "static/media/minecraft brochure con luces.png": "/static/media/minecraft brochure con luces.bcf7ff1f4874e4399b40.png",
     "static/media/bcfahorasi.png": "/static/media/bcfahorasi.c7763209fac09144b94c.png",
+    "static/media/portadaeasy.png": "/static/media/portadaeasy.9fe6ccfac60bdc132fdf.png",
     "static/media/tostadorcito.png": "/static/media/tostadorcito.3f97d0d9589ad2ee5373.png",
     "static/media/librocose.png": "/static/media/librocose.fdf7cf5f9416e51502ab.png",
     "static/media/mockuptriada.png": "/static/media/mockuptriada.0de82c62597278293663.png",
@@ -176,10 +182,10 @@
     "static/media/kappo-brand-pillars-simplified.png": "/static/media/kappo-brand-pillars-simplified.4a4457d0a417c8c12001.png",
     "index.html": "/index.html",
     "main.66a081cd.css.map": "/static/css/main.66a081cd.css.map",
-    "main.7a9114d6.js.map": "/static/js/main.7a9114d6.js.map"
+    "main.d24514d0.js.map": "/static/js/main.d24514d0.js.map"
   },
   "entrypoints": [
     "static/css/main.66a081cd.css",
-    "static/js/main.7a9114d6.js"
+    "static/js/main.d24514d0.js"
   ]
 }
