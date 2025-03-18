@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.66a081cd.css",
+    "main.css": "/static/css/main.e3f6da3d.css",
     "main.js": "/static/js/main.b46e4c41.js",
     "static/media/videoinstructivo.mp4": "/static/media/videoinstructivo.203cc9f2d7c7628475f2.mp4",
     "static/media/leaf.mp4": "/static/media/leaf.0a1add229eafd2cbc0da.mp4",
@@ -195,11 +195,11 @@
     "static/media/grik loguito prueba 2.png": "/static/media/grik loguito prueba 2.35e8465fb41915735935.png",
     "static/media/kappo-brand-pillars-simplified.png": "/static/media/kappo-brand-pillars-simplified.4a4457d0a417c8c12001.png",
     "index.html": "/index.html",
-    "main.66a081cd.css.map": "/static/css/main.66a081cd.css.map",
+    "main.e3f6da3d.css.map": "/static/css/main.e3f6da3d.css.map",
     "main.b46e4c41.js.map": "/static/js/main.b46e4c41.js.map"
   },
   "entrypoints": [
-    "static/css/main.66a081cd.css",
+    "static/css/main.e3f6da3d.css",
     "static/js/main.b46e4c41.js"
   ]
 }
