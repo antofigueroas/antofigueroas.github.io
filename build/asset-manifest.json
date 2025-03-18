@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.66a081cd.css",
-    "main.js": "/static/js/main.79674edf.js",
+    "main.js": "/static/js/main.f83cbed3.js",
     "static/media/videoinstructivo.mp4": "/static/media/videoinstructivo.203cc9f2d7c7628475f2.mp4",
     "static/media/leaf.mp4": "/static/media/leaf.0a1add229eafd2cbc0da.mp4",
     "static/media/fondogrisvideo.mp4": "/static/media/fondogrisvideo.1b089cbb1457f491c0b0.mp4",
@@ -23,7 +23,6 @@
     "static/media/bolsita.png": "/static/media/bolsita.9c7a70518a73007b509c.png",
     "static/media/cajasclinica2.png": "/static/media/cajasclinica2.b6c5b1a9cf9fa73a8fb6.png",
     "static/media/cajas clinica.png": "/static/media/cajas clinica.5e22d42d8d226927c33c.png",
-    "static/media/flyer bienvenida.png": "/static/media/flyer bienvenida.14cbe4138aa90360047c.png",
     "static/media/videitoilkooficial.mp4": "/static/media/videitoilkooficial.62b3cabff3afad24754e.mp4",
     "static/media/cartas persia.png": "/static/media/cartas persia.07a25c4c173c21271035.png",
     "static/media/hihihihi.png": "/static/media/hihihihi.5fcf3c3c876e8249ca06.png",
@@ -31,9 +30,11 @@
     "static/media/cartelinos.png": "/static/media/cartelinos.94aed85dc6a2b10ec226.png",
     "static/media/Brochure Inner Page Mockup.png": "/static/media/Brochure Inner Page Mockup.48dc5f591b2ac7c08279.png",
     "static/media/2023.mp4": "/static/media/2023.fd79d6ce4e01cee0d920.mp4",
+    "static/media/challengers3.png": "/static/media/challengers3.e950913579b17b761297.png",
     "static/media/ilko2ipad.mp4": "/static/media/ilko2ipad.4ed4e727e419166badd4.mp4",
     "static/media/cartelino.png": "/static/media/cartelino.ddf8c8719246f798e3aa.png",
     "static/media/4 ipads tostador.mp4": "/static/media/4 ipads tostador.e95f714635dc2fe338aa.mp4",
+    "static/media/coreadelsur.png": "/static/media/coreadelsur.d3441c883cf66418f910.png",
     "static/media/videocampo1.mp4": "/static/media/videocampo1.811fa57196fce67aa91a.mp4",
     "static/media/aberoficial.png": "/static/media/aberoficial.9a6598e3af5dbe541043.png",
     "static/media/bienestar folleto.png": "/static/media/bienestar folleto.3314d1f7bd3a075de4c5.png",
@@ -187,10 +188,10 @@
     "static/media/kappo-brand-pillars-simplified.png": "/static/media/kappo-brand-pillars-simplified.4a4457d0a417c8c12001.png",
     "index.html": "/index.html",
     "main.66a081cd.css.map": "/static/css/main.66a081cd.css.map",
-    "main.79674edf.js.map": "/static/js/main.79674edf.js.map"
+    "main.f83cbed3.js.map": "/static/js/main.f83cbed3.js.map"
   },
   "entrypoints": [
     "static/css/main.66a081cd.css",
-    "static/js/main.79674edf.js"
+    "static/js/main.f83cbed3.js"
   ]
 }
