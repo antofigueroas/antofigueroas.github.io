@@ -576,7 +576,7 @@
       }
     },
     {
-      "title": "Clinica Elements - Rebranding",
+      "title": "Clínica Elements - Rebranding",
       "client": "Persia Motorsport",
       "description": [
         "This project showcases the development of comprehensive branding and stationary designs for Clinica Elements. It encompasses the creation of the logo and the establishment of visual identities that resonate with the essence and values of the brand."
@@ -722,6 +722,58 @@
       }
     },
     {
+      "title": "Cover Presentation templates  - Universidad de los Andes",
+      "client": null,
+      "description": null,
+      "release_year": "2024",
+      "release_month": "10",
+      "featured": true,
+      "has_page": false,
+      "src": "portadillas",
+      "thumbnails": [
+        "portadillas.mp4"
+      ],
+      "cta": null,
+      "team": {
+        "Graphic Design": [
+          {
+            "name": "Antonia Figueroa"
+          }
+        ],
+        "Client": [
+          {
+            "name": "Universidad de los Andes"
+          }
+        ]
+      }
+    },
+    {
+      "title": "Presentation templates in Canva - Universidad de los Andes",
+      "client": null,
+      "description": null,
+      "release_year": "2024",
+      "release_month": "10",
+      "featured": false,
+      "has_page": false,
+      "src": "canvaplantilla",
+      "thumbnails": [
+        "plantillas.png"
+      ],
+      "cta": null,
+      "team": {
+        "Graphic Design": [
+          {
+            "name": "Antonia Figueroa"
+          }
+        ],
+        "Client": [
+          {
+            "name": "Universidad de los Andes"
+          }
+        ]
+      }
+    },
+    {
       "title": "EasyRoomie - Presentation and Prototype Animation",
       "client": null,
       "description": [
@@ -746,6 +798,39 @@
         "Client": [
           {
             "name": "Private"
+          }
+        ]
+      }
+    },
+    {
+      "title": "Yo Te Apoyo - Universidad de los Andes",
+      "client": null,
+      "description": null,
+      "release_year": "2023",
+      "release_month": "08",
+      "featured": false,
+      "has_page": false,
+      "src": "yoteapoyo",
+      "thumbnails": [
+        "yoteapoyo-01.png",
+        "yoteapoyo-02.png",
+        "yoteapoyo-03.png"
+      ],
+      "cta": [
+        {
+          "title": "About Universidad de los Andes",
+          "url": "https://www.uandes.cl/"
+        }
+      ],
+      "team": {
+        "Graphic Design": [
+          {
+            "name": "Antonia Figueroa"
+          }
+        ],
+        "Client": [
+          {
+            "name": "Universidad de los Andes"
           }
         ]
       }

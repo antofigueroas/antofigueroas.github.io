@@ -1,13 +1,14 @@
 {
   "files": {
     "main.css": "/static/css/main.66a081cd.css",
-    "main.js": "/static/js/main.f83cbed3.js",
+    "main.js": "/static/js/main.b46e4c41.js",
     "static/media/videoinstructivo.mp4": "/static/media/videoinstructivo.203cc9f2d7c7628475f2.mp4",
     "static/media/leaf.mp4": "/static/media/leaf.0a1add229eafd2cbc0da.mp4",
     "static/media/fondogrisvideo.mp4": "/static/media/fondogrisvideo.1b089cbb1457f491c0b0.mp4",
     "static/media/menucito.png": "/static/media/menucito.19a13961ca1d0b2c7b86.png",
     "static/media/letreroclinica.png": "/static/media/letreroclinica.ac3fd6c6d1694966928e.png",
     "static/media/letreroclinica2.png": "/static/media/letreroclinica2.e9b83a115a96fd331b6f.png",
+    "static/media/plantillas.png": "/static/media/plantillas.291b4ea112e9a37918b2.png",
     "static/media/easy1.png": "/static/media/easy1.d100f9bd1b7d5fbd5949.png",
     "static/media/bolsinana.png": "/static/media/bolsinana.cacf2cec3d3969c4f6b8.png",
     "static/media/Vista Previa Desplegable.png": "/static/media/Vista Previa Desplegable.7b377369e3af3edcf10a.png",
@@ -39,6 +40,7 @@
     "static/media/aberoficial.png": "/static/media/aberoficial.9a6598e3af5dbe541043.png",
     "static/media/bienestar folleto.png": "/static/media/bienestar folleto.3314d1f7bd3a075de4c5.png",
     "static/media/pulseras3.png": "/static/media/pulseras3.81fcd79c6b75d7822910.png",
+    "static/media/portadillas.mp4": "/static/media/portadillas.90554e9fd48eda216ed5.mp4",
     "static/media/letreroclinica3.png": "/static/media/letreroclinica3.026279b0c7f217866cd7.png",
     "static/media/tarjetete.png": "/static/media/tarjetete.27c1295514f139015335.png",
     "static/media/bcf video oficial.mp4": "/static/media/bcf video oficial.f0625bc9e2ab6ef81f82.mp4",
@@ -80,6 +82,7 @@
     "static/media/wifiuandes.png": "/static/media/wifiuandes.17dfe12f7e2ce33f3d75.png",
     "static/media/video easy roomie.mp4": "/static/media/video easy roomie.7dd58e2301226b2bf484.mp4",
     "static/media/triadacosapsd.png": "/static/media/triadacosapsd.5712a0d5d1d88197cae2.png",
+    "static/media/fomefome.png": "/static/media/fomefome.40474a155b0017190faa.png",
     "static/media/easy2.png": "/static/media/easy2.eeb7402793218302079b.png",
     "static/media/minecraft brochure con luces.png": "/static/media/minecraft brochure con luces.bcf7ff1f4874e4399b40.png",
     "static/media/bcfahorasi.png": "/static/media/bcfahorasi.c7763209fac09144b94c.png",
@@ -92,6 +95,7 @@
     "static/media/abiertos.png": "/static/media/abiertos.20475a729aa261f1d53f.png",
     "static/media/manual2.png": "/static/media/manual2.afe763d7c4a9f70d3975.png",
     "static/media/guia1matematicas_Mesa de trabajo 1.png": "/static/media/guia1matematicas_Mesa de trabajo 1.e12b3e33a936fa39aa9f.png",
+    "static/media/yoteapoyo-03.png": "/static/media/yoteapoyo-03.60a162a47d8fc94198a0.png",
     "static/media/cosecha.png": "/static/media/cosecha.00284e3d3b74a4b40cf1.png",
     "static/media/RCP19video.mp4": "/static/media/RCP19video.d4333c66bfc9c9a989ad.mp4",
     "static/media/minibanners.png": "/static/media/minibanners.827032403902870bb53e.png",
@@ -116,6 +120,7 @@
     "static/media/pulseras1.png": "/static/media/pulseras1.aa62b15b8a8753f2d18f.png",
     "static/media/triada_web.jpg": "/static/media/triada_web.ba9dfa4b770e73159b7c.jpg",
     "static/media/compupu.png": "/static/media/compupu.5502cfcaa20ab3dd31a6.png",
+    "static/media/fomefomefome.png": "/static/media/fomefomefome.ecb0c043be9b977dffa4.png",
     "static/media/prueba amazon.mp4": "/static/media/prueba amazon.1ab89dec7c54c6fdb100.mp4",
     "static/media/amazon coaniquem.png": "/static/media/amazon coaniquem.bfeb73ec23955bbc75c7.png",
     "static/media/tostitosoficiales2.png": "/static/media/tostitosoficiales2.8cba47be3e12a51105bc.png",
@@ -162,6 +167,7 @@
     "static/media/portadaril2.png": "/static/media/portadaril2.3b3f60ecb854cbd8695f.png",
     "static/media/draw1.jpg": "/static/media/draw1.37265ce78daba2125a43.jpg",
     "static/media/minecraft entero.jpg": "/static/media/minecraft entero.64bceeaeddc9901c11ee.jpg",
+    "static/media/yoteapoyo-04.png": "/static/media/yoteapoyo-04.df3f8ec22df6705ff98a.png",
     "static/media/sistema.jpg": "/static/media/sistema.ea28a28f751827f66bc4.jpg",
     "static/media/folletoorganos1_Mesa de trabajo 1.jpg": "/static/media/folletoorganos1_Mesa de trabajo 1.aa4a9963dce4d73f2a8c.jpg",
     "static/media/cosechadora_web.jpg": "/static/media/cosechadora_web.904136513d3c883b7f46.jpg",
@@ -181,17 +187,19 @@
     "static/media/vasitos.png": "/static/media/vasitos.97ec9357ea66a04c9cb9.png",
     "static/media/maths30.gif": "/static/media/maths30.85cee56a6ca852ff7e28.gif",
     "static/media/loguito pa probar.png": "/static/media/loguito pa probar.6c365ebadadebcc07aad.png",
+    "static/media/yoteapoyo-02.png": "/static/media/yoteapoyo-02.dced9bc2ea4ec615e7ab.png",
     "static/media/grik colores.gif": "/static/media/grik colores.30eb28c359e2a11c8658.gif",
     "static/media/animaciontriada.mp4": "/static/media/animaciontriada.517fc515508baf9b20dc.mp4",
     "static/media/kappo-brand-identity.webm": "/static/media/kappo-brand-identity.d5d79787738d5144d779.webm",
+    "static/media/yoteapoyo-01.png": "/static/media/yoteapoyo-01.a757e7c8a9a1a484518f.png",
     "static/media/grik loguito prueba 2.png": "/static/media/grik loguito prueba 2.35e8465fb41915735935.png",
     "static/media/kappo-brand-pillars-simplified.png": "/static/media/kappo-brand-pillars-simplified.4a4457d0a417c8c12001.png",
     "index.html": "/index.html",
     "main.66a081cd.css.map": "/static/css/main.66a081cd.css.map",
-    "main.f83cbed3.js.map": "/static/js/main.f83cbed3.js.map"
+    "main.b46e4c41.js.map": "/static/js/main.b46e4c41.js.map"
   },
   "entrypoints": [
     "static/css/main.66a081cd.css",
-    "static/js/main.f83cbed3.js"
+    "static/js/main.b46e4c41.js"
   ]
 }
