@@ -183,8 +183,7 @@
       "has_page": false,
       "src": "grik/grik-brand-identity",
       "thumbnails": [
-        "ellogo.png",
-        "cachemo.png"
+        "ellogo.png"
       ],
       "cta": null,
       "team": {
@@ -665,6 +664,59 @@
         "Client": [
           {
             "name": "Hoop Accesorios @hoop.cl"
+          }
+        ]
+      }
+    },
+    {
+      "title": "Bienestar Estudiantil - Universidad de los Andes",
+      "client": null,
+      "description": null,
+      "release_year": "2024",
+      "release_month": "03",
+      "featured": true,
+      "has_page": false,
+      "src": "campussaludable",
+      "thumbnails": [
+        "bienestar book.png",
+        "bienestar folleto.png"
+      ],
+      "cta": null,
+      "team": {
+        "Graphic Design": [
+          {
+            "name": "Antonia Figueroa"
+          }
+        ],
+        "Client": [
+          {
+            "name": "Universidad de los Andes"
+          }
+        ]
+      }
+    },
+    {
+      "title": "Challengers 2025 - Universidad de los Andes",
+      "client": null,
+      "description": null,
+      "release_year": "2024",
+      "release_month": "12",
+      "featured": true,
+      "has_page": false,
+      "src": "challengers",
+      "thumbnails": [
+        "coreadelsur.png"
+      ],
+      "cta": null,
+      "team": {
+        "Graphic Design": [
+          {
+            "name": "Antonia Figueroa"
+          }
+        ],
+        "Client": [
+          {
+            "name": "Ingeniería Comercial, Universidad de los Andes"
           }
         ]
       }

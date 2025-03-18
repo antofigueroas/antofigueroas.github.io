@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.66a081cd.css",
-    "main.js": "/static/js/main.76e284b3.js",
+    "main.js": "/static/js/main.79674edf.js",
     "static/media/videoinstructivo.mp4": "/static/media/videoinstructivo.203cc9f2d7c7628475f2.mp4",
     "static/media/leaf.mp4": "/static/media/leaf.0a1add229eafd2cbc0da.mp4",
     "static/media/fondogrisvideo.mp4": "/static/media/fondogrisvideo.1b089cbb1457f491c0b0.mp4",
@@ -10,16 +10,20 @@
     "static/media/letreroclinica2.png": "/static/media/letreroclinica2.e9b83a115a96fd331b6f.png",
     "static/media/easy1.png": "/static/media/easy1.d100f9bd1b7d5fbd5949.png",
     "static/media/bolsinana.png": "/static/media/bolsinana.cacf2cec3d3969c4f6b8.png",
+    "static/media/Vista Previa Desplegable.png": "/static/media/Vista Previa Desplegable.7b377369e3af3edcf10a.png",
+    "static/media/bienestar book.png": "/static/media/bienestar book.6f441a7711722191f42a.png",
     "static/media/easyroomie1.png": "/static/media/easyroomie1.ec1321aa9130f1d31985.png",
     "static/media/cajinas.png": "/static/media/cajinas.f84b243ae5a8f91c3a64.png",
     "static/media/videoclaro.mp4": "/static/media/videoclaro.9ad30e801a645a2e04d7.mp4",
     "static/media/easy4.png": "/static/media/easy4.6e6cfd9b91a9fa71f459.png",
+    "static/media/pendon bienestar.png": "/static/media/pendon bienestar.20f6d8b37c28219326e6.png",
     "static/media/masjunto.png": "/static/media/masjunto.9342c1cd6d42693115be.png",
     "static/media/tote.png": "/static/media/tote.feb4eea986a59c1f978d.png",
     "static/media/permancito.png": "/static/media/permancito.221b0ba3369aeda82aea.png",
     "static/media/bolsita.png": "/static/media/bolsita.9c7a70518a73007b509c.png",
     "static/media/cajasclinica2.png": "/static/media/cajasclinica2.b6c5b1a9cf9fa73a8fb6.png",
     "static/media/cajas clinica.png": "/static/media/cajas clinica.5e22d42d8d226927c33c.png",
+    "static/media/flyer bienvenida.png": "/static/media/flyer bienvenida.14cbe4138aa90360047c.png",
     "static/media/videitoilkooficial.mp4": "/static/media/videitoilkooficial.62b3cabff3afad24754e.mp4",
     "static/media/cartas persia.png": "/static/media/cartas persia.07a25c4c173c21271035.png",
     "static/media/hihihihi.png": "/static/media/hihihihi.5fcf3c3c876e8249ca06.png",
@@ -32,6 +36,7 @@
     "static/media/4 ipads tostador.mp4": "/static/media/4 ipads tostador.e95f714635dc2fe338aa.mp4",
     "static/media/videocampo1.mp4": "/static/media/videocampo1.811fa57196fce67aa91a.mp4",
     "static/media/aberoficial.png": "/static/media/aberoficial.9a6598e3af5dbe541043.png",
+    "static/media/bienestar folleto.png": "/static/media/bienestar folleto.3314d1f7bd3a075de4c5.png",
     "static/media/pulseras3.png": "/static/media/pulseras3.81fcd79c6b75d7822910.png",
     "static/media/letreroclinica3.png": "/static/media/letreroclinica3.026279b0c7f217866cd7.png",
     "static/media/tarjetete.png": "/static/media/tarjetete.27c1295514f139015335.png",
@@ -182,10 +187,10 @@
     "static/media/kappo-brand-pillars-simplified.png": "/static/media/kappo-brand-pillars-simplified.4a4457d0a417c8c12001.png",
     "index.html": "/index.html",
     "main.66a081cd.css.map": "/static/css/main.66a081cd.css.map",
-    "main.76e284b3.js.map": "/static/js/main.76e284b3.js.map"
+    "main.79674edf.js.map": "/static/js/main.79674edf.js.map"
   },
   "entrypoints": [
     "static/css/main.66a081cd.css",
-    "static/js/main.76e284b3.js"
+    "static/js/main.79674edf.js"
   ]
 }
