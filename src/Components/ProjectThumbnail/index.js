@@ -12,7 +12,7 @@ class ProjectThumbnail extends React.PureComponent {
   }
 
   _renderThumbnail(thumbnail, src, title, autoplay) {
-    const imageFormats = ["png", "jpg", "jpeg", "svg", "gif"];
+    const imageFormats = ["png", "jpg", "jpeg", "svg", "gif","webp"];
     const videoFormatsMP4 = ["mp4"];
     const videoFormatsWebm = ["webm"];
     const HtmlThumbnail = React.lazy(() =>

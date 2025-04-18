@@ -64,7 +64,7 @@ class ProjectPageFallback extends React.PureComponent {
             ref={(projectGallery) => {
               this.projectGallery = projectGallery;
             }}
-          >
+            >
             {this.props.thumbnails.map((thumbnail, index) => {
               return (
                 <ProjectThumbnail

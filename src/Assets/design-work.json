@@ -106,7 +106,7 @@
       "title": "50th Anniversary of the Ilko Toaster",
       "client": "Virutex Ilko",
       "description": [
-        "Advertising campaign to commemorate the 50th anniversary of the Ilko toaster. The campaign included the development of a limited version of toasters and an advertising video, with the purpose of rescuing the value that has as a national product."
+        "Advertising campaign to commemorate the 50th anniversary of the Ilko toaster. The project included a limited-edition toaster and a promotional video, celebrating its legacy as a beloved national product."
       ],
       "release_year": "2019",
       "release_month": "06",
@@ -114,9 +114,9 @@
       "has_page": false,
       "src": "ilko/toaster",
       "thumbnails": [
-        "videitoilkooficial.mp4",
-        "aberoficial.png",
-        "ts1.png"
+        "tostador-01.webp",
+        "tostador-02.webp",
+        "videitoilkooficial.mp4"
       ],
       "cta": [
         {
@@ -175,7 +175,7 @@
       "title": "GRIK - Logo and Infographic",
       "client": null,
       "description": [
-        "Logo design, brand identity and explanatory infographics for the GRIK project (2018). The font of the logo was designed from scratch for this particular project."
+        "Logo and infographics for GRIK project (2018), including a bespoke typeface created from scratch."
       ],
       "release_year": "2018",
       "release_month": "11",
@@ -183,45 +183,14 @@
       "has_page": false,
       "src": "grik/grik-brand-identity",
       "thumbnails": [
-        "ellogo.png"
+        "grik-01.webp",
+        "grik2-01.webp"
       ],
       "cta": null,
       "team": {
         "Graphic Design": [
           {
             "name": "Antonia Figueroa"
-          }
-        ]
-      }
-    },
-    {
-      "title": "Triada - Brochure and Social Media Content",
-      "client": null,
-      "description": [
-        "Information brochure and social media content for the meditation center \"Triada\".",
-        "This project was done during the internship at Piano&Piano design studio."
-      ],
-      "release_year": "2021",
-      "release_month": "02",
-      "featured": false,
-      "has_page": false,
-      "src": "triada/brochure",
-      "thumbnails": [
-        "triada_web.jpg",
-        "triada_web-02.jpg",
-        "triada_web-04.jpg",
-        "triada_web-03.jpg",
-        "rrsstriada.mp4"
-      ],
-      "team": {
-        "Graphic Design": [
-          {
-            "name": "Antonia Figueroa"
-          }
-        ],
-        "Client": [
-          {
-            "name": "Triada"
           }
         ]
       }
@@ -239,8 +208,7 @@
       "has_page": false,
       "src": "minecraft",
       "thumbnails": [
-        "minecraft2imagen.png",
-        "minecraft brochure con luces.png"
+        "minecraft-01.webp"
       ],
       "cta": [
         {
@@ -448,15 +416,15 @@
       "title": "Ril Editores - Cover Design",
       "client": "Ril Editores",
       "description": [
-        "This cover was created as a freelance work for \"Ril Editores\" editorial. It combines visual elements and typography, achieving the incorporation of initials from philosopher Richard Rorty as the main design."
+        "This cover combines visual elements and typography, achieving the incorporation of initials from philosopher Richard Rorty as the main design."
       ],
       "release_year": "2023",
       "release_month": "03",
       "featured": false,
       "has_page": false,
-      "src": "coaniquem/sellosinusoide",
+      "src": "ril-editores",
       "thumbnails": [
-        "portadaril2.png"
+        "posmetafisica-01.webp"
       ],
       "cta": [
         {
@@ -476,7 +444,7 @@
       "title": "Finis Terrae's Medical School",
       "client": null,
       "description": [
-        ""
+        "Development of six educational materials for students, balancing informative content with friendly and accessible design."
       ],
       "release_year": "2021",
       "release_month": "02",
@@ -484,9 +452,7 @@
       "has_page": false,
       "src": "finis-terrae",
       "thumbnails": [
-        "sistema.jpg",
-        "finiss.png",
-        "finis.png"
+  "finisterrae-01.webp"
       ],
       "cta": [
         {
@@ -594,8 +560,8 @@
       ],
       "cta": [
         {
-          "title": "About Persia Motorsport",
-          "url": "https://www.instagram.com/persiamotorsport/"
+          "title": null,
+          "url": null
         }
       ],
       "team": {
@@ -606,7 +572,7 @@
         ],
         "Client": [
           {
-            "name": "Dopamine Works"
+            "name": "Clínica Elements"
           }
         ]
       }
@@ -621,10 +587,10 @@
       "has_page": false,
       "src": "amundsen",
       "thumbnails": [
-        "tote.png",
-        "cartelino.png",
-        "menucito.png",
-        "menu_largo.png"
+        "amundsen1.webp",
+        "amundsen3.webp",
+        "amundsen2.webp",
+        "amundsen4.webp"
       ],
       "cta": null,
       "team": {
@@ -641,34 +607,6 @@
       }
     },
     {
-      "title": "Hoop Branding",
-      "client": null,
-      "description": null,
-      "release_year": "2024",
-      "release_month": "03",
-      "featured": false,
-      "has_page": false,
-      "src": "hoop",
-      "thumbnails": [
-        "hoop-01.png",
-        "hoop-02.png",
-        "hoop-03.png"
-      ],
-      "cta": null,
-      "team": {
-        "Graphic Design": [
-          {
-            "name": "Antonia Figueroa"
-          }
-        ],
-        "Client": [
-          {
-            "name": "Hoop Accesorios @hoop.cl"
-          }
-        ]
-      }
-    },
-    {
       "title": "Bienestar Estudiantil - Universidad de los Andes",
       "client": null,
       "description": null,
@@ -678,8 +616,8 @@
       "has_page": false,
       "src": "campussaludable",
       "thumbnails": [
-        "bienestar book.png",
-        "bienestar folleto.png"
+        "bienestar1-01.webp",
+        "bienestar-01.webp"
       ],
       "cta": null,
       "team": {
@@ -691,6 +629,34 @@
         "Client": [
           {
             "name": "Universidad de los Andes"
+          }
+        ]
+      }
+    },
+    {
+      "title": "Fichas Maternidad - Clínica Alemana",
+      "client": null,
+      "description": [
+        "Visual update to soften and brighten maternity care communication."
+      ],
+      "release_year": "2025",
+      "release_month": "03",
+      "featured": null,
+      "has_page": false,
+      "src": "clinica-alemana",
+      "thumbnails": [
+        "clinicaalemana.webp"
+      ],
+      "cta": null,
+      "team": {
+        "Graphic Design": [
+          {
+            "name": "Antonia Figueroa"
+          }
+        ],
+        "Client": [
+          {
+            "name": "Clínica Alemana, Maternity Unit"
           }
         ]
       }
@@ -774,11 +740,11 @@
       }
     },
     {
-      "title": "EasyRoomie - Presentation and Prototype Animation",
+      "title": "EasyRoomie - Prototype Animation and Oficial Presentation",
       "client": null,
       "description": [
         "Easy roomie is an application that facilitates contact between users in order to find roommates.",
-        "Presentation for investors during the UDD New Business Creation Seminar and the prototype animations."
+        "Visual presentation for investors during the UDD New Business Creation Seminar."
       ],
       "release_year": "2024",
       "release_month": "10",
@@ -786,7 +752,7 @@
       "has_page": false,
       "src": "easyroomie",
       "thumbnails": [
-        "easyroomie1.png"
+        "easyroomie-01.webp"
       ],
       "cta": null,
       "team": {
@@ -798,71 +764,6 @@
         "Client": [
           {
             "name": "Private"
-          }
-        ]
-      }
-    },
-    {
-      "title": "Yo Te Apoyo - Universidad de los Andes",
-      "client": null,
-      "description": null,
-      "release_year": "2023",
-      "release_month": "08",
-      "featured": false,
-      "has_page": false,
-      "src": "yoteapoyo",
-      "thumbnails": [
-        "yoteapoyo-01.png",
-        "yoteapoyo-02.png",
-        "yoteapoyo-03.png"
-      ],
-      "cta": [
-        {
-          "title": "About Universidad de los Andes",
-          "url": "https://www.uandes.cl/"
-        }
-      ],
-      "team": {
-        "Graphic Design": [
-          {
-            "name": "Antonia Figueroa"
-          }
-        ],
-        "Client": [
-          {
-            "name": "Universidad de los Andes"
-          }
-        ]
-      }
-    },
-    {
-      "title": "UANDES Doctoral Programs - Brochure",
-      "client": null,
-      "description": null,
-      "release_year": "2023",
-      "release_month": "08",
-      "featured": false,
-      "has_page": false,
-      "src": "uandes-postcards",
-      "thumbnails": [
-        "triptico2.png",
-        "tripticoparteinterior.png"
-      ],
-      "cta": [
-        {
-          "title": "About Universidad de los Andes",
-          "url": "https://www.uandes.cl/"
-        }
-      ],
-      "team": {
-        "Graphic Design": [
-          {
-            "name": "Antonia Figueroa"
-          }
-        ],
-        "Client": [
-          {
-            "name": "Universidad de los Andes"
           }
         ]
       }
