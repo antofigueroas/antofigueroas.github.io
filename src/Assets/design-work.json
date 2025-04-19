@@ -172,7 +172,7 @@
       }
     },
     {
-      "title": "GRIK - Custom Logo and Infographics",
+      "title": "GRIK - Logo and Infographic",
       "client": null,
       "description": [
         "Logo and infographics for GRIK project (2018), including a bespoke typeface created from scratch."
@@ -553,10 +553,10 @@
       "has_page": false,
       "src": "clinicaelements",
       "thumbnails": [
-        "letreroclinica.png",
-        "cajas clinica.png",
-        "cajasclinica2.png",
-        "letreroclinica3.png"
+        "clinica1.webp",
+        "clinica2.webp",
+        "clinica3.webp",
+        "clinica4.webp"
       ],
       "cta": [
         {
@@ -620,8 +620,8 @@
       "has_page": false,
       "src": "campussaludable",
       "thumbnails": [
-        "bienestar1-01.webp",
-        "bienestar-01.webp"
+        "bienestar1.webp",
+        "bienestar2.webp"
       ],
       "cta": null,
       "team": {
@@ -649,7 +649,7 @@
       "has_page": false,
       "src": "clinica-alemana",
       "thumbnails": [
-        "clinicaalemana.webp"
+        "alemana.webp"
       ],
       "cta": null,
       "team": {
@@ -677,7 +677,7 @@
       "has_page": false,
       "src": "challengers",
       "thumbnails": [
-        "coreadelsur.png"
+        "challengers.webp"
       ],
       "cta": null,
       "team": {
@@ -758,7 +758,7 @@
       "has_page": false,
       "src": "easyroomie",
       "thumbnails": [
-        "easyroomie-01.webp"
+        "easyroomie.webp"
       ],
       "cta": null,
       "team": {
