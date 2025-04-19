@@ -267,41 +267,31 @@
       }
     },
     {
-      "title": "\"YoPongoLaCara\" COVID-19 Project",
+      "title": "FullFace Mask Initiative: COVID-19 PPE",
       "client": null,
       "description": [
-        "In charge of the communications campaign for the collaborative project between the REBLUM Foundation, Decathlon and the Pontificia Universidad Católica de Chile \"YoPongoLaCara\" (2020).",
-        "The project revolves around the creation of the \"FullFace\" Protective Mask, an adaptation of the Decathlon diving mask in response to the demand for personal protective equipment (PPE) for healthcare workers during the COVID-19 pandemic. More than 600 physical masks were distributed in 2020.",
-        "Led, designed, and implemented a training video, an informative graphic with guidance on the use of the mask, and social media content."
+        "Communication materials for \"FullFace Mask\" Initiative (2020), a collaborative project between Fundación REBLUM, Decathlon, and Pontificia Universidad Católica de Chile. The initiative repurposed Decathlon’s diving mask into a FullFace protective mask to help meet the urgent need for PPE among healthcare workers during the COVID-19 pandemic. Over 600 units were distributed.",
+        "The campaign included the production of a training video, a usage guide infographic, and social media content to support the safe and effective use of the masks."
       ],
       "release_year": "2020",
       "release_month": "03",
-      "featured": false,
+      "featured": true,
       "has_page": false,
       "src": "yo-pongo-la-cara",
       "thumbnails": [
-        "mascarafullface1.jpg",
-        "mascarapng2.jpg",
-        "igmascara.jpg",
-        "videomascara2.mp4"
+        "mascara4.webp",
+        "mascara2.webp",
+        "mascara1.webp",
+        "mascara3.webp"
       ],
-      "cta": [
-        {
-          "title": "Full video",
-          "url": "https://www.instagram.com/p/CAV-VxkFirc/"
-        },
-        {
-          "title": "Social media",
-          "url": "https://www.instagram.com/mascarafullface_covid19/"
-        }
-      ],
+      "cta":  null,
       "team": {
-        "Graphic Design": [
+        "Graphic and Social Media Design": [
           {
             "name": "Antonia Figueroa"
           }
         ],
-        "Audiovisual edition": [
+        "Video": [
           {
             "name": "Antonia Adell"
           },
@@ -423,7 +413,7 @@
       ],
       "release_year": "2022",
       "release_month": "03",
-      "featured": false,
+      "featured": true,
       "has_page": false,
       "src": "amazon-bcf",
       "thumbnails": [

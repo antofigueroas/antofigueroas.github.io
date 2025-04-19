@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.e3f6da3d.css",
-    "main.js": "/static/js/main.cea11703.js",
+    "main.js": "/static/js/main.e8a18e2d.js",
     "static/media/videoinstructivo.mp4": "/static/media/videoinstructivo.203cc9f2d7c7628475f2.mp4",
     "static/media/leaf.mp4": "/static/media/leaf.0a1add229eafd2cbc0da.mp4",
     "static/media/fondogrisvideo.mp4": "/static/media/fondogrisvideo.1b089cbb1457f491c0b0.mp4",
@@ -102,7 +102,6 @@
     "static/media/donacion de organos_Mesa de trabajo 1.jpg": "/static/media/donacion de organos_Mesa de trabajo 1.2834a1399e911ccde40d.jpg",
     "static/media/mascarapng2.jpg": "/static/media/mascarapng2.408520277fab7a393b7d.jpg",
     "static/media/triada_web-04.jpg": "/static/media/triada_web-04.646bb98cac166fd04ab8.jpg",
-    "static/media/celularmascara.png": "/static/media/celularmascara.e7c9b8e34f9b4bf3dad6.png",
     "static/media/portadaril2.png": "/static/media/portadaril2.3b3f60ecb854cbd8695f.png",
     "static/media/yoteapoyo-04.png": "/static/media/yoteapoyo-04.df3f8ec22df6705ff98a.png",
     "static/media/sistema.jpg": "/static/media/sistema.ea28a28f751827f66bc4.jpg",
@@ -124,10 +123,13 @@
     "static/media/personajes.webp": "/static/media/personajes.2306484de63da23b7da6.webp",
     "static/media/plantillas.webp": "/static/media/plantillas.fee77489b9f065d5f9da.webp",
     "static/media/easyroomie.webp": "/static/media/easyroomie.3dc438048b0a6cf69510.webp",
+    "static/media/mascara4.webp": "/static/media/mascara4.4b0e8d299b059f64c445.webp",
+    "static/media/mascara3.webp": "/static/media/mascara3.7fe11a56796922524f26.webp",
     "static/media/amazon1.webp": "/static/media/amazon1.32400e036e8f0336e67e.webp",
     "static/media/amazon2.webp": "/static/media/amazon2.db0a077c88da00482d8e.webp",
     "static/media/igmascara.jpg": "/static/media/igmascara.4ecaf0e4caca6da2bec8.jpg",
     "static/media/grik1.webp": "/static/media/grik1.0c5c25d713bc315a637f.webp",
+    "static/media/mascara2.webp": "/static/media/mascara2.436f6e05e2fadeb340ee.webp",
     "static/media/minecrat.webp": "/static/media/minecrat.24be49b55b85bdaac0d2.webp",
     "static/media/clinica1.webp": "/static/media/clinica1.8a49e15e47fdaa7f95aa.webp",
     "static/media/instamascaras.jpg": "/static/media/instamascaras.765aa1ea201b5c3ab01a.jpg",
@@ -141,13 +143,14 @@
     "static/media/yoteapoyo-02.png": "/static/media/yoteapoyo-02.dced9bc2ea4ec615e7ab.png",
     "static/media/ilko1.webp": "/static/media/ilko1.f4d7414bdd25a7048937.webp",
     "static/media/ilko2.webp": "/static/media/ilko2.920c82eb9b3f4b14d8fb.webp",
+    "static/media/mascara1.webp": "/static/media/mascara1.4f0a9d14ef7ca49ebe47.webp",
     "static/media/yoteapoyo-01.png": "/static/media/yoteapoyo-01.a757e7c8a9a1a484518f.png",
     "index.html": "/index.html",
     "main.e3f6da3d.css.map": "/static/css/main.e3f6da3d.css.map",
-    "main.cea11703.js.map": "/static/js/main.cea11703.js.map"
+    "main.e8a18e2d.js.map": "/static/js/main.e8a18e2d.js.map"
   },
   "entrypoints": [
     "static/css/main.e3f6da3d.css",
-    "static/js/main.cea11703.js"
+    "static/js/main.e8a18e2d.js"
   ]
 }
