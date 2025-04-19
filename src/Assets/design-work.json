@@ -172,7 +172,7 @@
       }
     },
     {
-      "title": "GRIK - Logo and Infographic",
+      "title": "GRIK - Custom Logo and Infographics",
       "client": null,
       "description": [
         "Logo and infographics for GRIK project (2018), including a bespoke typeface created from scratch."
@@ -196,11 +196,11 @@
       }
     },
     {
-      "title": "Minecraft Nether Update Infographic",
+      "title": "Exploring the Minecraft Nether Update: A Visual Guide",
       "client": null,
       "description": [
-        "Infographic that in an easy, fast and entertaining way, shows the features and changes integrated to the new update of the Minecraft video game.",
-        "This project was not commissioned by the developers of the video game, nor is it directly related to it."
+        "Infographic designed to quickly and engagingly highlight the features and changes in the Nether Minecraft Update.",
+        "This project was independently created and is not affiliated with or commissioned by the game’s developers."
       ],
       "release_year": "2021",
       "release_month": "09",
@@ -543,9 +543,9 @@
     },
     {
       "title": "Clínica Elements - Rebranding",
-      "client": "Persia Motorsport",
+      "client": null,
       "description": [
-        "This project showcases the development of comprehensive branding and stationary designs for Clinica Elements. It encompasses the creation of the logo and the establishment of visual identities that resonate with the essence and values of the brand."
+        "A comprehensive branding project for Clínica Elements, featuring logo design and the creation of visual identities that embody the brand's essence."
       ],
       "release_year": "2025",
       "release_month": "01",
@@ -578,10 +578,12 @@
       }
     },
     {
-      "title": "Amundsen Cafe",
+      "title": "Amundsen Café - Branding and Digital Menu Solution",
       "client": null,
-      "description": null,
-      "release_year": "2024",
+      "description": [
+        "Brand assets for Amundsen Café, including logo design, custom signage, interior graphics, and an editable digital menu, allowing the owner to easily update prices and offerings."
+      ],
+        "release_year": "2024",
       "release_month": "03",
       "featured": true,
       "has_page": false,
@@ -607,10 +609,12 @@
       }
     },
     {
-      "title": "Bienestar Estudiantil - Universidad de los Andes",
+      "title": "Universidad de los Andes - Crisis Management and Well-Being Guidelines",
       "client": null,
-      "description": null,
-      "release_year": "2024",
+      "description": [
+        "This project focuses on the creation of printed materials offering clear instructions for students, staff, security guards, and faculty on how to respond in the event of a physical or mental health emergency. The initiative aims to foster a proactive approach to student well-being and provide critical support in times of crisis."
+      ],
+        "release_year": "2024",
       "release_month": "03",
       "featured": true,
       "has_page": false,
@@ -634,14 +638,14 @@
       }
     },
     {
-      "title": "Fichas Maternidad - Clínica Alemana",
+      "title": "Printed Materials for Maternity Patients - Clínica Alemana",
       "client": null,
       "description": [
         "Visual update to soften and brighten maternity care communication."
       ],
       "release_year": "2025",
       "release_month": "03",
-      "featured": null,
+      "featured": true,
       "has_page": false,
       "src": "clinica-alemana",
       "thumbnails": [
@@ -662,11 +666,13 @@
       }
     },
     {
-      "title": "Challengers 2025 - Universidad de los Andes",
+      "title": "Challengers South Korea 2025 - Universidad de los Andes",
       "client": null,
-      "description": null,
-      "release_year": "2024",
-      "release_month": "12",
+      "description": [
+        "Key visual design for Challengers 2025, an entrepreneurship and innovation tournament that empowers young talent across the country to solve real-world challenges through creative and impactful solutions."
+      ],
+      "release_year": "2025",
+      "release_month": "1",
       "featured": true,
       "has_page": false,
       "src": "challengers",
@@ -693,7 +699,7 @@
       "description": null,
       "release_year": "2024",
       "release_month": "10",
-      "featured": true,
+      "featured": false,
       "has_page": false,
       "src": "portadillas",
       "thumbnails": [
@@ -743,8 +749,8 @@
       "title": "EasyRoomie - Prototype Animation and Oficial Presentation",
       "client": null,
       "description": [
-        "Easy roomie is an application that facilitates contact between users in order to find roommates.",
-        "Visual presentation for investors during the UDD New Business Creation Seminar."
+        "Visual presentation for investors during the UDD New Business Creation Seminar.",
+        "Easy Roomie is a platform that simplifies the search for roommates by connecting users based on compatibility. Created to streamline the process and reduce the stress of shared living arrangements."
       ],
       "release_year": "2024",
       "release_month": "10",
@@ -769,7 +775,7 @@
       }
     },
     {
-      "title": "UANDES Banners",
+      "title": "UANDES Oliver Twist Banner",
       "client": "Universidad de los Andes",
       "description": [
         "Multiple banners for Universidad de los Andes, including promotional and informational designs for events and departments."
@@ -780,10 +786,7 @@
       "has_page": false,
       "src": "banners-uandes",
       "thumbnails": [
-        "hihihihi.png",
-        "minibanners.png",
-        "campussalusable.png",
-        "pendones-bienestar.png"
+        "hihihihi.png"
       ],
       "cta": [
         {
