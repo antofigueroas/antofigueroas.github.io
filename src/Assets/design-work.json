@@ -218,31 +218,36 @@
       "team": null
     },
     {
-      "title": "RCP19 - Low Cost Harvesting Machine Project",
+      "title": "Productivity & Ergonomics in Agriculture: RCP-19",
       "client": null,
       "description": [
-        "RCP-19 is a horizontal trailed potato harvester. Its function is to replace the act of bending down and replace part of the force required during work in order to increase productivity and at the same time reduce work-related injuries. The tool is designed to be intuitive, simple to use and easy to operate.",
-        "This project was carried out and presented to the Foundation for Agricultural Innovation (FIA) in Chile during 2019. It was then patented and published in the innovation column of the newspaper El Mercurio."
+        "RCP-19 is a horizontal trailed potato harvester designed to improve productivity and reduce physical strain during agricultural work.",
+        "The project was developed and presented to the Foundation for Agricultural Innovation (FIA) in Chile in 2019. It was later patented and featured in El Mercurio’s innovation column."
       ],
       "release_year": "2019",
       "release_month": "08",
-      "featured": false,
+      "featured": true,
       "has_page": false,
       "src": "rcp/project",
       "thumbnails": [
-        "cosechadora_web.jpg",
-        "cosechadora en persona.png"
+        "rcp1.webp"
       ],
       "cta": [
         {
           "title": "About FIA",
           "url": "https://www.fia.cl/sobre-fia/"
         }
+      ],  
+      "cta": [
+        {
+          "title": "Innovation Column",
+          "url": "https://www.litoralpress.cl/sitio/Prensa_Detalles?Lpkey=FACBT3F5BUFFGTMZI4RKIBUNWVTVBYJ2LPZSG3FWVY73S23A45DQ"
+        }
       ],
       "team": {
-        "Graphic Design": [
+        "Graphic and Product Design": [
           {
-            "name": "Antonia Figueroa"
+            "name": null
           }
         ],
         "Team": [
@@ -410,11 +415,11 @@
       }
     },
     {
-      "title": "BCF x AmazonSmile - Social Media Content",
+      "title": "Amazon Smile Donation Campaign",
       "client": "Coaniquem BCF by Coaniquem",
       "description": [
-        "Design of social media content and explanatory videos of the collaboration between Coaniquem BCF and Amazon Smile, with the purpose of encouraging the use of the platform and explaining the donation process.",
-        "Amazon is one of the largest U.S. companies as a global leader in e-commerce. During 2013, Amazon implemented Amazon Smile, a service that donates 0.5% of purchase to charities such as Coaniquem BCF."
+        "Design of social media content and explanatory videos for the collaboration between Coaniquem BCF and Amazon Smile. The goal was to promote the use of the platform and clearly explain the donation process.",
+        "Amazon, a global leader in e-commerce, launched Amazon Smile in 2013 — a service that donates 0.5% of eligible purchases to nonprofit organizations such as Coaniquem BCF."
       ],
       "release_year": "2022",
       "release_month": "03",
@@ -422,14 +427,10 @@
       "has_page": false,
       "src": "amazon-bcf",
       "thumbnails": [
-        "prueba amazon.mp4"
+        "amazon1.webp",
+        "amazon2.webp"
       ],
-      "cta": [
-        {
-          "title": "About Coaniquem BCF x AmazonSmile",
-          "url": "https://burnedchildren.org/amazon-smile/"
-        }
-      ],
+      "cta": null,
       "team": {
         "Graphic Design": [
           {
@@ -481,7 +482,7 @@
       "title": "Clínica Elements - Rebranding",
       "client": null,
       "description": [
-        "A comprehensive branding project for Clínica Elements, featuring logo design and the creation of visual identities that embody the brand's essence."
+        "A comprehensive branding project for Clínica Elements, featuring logo redesign and the creation of visual identities that embody the brand's essence."
       ],
       "release_year": "2025",
       "release_month": "01",
