@@ -114,8 +114,8 @@
       "has_page": false,
       "src": "ilko/toaster",
       "thumbnails": [
-        "tostador-01.webp",
-        "tostador-02.webp",
+        "ilko1.webp",
+        "ilko2.webp",
         "videitoilkooficial.mp4"
       ],
       "cta": [
@@ -139,11 +139,10 @@
       }                            
     },
     {
-      "title": "Paperman Short Film, Alternative Covers",
+      "title": "Paperman Short Film – Illustrated Alternative Posters",
       "client": null,
       "description": [
-        "Fictitious and alternative posters for the Disney Pixar Paperman short film. The development of this project resulted in two illustrated posters.",
-        "This project was not commissioned by the creators of the short film, nor is it directly related to it."
+        "Fictitious and alternative posters for Disney Pixar’s short film Paperman. This self-initiated project resulted in two illustrated posters and is not affiliated with or commissioned by the creators of the film."
       ],
       "release_year": "2020",
       "release_month": "06",
@@ -151,16 +150,16 @@
       "has_page": false,
       "src": "paperman",
       "thumbnails": [
-        "paperman_2poster.png",
-        "paperman_1poster.png",
-        "veamosquetal.png"
+        "paperman1.webp",
+        "paperman2.webp",
+        "personajes.webp"
 
 
       ],
       "cta": [
         {
           "title": "Watch the original Walt Disney Short Film",
-          "url": "https://www.facebook.com/futonheaven/videos/760561397890180"
+          "url": "https://www.dailymotion.com/video/x7xdfpj"
         }
       ],
       "team": {
@@ -172,7 +171,7 @@
       }
     },
     {
-      "title": "GRIK - Logo and Infographic",
+      "title": "GRIK - Logo and Infographic Design",
       "client": null,
       "description": [
         "Logo and infographics for GRIK project (2018), including a bespoke typeface created from scratch."
@@ -181,10 +180,10 @@
       "release_month": "11",
       "featured": false,
       "has_page": false,
-      "src": "grik/grik-brand-identity",
+      "src": "grik",
       "thumbnails": [
-        "grik-01.webp",
-        "grik2-01.webp"
+        "grik1.webp",
+        "grik2.webp"
       ],
       "cta": null,
       "team": {
@@ -204,11 +203,11 @@
       ],
       "release_year": "2021",
       "release_month": "09",
-      "featured": false,
+      "featured": true,
       "has_page": false,
       "src": "minecraft",
       "thumbnails": [
-        "minecraft-01.webp"
+        "minecrat.webp"
       ],
       "cta": [
         {
@@ -217,36 +216,6 @@
         }
       ],
       "team": null
-    },
-    {
-      "title": "Ciudad de Dios, Cinematographic Imaginaries",
-      "client": null,
-      "description": [
-        "This project encapsulates the collective imagination of the Brazilian favela as portrayed in the film 'Ciudad de Dios,' offering an exploration into the criminal underworld of Rio de Janeiro.",
-        " Drawing from an analysis of the film, the project incorporates elements that shape the identity of the favela, vividly illustrating the vulnerability inherent in its reality."
-      ],
-      "release_year": "2020",
-      "release_month": "12",
-      "featured": false,
-      "has_page": false,
-      "src": "ciudad-de-dios",
-      "thumbnails": [
-        "ciudad.jpg",
-        "gifprociudad.mp4"
-      ],
-      "cta": [
-        {
-          "title": "Full Explanation",
-          "url": "https://www.flickr.com/photos/disenointercine/50750783958/"
-        }
-      ],
-      "team":  {
-        "Graphic Design": [
-          {
-            "name": "Antonia Figueroa"
-          }
-        ]
-      }
     },
     {
       "title": "RCP19 - Low Cost Harvesting Machine Project",
@@ -346,52 +315,19 @@
       }
     },
     {
-      "title": "UANDES: Christmas Campaign 2023",
-      "client": null,
-      "description": null,
-      "release_year": "2023",
-      "release_month": "11",
-      "featured": false,
-      "has_page": false,
-      "src": "uandes-navidad",
-      "thumbnails": [
-        "masomfe.png",
-        "parantenavidad.png"
-      ],
-      "cta": [
-        {
-          "title": "About Universidad de los Andes",
-          "url": "https://www.uandes.cl/"
-        }
-      ],
-      "team": {
-        "Designer": [
-          {
-            "name": "Antonia Figueroa"
-          }
-        ],
-        "Client": [
-          {
-            "name": "Universidad de los Andes"
-          }
-        ]
-      }
-    },
-    {
-      "title": "Virutex Products Sketches",
+      "title": "Virutex - Exploratory Product Sketches",
       "client": null,
       "description": [
-        "Product sketches.",
-        "The development of these drawings was only one stage of the complete project with the brand."
+        "Product sketches developed as part of an early design phase in a broader collaboration with the brand."
       ],
       "release_year": "2019",
       "release_month": "05",
-      "featured": false,
+      "featured": true,
       "has_page": false,
       "src": "virutex",
       "thumbnails": [
-        "draw1.jpg",
-        "draw2.jpg"
+        "sketch1.webp",
+        "sketch2.webp"
       ],
       "cta": [
         {
@@ -503,10 +439,10 @@
       }
     },
     {
-      "title": "Logo and Visual Identity Design - Persia Motorsport",
+      "title": "Persia Motorsport – Branding & Stationery Design",
       "client": "Persia Motorsport",
       "description": [
-        "This project showcases the development of comprehensive branding and stationary designs for Persia Motorsport. It encompasses the creation of the logo and the establishment of visual identities that resonate with the essence and values of the brand."
+        "This project showcases the development of comprehensive branding and stationery for Persia Motorsport, including logo design and visual identity elements that reflect the brand’s essence and values."
       ],
       "release_year": "2024",
       "release_month": "05",
@@ -729,7 +665,7 @@
       "has_page": false,
       "src": "canvaplantilla",
       "thumbnails": [
-        "plantillas.png"
+        "plantillas.webp"
       ],
       "cta": null,
       "team": {
