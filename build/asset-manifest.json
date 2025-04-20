@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.e3f6da3d.css",
-    "main.js": "/static/js/main.e8a18e2d.js",
+    "main.js": "/static/js/main.27144c44.js",
     "static/media/videoinstructivo.mp4": "/static/media/videoinstructivo.203cc9f2d7c7628475f2.mp4",
     "static/media/leaf.mp4": "/static/media/leaf.0a1add229eafd2cbc0da.mp4",
     "static/media/fondogrisvideo.mp4": "/static/media/fondogrisvideo.1b089cbb1457f491c0b0.mp4",
@@ -83,6 +83,7 @@
     "static/media/hombredeverdad_web-02.jpg": "/static/media/hombredeverdad_web-02.60c4171779fd250e40ac.jpg",
     "static/media/hoop-03.png": "/static/media/hoop-03.aaf2eaabdf2e34e19747.png",
     "static/media/rrsstriada.mp4": "/static/media/rrsstriada.8a088a81b11523d29182.mp4",
+    "static/media/matri.webp": "/static/media/matri.8e53d8088bee0b8f8ac1.webp",
     "static/media/vistapreviacuaderno.png": "/static/media/vistapreviacuaderno.dadfef0c03b240183919.png",
     "static/media/Spiral.png": "/static/media/Spiral.3e79dba90468b6a379c8.png",
     "static/media/stickersclaro.png": "/static/media/stickersclaro.88590b7064e8fc282c56.png",
@@ -131,6 +132,7 @@
     "static/media/grik1.webp": "/static/media/grik1.0c5c25d713bc315a637f.webp",
     "static/media/mascara2.webp": "/static/media/mascara2.436f6e05e2fadeb340ee.webp",
     "static/media/minecrat.webp": "/static/media/minecrat.24be49b55b85bdaac0d2.webp",
+    "static/media/matri2.webp": "/static/media/matri2.48b86ef75f7ebea88f48.webp",
     "static/media/clinica1.webp": "/static/media/clinica1.8a49e15e47fdaa7f95aa.webp",
     "static/media/instamascaras.jpg": "/static/media/instamascaras.765aa1ea201b5c3ab01a.jpg",
     "static/media/sketch1.webp": "/static/media/sketch1.cd8ab626e93ddad76cfc.webp",
@@ -147,10 +149,10 @@
     "static/media/yoteapoyo-01.png": "/static/media/yoteapoyo-01.a757e7c8a9a1a484518f.png",
     "index.html": "/index.html",
     "main.e3f6da3d.css.map": "/static/css/main.e3f6da3d.css.map",
-    "main.e8a18e2d.js.map": "/static/js/main.e8a18e2d.js.map"
+    "main.27144c44.js.map": "/static/js/main.27144c44.js.map"
   },
   "entrypoints": [
     "static/css/main.e3f6da3d.css",
-    "static/js/main.e8a18e2d.js"
+    "static/js/main.27144c44.js"
   ]
 }

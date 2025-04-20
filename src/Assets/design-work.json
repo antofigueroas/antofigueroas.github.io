@@ -267,6 +267,32 @@
       }
     },
     {
+      "title": "Interactive Wedding Invitations",
+      "client": null,
+      "description": [
+        "Digital wedding invitations delivered as interactive PDFs.",
+        "Each project features a personalized layout that redirects to a custom web page with all essential event details — including location maps, calendar integration to save the date, music chosen by the couple, highlight videos with their best photos, direct links to the gift registry, and more. A seamless, elegant, and memorable experience for every guest.",
+        "Currently open for wedding invitation commissions."
+      ],
+      "release_year": "2025",
+      "release_month": "02",
+      "featured": true,
+      "has_page": false,
+      "src": "wedding",
+      "thumbnails": [
+        "matri2.webp",
+        "matri.webp"
+      ],
+      "cta": null,
+      "team": {
+        "Graphic and Web Design": [
+          {
+            "name": "Antonia Figueroa"
+          }
+        ]
+      }
+    },
+    {
       "title": "FullFace Mask Initiative: COVID-19 PPE",
       "client": null,
       "description": [
@@ -606,7 +632,12 @@
       "thumbnails": [
         "challengers.webp"
       ],
-      "cta": null,
+      "cta": [
+        {
+          "title": "About Challengers UANDES",
+          "url": "https://www.uandes.cl/challengers/"
+        }
+      ],
       "team": {
         "Graphic Design": [
           {
