@@ -56,10 +56,10 @@ function About() {
         <p className="big-statement-subtitle"></p>
         <div className="about-me-paragraphs">
           <p>
-          Born in Santiago, Chile, {Age} years ago, where I studied Integral Design at Pontificia Universidad Católica de Chile.
+          Chilean designer {Age} with a degree in Integral Design from Pontificia Universidad Católica de Chile.
           </p>
           <p>
-          I strive to create beautiful designs that remain truthful to their intended function—with the user's needs in mind. Currently I'm learning to code and illustrate in order to keep on designing everything that pops up in my head.
+          I strive to create beautiful, purposeful designs that stay true to their function — always with the user's needs in mind. Currently I'm learning to code and use AI tools in order to keep on designing everything that pops up in my head.
           </p>
           <p>
           Find out more in my {" "}
