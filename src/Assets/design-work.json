@@ -118,12 +118,7 @@
         "ilko2.webp",
         "videitoilkooficial.mp4"
       ],
-      "cta": [
-        {
-          "title": "Watch the full video",
-          "url": "https://youtu.be/alaaudPGOBY"
-        }
-      ],
+      "cta": null,
       "team": {
         "Team": [
           {
@@ -151,7 +146,7 @@
       "src": "paperman",
       "thumbnails": [
         "paperman1.webp",
-        "paperman2.webp",
+        "paperman4.webp",
         "personajes.webp"
 
 
@@ -317,7 +312,7 @@
             "name": "Antonia Figueroa"
           }
         ],
-        "Video": [
+        "Video and 3D models": [
           {
             "name": "Antonia Adell"
           },
@@ -326,11 +321,6 @@
           },
           {
             "name": "María Jesus Viñales"
-          }
-        ],
-        "Client": [
-          {
-            "name": "MEDISEÑO UC"
           }
         ]
       }
@@ -398,7 +388,7 @@
       }
     },
     {
-      "title": "Finis Terrae's Medical School",
+      "title": "Academic Material Design – Finis Terrae Medical School",
       "client": null,
       "description": [
         "Development of six educational materials for students, balancing informative content with friendly and accessible design."
@@ -468,12 +458,10 @@
       "src": "persia",
       "thumbnails": [
         "cartas persia.png",
-        "Lanyard_Mockup_1dasdsa.png",
-        "bolsita.png",
         "bolsinana.png",
+        "bolsita.png",
         "cajinas.png",
-        "tarjetete.png",
-        "compupu.png"
+        "Lanyard_Mockup_1dasdsa.png"
       ],
       "cta": [
         {
@@ -576,7 +564,12 @@
         "bienestar1.webp",
         "bienestar2.webp"
       ],
-      "cta": null,
+      "cta": [
+        {
+          "title": "About Universidad de los Andes",
+          "url": "https://www.uandes.cl/"
+        }
+      ],
       "team": {
         "Graphic Design": [
           {
@@ -604,7 +597,12 @@
       "thumbnails": [
         "alemana.webp"
       ],
-      "cta": null,
+      "cta": [
+        {
+          "title": "About Clínica Alemana",
+          "url": "https://www.clinicaalemana.cl"
+        }
+      ],
       "team": {
         "Graphic Design": [
           {
@@ -652,18 +650,23 @@
       }
     },
     {
-      "title": "Cover Presentation templates  - Universidad de los Andes",
+      "title": "Presentation templates in Canva - Universidad de los Andes",
       "client": null,
       "description": null,
       "release_year": "2024",
       "release_month": "10",
       "featured": false,
       "has_page": false,
-      "src": "portadillas",
+      "src": "canvaplantilla",
       "thumbnails": [
-        "portadillas.mp4"
+        "plantillas.webp"
       ],
-      "cta": null,
+      "cta": [
+        {
+          "title": "About Universidad de los Andes",
+          "url": "https://www.uandes.cl/"
+        }
+      ],
       "team": {
         "Graphic Design": [
           {
@@ -678,18 +681,94 @@
       }
     },
     {
-      "title": "Presentation templates in Canva - Universidad de los Andes",
+      "title": "Quiet Zones Awareness Campaign – Universidad de los Andes",
       "client": null,
-      "description": null,
+      "description": [
+        "Visual campaign developed to promote respect for designated silent areas within the university library. The materials aimed to clearly communicate behavioral expectations through friendly and accessible graphics placed throughout key study spaces and social media."
+        ],
+      "release_year": "2024",
+      "release_month": "10",
+      "featured": true,
+      "has_page": false,
+      "src": "biblioteca",
+      "thumbnails": [
+        "silencio1.webp",
+        "silencio2.webp"
+      ],
+      "cta": [
+        {
+          "title": "About Universidad de los Andes",
+          "url": "https://www.uandes.cl/"
+        }
+      ],
+      "team": {
+        "Graphic Design": [
+          {
+            "name": "Antonia Figueroa"
+          }
+        ],
+        "Client": [
+          {
+            "name": "Universidad de los Andes"
+          }
+        ]
+      }
+    },
+    {
+      "title": "Merlin: Graphic and Motion Design for the University Musical",
+      "client": null,
+      "description": [
+        "Comprehensive visual development for the university musical adaptation of Merlin, including both printed and digital assets. The project featured promotional materials for web and social media, invitations, Ticketplus visuals, large-format signage, and a custom motion graphic created from scratch."
+        ],
+      "release_year": "2024",
+      "release_month": "11",
+      "featured": true,
+      "has_page": false,
+      "src": "merlin",
+      "thumbnails": [
+        "1920x1080px_Merlin.mp4",
+        "merlin.webp",
+        "merlin2.webp"
+      ],
+      "cta": [
+        {
+          "title": "About Merlín, Un musical de Leyenda",
+          "url": "https://www.uandes.cl/merlin/"
+        }
+      ],
+      "team": {
+        "Design": [
+          {
+            "name": "Antonia Figueroa"
+          }
+        ],
+        "Client": [
+          {
+            "name": "ADAE & Vida Universitaria, Universidad de los Andes"
+          }
+        ]
+      }
+    },
+    {
+      "title": "Visual Identity and Cover Proposals – Annual Report, Universidad de los Andes",
+      "client": null,
+      "description": [
+        "Design proposals for the institutional annual report of Universidad de los Andes. The concepts aim to reflect the university’s academic prestige and a contemporary approach."
+        ],
       "release_year": "2024",
       "release_month": "10",
       "featured": false,
       "has_page": false,
-      "src": "canvaplantilla",
+      "src": "portadillas",
       "thumbnails": [
-        "plantillas.webp"
+        "portadillas.mp4"
       ],
-      "cta": null,
+      "cta": [
+        {
+          "title": "About Universidad de los Andes",
+          "url": "https://www.uandes.cl/"
+        }
+      ],
       "team": {
         "Graphic Design": [
           {
@@ -733,18 +812,19 @@
       }
     },
     {
-      "title": "UANDES Oliver Twist Banner",
+      "title": "Oliver Twist: Graphic Adaptations for the University Musical",
       "client": "Universidad de los Andes",
       "description": [
-        "Multiple banners for Universidad de los Andes, including promotional and informational designs for events and departments."
+        "Comprehensive visual development for the university musical adaptation of Oliver Twist, including both digital and printed materials. The project encompassed promotional assets across multiple platforms, such as web banners, social media content, invitations, Ticketplus visuals, and large-format signage."
       ],
       "release_year": "2023",
       "release_month": "07",
       "featured": false,
       "has_page": false,
-      "src": "banners-uandes",
+      "src": "oliver",
       "thumbnails": [
-        "hihihihi.png"
+        "oliver2.webp",
+        "oliver1.webp"
       ],
       "cta": [
         {
