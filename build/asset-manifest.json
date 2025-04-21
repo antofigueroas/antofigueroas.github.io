@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.70ebc1bc.css",
-    "main.js": "/static/js/main.42f03bec.js",
+    "main.js": "/static/js/main.2535a6d3.js",
     "static/media/videoinstructivo.mp4": "/static/media/videoinstructivo.203cc9f2d7c7628475f2.mp4",
     "static/media/leaf.mp4": "/static/media/leaf.0a1add229eafd2cbc0da.mp4",
     "static/media/fondogrisvideo.mp4": "/static/media/fondogrisvideo.1b089cbb1457f491c0b0.mp4",
@@ -119,6 +119,7 @@
     "static/media/challengers.webp": "/static/media/challengers.8bc2bd398e298afc32c8.webp",
     "static/media/personajes.webp": "/static/media/personajes.2306484de63da23b7da6.webp",
     "static/media/plantillas.webp": "/static/media/plantillas.fee77489b9f065d5f9da.webp",
+    "static/media/minecraft2.webp": "/static/media/minecraft2.753f0ee3f391e2bab857.webp",
     "static/media/oliver2.webp": "/static/media/oliver2.3f3f8cc40e22db1572af.webp",
     "static/media/easyroomie.webp": "/static/media/easyroomie.3dc438048b0a6cf69510.webp",
     "static/media/uandes1.webp": "/static/media/uandes1.5cd570ccdea50830d319.webp",
@@ -154,10 +155,10 @@
     "static/media/yoteapoyo-01.png": "/static/media/yoteapoyo-01.a757e7c8a9a1a484518f.png",
     "index.html": "/index.html",
     "main.70ebc1bc.css.map": "/static/css/main.70ebc1bc.css.map",
-    "main.42f03bec.js.map": "/static/js/main.42f03bec.js.map"
+    "main.2535a6d3.js.map": "/static/js/main.2535a6d3.js.map"
   },
   "entrypoints": [
     "static/css/main.70ebc1bc.css",
-    "static/js/main.42f03bec.js"
+    "static/js/main.2535a6d3.js"
   ]
 }
