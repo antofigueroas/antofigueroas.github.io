@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.e3f6da3d.css",
-    "main.js": "/static/js/main.6bfaf722.js",
+    "main.js": "/static/js/main.f6bdebb7.js",
     "static/media/videoinstructivo.mp4": "/static/media/videoinstructivo.203cc9f2d7c7628475f2.mp4",
     "static/media/leaf.mp4": "/static/media/leaf.0a1add229eafd2cbc0da.mp4",
     "static/media/fondogrisvideo.mp4": "/static/media/fondogrisvideo.1b089cbb1457f491c0b0.mp4",
@@ -38,7 +38,6 @@
     "static/media/paperman_2poster.png": "/static/media/paperman_2poster.eadfa6842389bea4468c.png",
     "static/media/gifprociudad.mp4": "/static/media/gifprociudad.8b9bb7a5ab7d3013d5fd.mp4",
     "static/media/libritoabierto.png": "/static/media/libritoabierto.6be119195764f3fd1015.png",
-    "static/media/videocolecta_02.mp4": "/static/media/videocolecta_02.5c37b1b73fa18dec5da9.mp4",
     "static/media/triadapartedeatras.png": "/static/media/triadapartedeatras.7ee51d397ebbdb32184e.png",
     "static/media/brochure.png": "/static/media/brochure.393d992bafe405af653e.png",
     "static/media/veamosquetal.png": "/static/media/veamosquetal.8a3548577d2adfa47544.png",
@@ -120,7 +119,6 @@
     "static/media/challengers.webp": "/static/media/challengers.8bc2bd398e298afc32c8.webp",
     "static/media/personajes.webp": "/static/media/personajes.2306484de63da23b7da6.webp",
     "static/media/plantillas.webp": "/static/media/plantillas.fee77489b9f065d5f9da.webp",
-    "static/media/silencio3.webp": "/static/media/silencio3.f5ca4cad828b71001bee.webp",
     "static/media/oliver2.webp": "/static/media/oliver2.3f3f8cc40e22db1572af.webp",
     "static/media/easyroomie.webp": "/static/media/easyroomie.3dc438048b0a6cf69510.webp",
     "static/media/uandes1.webp": "/static/media/uandes1.5cd570ccdea50830d319.webp",
@@ -143,6 +141,7 @@
     "static/media/paperman1.webp": "/static/media/paperman1.473b1cfc66abecfdb85b.webp",
     "static/media/silencio1.webp": "/static/media/silencio1.44ec623c0c6e9fb03f52.webp",
     "static/media/clinica4.webp": "/static/media/clinica4.d28b931b80d0d28dd088.webp",
+    "static/media/biblioteca3.webp": "/static/media/biblioteca3.514ece4285f179066ad4.webp",
     "static/media/paperman4.webp": "/static/media/paperman4.e8465e709e72fb9e98f7.webp",
     "static/media/uandes2.webp": "/static/media/uandes2.a68add0a73212f6d737f.webp",
     "static/media/silencio2.webp": "/static/media/silencio2.33a2df988daa9cb49efe.webp",
@@ -155,10 +154,10 @@
     "static/media/yoteapoyo-01.png": "/static/media/yoteapoyo-01.a757e7c8a9a1a484518f.png",
     "index.html": "/index.html",
     "main.e3f6da3d.css.map": "/static/css/main.e3f6da3d.css.map",
-    "main.6bfaf722.js.map": "/static/js/main.6bfaf722.js.map"
+    "main.f6bdebb7.js.map": "/static/js/main.f6bdebb7.js.map"
   },
   "entrypoints": [
     "static/css/main.e3f6da3d.css",
-    "static/js/main.6bfaf722.js"
+    "static/js/main.f6bdebb7.js"
   ]
 }
