@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.e3f6da3d.css",
-    "main.js": "/static/js/main.f6bdebb7.js",
+    "main.css": "/static/css/main.e01ffa0d.css",
+    "main.js": "/static/js/main.92ce33b1.js",
     "static/media/videoinstructivo.mp4": "/static/media/videoinstructivo.203cc9f2d7c7628475f2.mp4",
     "static/media/leaf.mp4": "/static/media/leaf.0a1add229eafd2cbc0da.mp4",
     "static/media/fondogrisvideo.mp4": "/static/media/fondogrisvideo.1b089cbb1457f491c0b0.mp4",
@@ -153,11 +153,11 @@
     "static/media/mascara1.webp": "/static/media/mascara1.4f0a9d14ef7ca49ebe47.webp",
     "static/media/yoteapoyo-01.png": "/static/media/yoteapoyo-01.a757e7c8a9a1a484518f.png",
     "index.html": "/index.html",
-    "main.e3f6da3d.css.map": "/static/css/main.e3f6da3d.css.map",
-    "main.f6bdebb7.js.map": "/static/js/main.f6bdebb7.js.map"
+    "main.e01ffa0d.css.map": "/static/css/main.e01ffa0d.css.map",
+    "main.92ce33b1.js.map": "/static/js/main.92ce33b1.js.map"
   },
   "entrypoints": [
-    "static/css/main.e3f6da3d.css",
-    "static/js/main.f6bdebb7.js"
+    "static/css/main.e01ffa0d.css",
+    "static/js/main.92ce33b1.js"
   ]
 }

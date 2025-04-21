@@ -21,35 +21,9 @@ function About() {
             About — Antonia Figueroa
           </AccessibilityLabel>
         </h2>
-        <figure className="hearts-animation" role="img">
-          <span
-            className="heart"
-            aria-hidden="true"
-            role="img"
-            aria-label="Floating Heart"
-          >
-            🤍
-          </span>
-          <span
-            className="heart"
-            aria-hidden="true"
-            role="img"
-            aria-label="Floating Heart"
-          >
-            🤍
-          </span>
-          <span
-            className="heart"
-            aria-hidden="true"
-            role="img"
-            aria-label="Floating Heart"
-          >
-            🤍
-          </span>
-          <AccessibilityLabel as="figcaption">
-            Animation of floating yellow hearts.
-          </AccessibilityLabel>
-        </figure>
+        <div className="about-photo-container">
+  <img src="/img/yowebp.webp" alt="Antonia Figueroa" className="about-photo" />
+</div>
         <h3 className="big-statement">
         I love designing and looking for new projects and ideas.
         </h3>
