@@ -37,7 +37,7 @@ function About() {
           </p>
           <p>
           Find out more in my {" "}
-            <a
+            <a target="_blank"
               href="/resume/Antonia Figueroa_CV.pdf"
               rel="noopener noreferrer"
             >

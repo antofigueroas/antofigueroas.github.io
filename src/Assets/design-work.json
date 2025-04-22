@@ -214,6 +214,30 @@
       "team": null
     },
     {
+      "title": "Brandbook for Clínica Elements",
+      "client": "Clínica Elements",
+      "description": [
+        "Visual update and simplification of Clínica Elements’ brand identity, compiled into a concise and modern brandbook with updated guidelines."
+      ],
+      "release_year": "2025",
+      "release_month": "01",
+      "featured": false,
+      "has_page": false,
+      "src": "brandbook",
+      "thumbnails": [
+        "book2.webp",
+        "book1.webp"
+      ],
+      "cta": null,
+      "team": {
+        "Design": [
+          {
+            "name": "Antonia Figueroa"
+          }
+        ]
+      }
+    },
+    {
       "title": "Productivity & Ergonomics in Agriculture: RCP-19",
       "client": null,
       "description": [
