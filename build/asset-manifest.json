@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.70ebc1bc.css",
-    "main.js": "/static/js/main.82cbe8cd.js",
+    "main.js": "/static/js/main.98bfbf3f.js",
     "static/media/videoinstructivo.mp4": "/static/media/videoinstructivo.203cc9f2d7c7628475f2.mp4",
     "static/media/leaf.mp4": "/static/media/leaf.0a1add229eafd2cbc0da.mp4",
     "static/media/fondogrisvideo.mp4": "/static/media/fondogrisvideo.1b089cbb1457f491c0b0.mp4",
@@ -110,6 +110,7 @@
     "static/media/amundsen2.webp": "/static/media/amundsen2.97988992838797ece981.webp",
     "static/media/santiago-transit-map-s3-full.png": "/static/media/santiago-transit-map-s3-full.dea0b568b569fd50875e.png",
     "static/media/merlin2.webp": "/static/media/merlin2.f2264c912b87a0266119.webp",
+    "static/media/persia.webp": "/static/media/persia.7cb083afe450e2ac516d.webp",
     "static/media/rcp1.webp": "/static/media/rcp1.f6cd65beede2328a59fb.webp",
     "static/media/bienestar1.webp": "/static/media/bienestar1.67dce464b51086bffb2f.webp",
     "static/media/clinica2.webp": "/static/media/clinica2.3062e8c2d06484cb2a2b.webp",
@@ -157,10 +158,10 @@
     "static/media/yoteapoyo-01.png": "/static/media/yoteapoyo-01.a757e7c8a9a1a484518f.png",
     "index.html": "/index.html",
     "main.70ebc1bc.css.map": "/static/css/main.70ebc1bc.css.map",
-    "main.82cbe8cd.js.map": "/static/js/main.82cbe8cd.js.map"
+    "main.98bfbf3f.js.map": "/static/js/main.98bfbf3f.js.map"
   },
   "entrypoints": [
     "static/css/main.70ebc1bc.css",
-    "static/js/main.82cbe8cd.js"
+    "static/js/main.98bfbf3f.js"
   ]
 }
