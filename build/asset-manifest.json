@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.70ebc1bc.css",
-    "main.js": "/static/js/main.95f28fa8.js",
+    "main.js": "/static/js/main.76a40085.js",
     "static/media/videoinstructivo.mp4": "/static/media/videoinstructivo.203cc9f2d7c7628475f2.mp4",
     "static/media/leaf.mp4": "/static/media/leaf.0a1add229eafd2cbc0da.mp4",
     "static/media/fondogrisvideo.mp4": "/static/media/fondogrisvideo.1b089cbb1457f491c0b0.mp4",
@@ -158,10 +158,10 @@
     "static/media/yoteapoyo-01.png": "/static/media/yoteapoyo-01.a757e7c8a9a1a484518f.png",
     "index.html": "/index.html",
     "main.70ebc1bc.css.map": "/static/css/main.70ebc1bc.css.map",
-    "main.95f28fa8.js.map": "/static/js/main.95f28fa8.js.map"
+    "main.76a40085.js.map": "/static/js/main.76a40085.js.map"
   },
   "entrypoints": [
     "static/css/main.70ebc1bc.css",
-    "static/js/main.95f28fa8.js"
+    "static/js/main.76a40085.js"
   ]
 }
