@@ -25,7 +25,7 @@ function About() {
   <img src="/img/yowebp.webp" alt="Antonia Figueroa" className="about-photo" />
 </div>
         <h3 className="big-statement">
-        I love designing and looking for new projects and ideas.
+        Design meets connection — let’s build something?
         </h3>
         <p className="big-statement-subtitle"></p>
         <div className="about-me-paragraphs">
@@ -33,7 +33,7 @@ function About() {
           Chilean designer ({Age}) with a degree in Integral Design from Pontificia Universidad Católica de Chile.
           </p>
           <p>
-          I strive to create beautiful, purposeful designs that stay true to their function — always with the user's needs in mind. Currently I'm learning to code and use AI tools in order to keep on designing everything that pops up in my head.
+          I create thoughtful, intentional design that looks good and works even better — always thinking about who’s on the other side. Currently learning code and AI to build whatever pops into my head (and maybe yours too).
           </p>
           <p>
           Find out more in my {" "}
@@ -50,7 +50,7 @@ function About() {
             >
               Linkedin
             </a>
-            {<AccessibilityLabel>.</AccessibilityLabel>} :-)
+            {<AccessibilityLabel>.</AccessibilityLabel>}.
           </p>
           <AccessibilityLabel>
             <a target="_blank"
