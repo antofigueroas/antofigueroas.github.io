@@ -33,7 +33,7 @@ function About() {
           Chilean designer ({Age}) with a degree in Integral Design from Pontificia Universidad Católica de Chile.
           </p>
           <p>
-          I create thoughtful, intentional design that looks good and works even better — always thinking about who’s on the other side. Currently learning code and use AI tools to build whatever pops into my head (and maybe yours too).
+          I create thoughtful, intentional design that looks good and works even better — always thinking about who’s on the other side. Currently learning to code and using AI tools to create whatever pops into my head (and maybe yours too).
           </p>
           <p>
           Find out more in my {" "}
