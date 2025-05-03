@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.70ebc1bc.css",
-    "main.js": "/static/js/main.c25bbffb.js",
+    "main.js": "/static/js/main.453e7f6a.js",
     "static/media/videoinstructivo.mp4": "/static/media/videoinstructivo.203cc9f2d7c7628475f2.mp4",
     "static/media/leaf.mp4": "/static/media/leaf.0a1add229eafd2cbc0da.mp4",
     "static/media/fondogrisvideo.mp4": "/static/media/fondogrisvideo.1b089cbb1457f491c0b0.mp4",
@@ -137,11 +137,14 @@
     "static/media/grik1.webp": "/static/media/grik1.0c5c25d713bc315a637f.webp",
     "static/media/mascara2.webp": "/static/media/mascara2.436f6e05e2fadeb340ee.webp",
     "static/media/minecrat.webp": "/static/media/minecrat.24be49b55b85bdaac0d2.webp",
+    "static/media/persia9.webp": "/static/media/persia9.439fb41722f2d1e292a1.webp",
     "static/media/matri2.webp": "/static/media/matri2.48b86ef75f7ebea88f48.webp",
     "static/media/clinica1.webp": "/static/media/clinica1.8a49e15e47fdaa7f95aa.webp",
     "static/media/bolsapersia.webp": "/static/media/bolsapersia.8c5a38ceedd23b3c849d.webp",
+    "static/media/paletapersia.webp": "/static/media/paletapersia.c4c9ac36ad3d9dfc2d79.webp",
     "static/media/instamascaras.jpg": "/static/media/instamascaras.765aa1ea201b5c3ab01a.jpg",
     "static/media/sketch1.webp": "/static/media/sketch1.cd8ab626e93ddad76cfc.webp",
+    "static/media/persia8.webp": "/static/media/persia8.5ed9f3d616fe562e72db.webp",
     "static/media/paperman2.webp": "/static/media/paperman2.64d6f79f1be648633bc2.webp",
     "static/media/maths30.gif": "/static/media/maths30.85cee56a6ca852ff7e28.gif",
     "static/media/paperman1.webp": "/static/media/paperman1.473b1cfc66abecfdb85b.webp",
@@ -162,10 +165,10 @@
     "static/media/yoteapoyo-01.png": "/static/media/yoteapoyo-01.a757e7c8a9a1a484518f.png",
     "index.html": "/index.html",
     "main.70ebc1bc.css.map": "/static/css/main.70ebc1bc.css.map",
-    "main.c25bbffb.js.map": "/static/js/main.c25bbffb.js.map"
+    "main.453e7f6a.js.map": "/static/js/main.453e7f6a.js.map"
   },
   "entrypoints": [
     "static/css/main.70ebc1bc.css",
-    "static/js/main.c25bbffb.js"
+    "static/js/main.453e7f6a.js"
   ]
 }
