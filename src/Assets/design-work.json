@@ -471,23 +471,20 @@
       }
     },
     {
-      "title": "Persia Motorsport – Branding & Stationery Design",
+      "title": "Persia Motorsport – Branding & Stationery",
       "client": "Persia Motorsport",
       "description": [
-        "This project showcases the development of comprehensive branding and stationery for Persia Motorsport, including logo design and visual identity elements that reflect the brand’s essence and values."
+        "This project showcases the development of comprehensive branding and stationery for Persia Motorsport."
       ],
       "release_year": "2024",
       "release_month": "05",
-      "featured": false,
+      "featured": true,
       "has_page": false,
       "src": "persia",
       "thumbnails": [
-        "persia.webp",
-        "cartas persia.png",
-        "bolsinana.png",
-        "bolsita.png",
-        "cajinas.png",
-        "Lanyard_Mockup_1dasdsa.png"
+        "persia1.webp",
+        "persia5.webp",
+        "persia6.webp"
       ],
       "cta": [
         {

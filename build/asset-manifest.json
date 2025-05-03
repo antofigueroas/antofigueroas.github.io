@@ -1,18 +1,15 @@
 {
   "files": {
     "main.css": "/static/css/main.70ebc1bc.css",
-    "main.js": "/static/js/main.39e0a298.js",
+    "main.js": "/static/js/main.c25bbffb.js",
     "static/media/videoinstructivo.mp4": "/static/media/videoinstructivo.203cc9f2d7c7628475f2.mp4",
     "static/media/leaf.mp4": "/static/media/leaf.0a1add229eafd2cbc0da.mp4",
     "static/media/fondogrisvideo.mp4": "/static/media/fondogrisvideo.1b089cbb1457f491c0b0.mp4",
     "static/media/plantillas.png": "/static/media/plantillas.291b4ea112e9a37918b2.png",
-    "static/media/bolsinana.png": "/static/media/bolsinana.cacf2cec3d3969c4f6b8.png",
-    "static/media/cajinas.png": "/static/media/cajinas.f84b243ae5a8f91c3a64.png",
     "static/media/videoclaro.mp4": "/static/media/videoclaro.9ad30e801a645a2e04d7.mp4",
     "static/media/posmetafisica-01.webp": "/static/media/posmetafisica-01.4de526aa6cca0ffbb067.webp",
     "static/media/bolsita.png": "/static/media/bolsita.9c7a70518a73007b509c.png",
     "static/media/videitoilkooficial.mp4": "/static/media/videitoilkooficial.62b3cabff3afad24754e.mp4",
-    "static/media/cartas persia.png": "/static/media/cartas persia.07a25c4c173c21271035.png",
     "static/media/finisterrae-01.webp": "/static/media/finisterrae-01.fbe64bac97a3b7e9e1b6.webp",
     "static/media/2023.mp4": "/static/media/2023.fd79d6ce4e01cee0d920.mp4",
     "static/media/Proximamente_Merlin.mp4": "/static/media/Proximamente_Merlin.815e5739c0d0529b07fd.mp4",
@@ -108,6 +105,7 @@
     "static/media/standcolecta.jpg": "/static/media/standcolecta.a4200b8d22606e582de0.jpg",
     "static/media/trans1.jpg": "/static/media/trans1.247557f5e3ad5c4112e0.jpg",
     "static/media/amundsen2.webp": "/static/media/amundsen2.97988992838797ece981.webp",
+    "static/media/persia1.webp": "/static/media/persia1.5af02686a3692c165e78.webp",
     "static/media/santiago-transit-map-s3-full.png": "/static/media/santiago-transit-map-s3-full.dea0b568b569fd50875e.png",
     "static/media/merlin2.webp": "/static/media/merlin2.f2264c912b87a0266119.webp",
     "static/media/persia.webp": "/static/media/persia.7cb083afe450e2ac516d.webp",
@@ -122,12 +120,15 @@
     "static/media/personajes.webp": "/static/media/personajes.2306484de63da23b7da6.webp",
     "static/media/book2.webp": "/static/media/book2.64e810e7ca87b11ee0ac.webp",
     "static/media/plantillas.webp": "/static/media/plantillas.fee77489b9f065d5f9da.webp",
+    "static/media/persia6.webp": "/static/media/persia6.2a62b7a54eb287211b57.webp",
+    "static/media/persia5.webp": "/static/media/persia5.fac786445395f11d76e7.webp",
     "static/media/minecraft2.webp": "/static/media/minecraft2.753f0ee3f391e2bab857.webp",
     "static/media/oliver2.webp": "/static/media/oliver2.3f3f8cc40e22db1572af.webp",
     "static/media/easyroomie.webp": "/static/media/easyroomie.3dc438048b0a6cf69510.webp",
     "static/media/uandes1.webp": "/static/media/uandes1.5cd570ccdea50830d319.webp",
     "static/media/mascara4.webp": "/static/media/mascara4.4b0e8d299b059f64c445.webp",
     "static/media/mascara3.webp": "/static/media/mascara3.7fe11a56796922524f26.webp",
+    "static/media/persia4.webp": "/static/media/persia4.cb8543351418342c5b31.webp",
     "static/media/psi.webp": "/static/media/psi.1733f30a3108ee5ca82f.webp",
     "static/media/amazon1.webp": "/static/media/amazon1.32400e036e8f0336e67e.webp",
     "static/media/amazon2.webp": "/static/media/amazon2.db0a077c88da00482d8e.webp",
@@ -138,6 +139,7 @@
     "static/media/minecrat.webp": "/static/media/minecrat.24be49b55b85bdaac0d2.webp",
     "static/media/matri2.webp": "/static/media/matri2.48b86ef75f7ebea88f48.webp",
     "static/media/clinica1.webp": "/static/media/clinica1.8a49e15e47fdaa7f95aa.webp",
+    "static/media/bolsapersia.webp": "/static/media/bolsapersia.8c5a38ceedd23b3c849d.webp",
     "static/media/instamascaras.jpg": "/static/media/instamascaras.765aa1ea201b5c3ab01a.jpg",
     "static/media/sketch1.webp": "/static/media/sketch1.cd8ab626e93ddad76cfc.webp",
     "static/media/paperman2.webp": "/static/media/paperman2.64d6f79f1be648633bc2.webp",
@@ -152,16 +154,18 @@
     "static/media/sketch2.webp": "/static/media/sketch2.27008eb010c75ef0e618.webp",
     "static/media/grik2.webp": "/static/media/grik2.5b2940e2bff122d77747.webp",
     "static/media/yoteapoyo-02.png": "/static/media/yoteapoyo-02.dced9bc2ea4ec615e7ab.png",
+    "static/media/cajaspersia.webp": "/static/media/cajaspersia.13ba52a04245ac491aee.webp",
     "static/media/ilko1.webp": "/static/media/ilko1.f4d7414bdd25a7048937.webp",
     "static/media/ilko2.webp": "/static/media/ilko2.920c82eb9b3f4b14d8fb.webp",
     "static/media/mascara1.webp": "/static/media/mascara1.4f0a9d14ef7ca49ebe47.webp",
+    "static/media/lanyardpersia.webp": "/static/media/lanyardpersia.952b733a1a71a251c245.webp",
     "static/media/yoteapoyo-01.png": "/static/media/yoteapoyo-01.a757e7c8a9a1a484518f.png",
     "index.html": "/index.html",
     "main.70ebc1bc.css.map": "/static/css/main.70ebc1bc.css.map",
-    "main.39e0a298.js.map": "/static/js/main.39e0a298.js.map"
+    "main.c25bbffb.js.map": "/static/js/main.c25bbffb.js.map"
   },
   "entrypoints": [
     "static/css/main.70ebc1bc.css",
-    "static/js/main.39e0a298.js"
+    "static/js/main.c25bbffb.js"
   ]
 }
