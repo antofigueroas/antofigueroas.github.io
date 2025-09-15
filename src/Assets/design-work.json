@@ -198,7 +198,7 @@
       ],
       "release_year": "2021",
       "release_month": "09",
-      "featured": true,
+      "featured": false,
       "has_page": false,
       "src": "minecraft",
       "thumbnails": [
@@ -651,7 +651,7 @@
       ],
       "release_year": "2025",
       "release_month": "1",
-      "featured": true,
+      "featured": false,
       "has_page": false,
       "src": "challengers",
       "thumbnails": [

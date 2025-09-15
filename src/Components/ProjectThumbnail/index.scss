@@ -35,7 +35,7 @@
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background: rgba(239, 239, 244, 1);
+    background: rgb(15, 15, 15); //rgba(239, 239, 244, 1) fondo imagenes antes de cargar
     padding-top: calc(100% * calc(3 / 4));
     @at-root [data-portrait="true"]#{&} {
       @media (max-width: 480px) {
@@ -101,9 +101,9 @@
       }
     }
     .date {
-      font-size: 16px;
+      font-size: 13px;
       font-weight: 400;
-      color: rgba(136, 139, 144, 1);
+      color: #989796; //rgba(136, 139, 144, 1)
       @media (max-width: 850px) {
         font-size: 14px;
       }

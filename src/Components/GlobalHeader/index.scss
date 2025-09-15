@@ -28,7 +28,7 @@
   margin: 0 0 calc(var(--global-padding) * 2);
   padding: 0;
   z-index: 100;
-  background: var(--background-color, rgba(255, 255, 255, 1));
+  background: var(--background-color, black); //rgba(255, 255, 255, 1)
   &[data-sticky="true"] {
     position: sticky;
     top: 0px;
@@ -41,15 +41,15 @@
     right: 0;
     bottom: 0;
     left: 0;
-    background: var(--background-color, rgba(255, 255, 255, 1));
+    background: var(--background-color, black); //rgba(255, 255, 255, 1)
     transition: border-bottom 0.4s ease, transform 0.4s ease, background-color 0.4s ease;
     border-bottom: 1px solid rgba(231, 232, 233, 0);
     @at-root [data-show-border="true"]#{&} {
-      background: rgba(255, 255, 255, 1);
-      border-bottom: 1px solid rgba(231, 232, 233, 1);
+      background: black; //rgba(255, 255, 255, 1)
+      border-bottom: 1px solid rgb(29, 29, 29); //rgba(231, 232, 233, 1)
     }
     @at-root [data-nav-open="true"]#{&} {
-      background: rgba(255, 255, 255, 1);
+      background: black; //rgba(255, 255, 255, 1)
     }
   }
   .translucent-overlay {
@@ -59,7 +59,7 @@
     right: 0;
     bottom: 0;
     left: 0;
-    background: rgba(0, 0, 0, 0.5);
+    background: white; //rgba(0, 0, 0, 0.5)
     z-index: -1;
     transition: opacity 1s cubic-bezier(0.86, 0, 0.07, 1) 0.2s;
     pointer-events: none;
@@ -79,7 +79,7 @@
     grid-gap: 40px;
     align-items: center;
     font-size: 16px;
-    color: rgba(0, 0, 0, 1);
+    color: rgb(204, 204, 204); //rgba(0, 0, 0, 1)
     .nav-item {
       text-decoration: none;
       color: inherit;
@@ -88,7 +88,7 @@
       padding: 16px;
       margin: -16px;
       &.active {
-        color: rgba(136, 138, 144, 1);
+        color: rgb(79, 82, 94); //rgba(136, 138, 144, 1)
       }
     }
     .top-bar {
@@ -97,10 +97,10 @@
         font-size: inherit;
         font-weight: 600;
         margin: 0;
-        color: rgba(0, 0, 0, 1);
+        color: whitesmoke; //rgba(0, 0, 0, 1) nombre anto
         transition: opacity 1s cubic-bezier(0.86, 0, 0.07, 1);
         a.active {
-          color: rgba(0, 0, 0, 1);
+          color: whitesmoke; //rgba(0, 0, 0, 1)
         }
         @at-root [data-search-open="true"]#{&} {
           opacity: 0;
@@ -135,7 +135,7 @@
           @media (hover: hover) {
             .nav-item:hover,
             &.nav-item:hover {
-              color: rgba(136, 138, 144, 1);
+              color: rgb(113, 114, 116);
             }
           }
         }
@@ -148,7 +148,7 @@
     background: transparent;
     .translucent-overlay {
       transition: opacity 0.4s ease 0s;
-      background: rgba(249, 248, 248, 1);
+      background: black; //rgba(249, 248, 248, 1)
     }
     &:before {
       @at-root [data-search-open="true"]#{&} {
@@ -194,7 +194,7 @@
         align-items: flex-start;
         z-index: 2;
         pointer-events: none;
-        background-color: rgba(255, 255, 255, 0);
+        background-color: whitesmoke; //rgba(255, 255, 255, 0)
         transform: translateY(-100%);
         transition: transform 0.6s cubic-bezier(0.25, 0.46, 0.45, 0.94) 1s,
           background-color 0s ease 2s;
@@ -228,7 +228,7 @@
         }
         &[data-open="true"] {
           pointer-events: all;
-          background-color: rgba(255, 255, 255, 1);
+          background-color: rgba(255, 255, 255, 1); //rgba(255, 255, 255, 1)
           transition: transform 0.6s cubic-bezier(0.25, 0.46, 0.45, 0.94) 0s,
             background-color 0s ease 0s;
           transform: translateY(0);
@@ -333,7 +333,7 @@
 .search-box-container {
   --search-bar-border-radius: 5px;
   --search-bar-height: 40px;
-  --search-bar-background-color: rgba(243, 242, 244, 1);
+  --search-bar-background-color: rgb(236, 234, 248); //rgba(243, 242, 244, 1)
   position: absolute;
   top: 0;
   right: 0;

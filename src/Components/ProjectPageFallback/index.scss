@@ -1,4 +1,6 @@
 .project-page-fallback {
+  background: black; //quitar linea
+  color: whitesmoke; //quitar linea
   margin: 0 auto;
   padding: var(--global-padding);
   box-sizing: border-box;
@@ -33,7 +35,7 @@
       margin: calc(-1 * (var(--global-padding) / 2));
       padding: calc(var(--global-padding) / 2);
       box-sizing: border-box;
-      background: white;
+      background: white; 
       scroll-snap-type: x mandatory;
       &:after {
         content: "";
@@ -97,7 +99,7 @@
       .description {
         font-size: 16px;
         font-weight: 400;
-        color: rgba(0, 0, 0, 1);
+        color: whitesmoke; // rgba(0, 0, 0, 1) descripción
         line-height: 1.4;
         p {
           margin: 0;
@@ -115,18 +117,18 @@
           font-size: 16px;
           font-weight: 400;
           text-decoration: underline;
-          color: rgba(16, 99, 238, 1);
+          color: rgb(213, 213, 213); //rgba(16, 99, 238, 1) enlace
           width: fit-content;
           transition: color 0.4s cubic-bezier(0.2, 0.9, 0.42, 1);
           .right-arrow {
             display: inline-block;
             margin-left: 0.2em;
             transition: transform 0.4s cubic-bezier(0.2, 0.9, 0.42, 1);
-            color: rgba(16, 99, 238, 1);
+            color: whitesmoke; // rgba(16, 99, 238, 1) enlaces
           }
           @media (hover: hover) {
             &:hover {
-              color: rgba(0, 0, 0, 1);
+              color: rgb(222, 222, 222); //rgba(0, 0, 0, 1)
               .right-arrow {
                 transform: translateX(10px);
               }
@@ -153,7 +155,7 @@
           padding: 0;
         }
         h3 {
-          color: rgba(136, 138, 144, 1);
+          color: rgb(151, 151, 151); //rgba(136, 138, 144, 1) subtitulos
         }
       }
     }
