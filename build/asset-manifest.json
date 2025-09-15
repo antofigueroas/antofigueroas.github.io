@@ -1,12 +1,15 @@
 {
   "files": {
     "main.css": "/static/css/main.10e6a406.css",
-    "main.js": "/static/js/main.3743aa05.js",
+    "main.js": "/static/js/main.99f52af7.js",
     "static/media/videoinstructivo.mp4": "/static/media/videoinstructivo.203cc9f2d7c7628475f2.mp4",
     "static/media/leaf.mp4": "/static/media/leaf.0a1add229eafd2cbc0da.mp4",
     "static/media/fondogrisvideo.mp4": "/static/media/fondogrisvideo.1b089cbb1457f491c0b0.mp4",
+    "static/media/hola pop.png": "/static/media/hola pop.1cc81da4f144e5ffb52f.png",
+    "static/media/bolsa pop.png": "/static/media/bolsa pop.3bd2fb99fb5f6e8a5294.png",
     "static/media/plantillas.png": "/static/media/plantillas.291b4ea112e9a37918b2.png",
     "static/media/videoclaro.mp4": "/static/media/videoclaro.9ad30e801a645a2e04d7.mp4",
+    "static/media/letrero pop.png": "/static/media/letrero pop.be146366604284e6aded.png",
     "static/media/posmetafisica-01.webp": "/static/media/posmetafisica-01.4de526aa6cca0ffbb067.webp",
     "static/media/bolsita.png": "/static/media/bolsita.9c7a70518a73007b509c.png",
     "static/media/videitoilkooficial.mp4": "/static/media/videitoilkooficial.62b3cabff3afad24754e.mp4",
@@ -32,7 +35,7 @@
     "static/media/Totebag en rojo.png": "/static/media/Totebag en rojo.2eb78387f393cfa8136d.png",
     "static/media/TOTE1.png": "/static/media/TOTE1.25d06da3abda690c4cfb.png",
     "static/media/masomfe.png": "/static/media/masomfe.bb3e34a33d7a3d822eaf.png",
-    "static/media/Naranja 2.png": "/static/media/Naranja 2.76ed17e87ec7aac3a259.png",
+    "static/media/Naranja.png": "/static/media/Naranja.76ed17e87ec7aac3a259.png",
     "static/media/paperman_2poster.png": "/static/media/paperman_2poster.eadfa6842389bea4468c.png",
     "static/media/gifprociudad.mp4": "/static/media/gifprociudad.8b9bb7a5ab7d3013d5fd.mp4",
     "static/media/libritoabierto.png": "/static/media/libritoabierto.6be119195764f3fd1015.png",
@@ -169,10 +172,10 @@
     "static/media/yoteapoyo-01.png": "/static/media/yoteapoyo-01.a757e7c8a9a1a484518f.png",
     "index.html": "/index.html",
     "main.10e6a406.css.map": "/static/css/main.10e6a406.css.map",
-    "main.3743aa05.js.map": "/static/js/main.3743aa05.js.map"
+    "main.99f52af7.js.map": "/static/js/main.99f52af7.js.map"
   },
   "entrypoints": [
     "static/css/main.10e6a406.css",
-    "static/js/main.3743aa05.js"
+    "static/js/main.99f52af7.js"
   ]
 }
