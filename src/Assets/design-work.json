@@ -609,6 +609,34 @@
       }
     },
     {
+      "title": "Kambo Sushi",
+      "client": null,
+      "description": ["A brand concept for a line of prebiotic drinks that combines health benefits with a playful and modern identity. Designed to balance wellness and convenience through a fresh, approachable aesthetic." ],
+        "release_year": "2025",
+      "release_month": "08",
+      "featured": false,
+      "has_page": false,
+      "src": "kambo",
+      "thumbnails": [
+        "polera kambo.png",
+        "logokambo1.png",
+        "tarjeta kambo.png"
+      ],
+      "cta": null,
+      "team": {
+        "Graphic Design": [
+          {
+            "name": "Antonia Figueroa"
+          }
+        ],
+        "Client": [
+          {
+            "name": "Pop & Go"
+          }
+        ]
+      }
+    },
+    {
       "title": "Universidad de los Andes - Crisis Management and Well-Being Guidelines",
       "client": null,
       "description": [
