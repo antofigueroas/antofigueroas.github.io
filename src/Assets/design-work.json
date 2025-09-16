@@ -488,8 +488,8 @@
         "persia8.webp",
         "persia9.webp",
         "credenciales p.png",
-        "lanyards persia.png",
-        "persia123.png"
+        "persia123.png",
+        "lanyards persia.png"
       ],
       "cta": [
         {
@@ -883,12 +883,11 @@
       ],
       "release_year": "2024",
       "release_month": "10",
-      "featured": false,
+      "featured": true,
       "has_page": false,
       "src": "easyroomie",
       "thumbnails": [
-        "easyroomie.webp",
-        "easyeasy.gif"
+        "easyroomie.webp"
       ],
       "cta": null,
       "team": {
