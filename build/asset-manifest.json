@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.10e6a406.css",
-    "main.js": "/static/js/main.99f52af7.js",
+    "main.js": "/static/js/main.1281788f.js",
     "static/media/videoinstructivo.mp4": "/static/media/videoinstructivo.203cc9f2d7c7628475f2.mp4",
     "static/media/leaf.mp4": "/static/media/leaf.0a1add229eafd2cbc0da.mp4",
     "static/media/fondogrisvideo.mp4": "/static/media/fondogrisvideo.1b089cbb1457f491c0b0.mp4",
@@ -26,6 +26,7 @@
     "static/media/carpetita.png": "/static/media/carpetita.888d30ee0d60c29dd23c.png",
     "static/media/cuadernillo.png": "/static/media/cuadernillo.5af73b4c0c96485b62be.png",
     "static/media/colectacositas.png": "/static/media/colectacositas.6fe97fb40b7b95e1e837.png",
+    "static/media/Naranja.png": "/static/media/Naranja.e64bb3bdec7559e97a6c.png",
     "static/media/librom30mportafolio.png": "/static/media/librom30mportafolio.9f6e36ae3534630b31f1.png",
     "static/media/paperman_1poster.png": "/static/media/paperman_1poster.66a9392e7a77dfd28525.png",
     "static/media/tote2.png": "/static/media/tote2.1073535f980fd5bb39a4.png",
@@ -35,22 +36,21 @@
     "static/media/Totebag en rojo.png": "/static/media/Totebag en rojo.2eb78387f393cfa8136d.png",
     "static/media/TOTE1.png": "/static/media/TOTE1.25d06da3abda690c4cfb.png",
     "static/media/masomfe.png": "/static/media/masomfe.bb3e34a33d7a3d822eaf.png",
-    "static/media/Naranja.png": "/static/media/Naranja.76ed17e87ec7aac3a259.png",
     "static/media/paperman_2poster.png": "/static/media/paperman_2poster.eadfa6842389bea4468c.png",
     "static/media/gifprociudad.mp4": "/static/media/gifprociudad.8b9bb7a5ab7d3013d5fd.mp4",
     "static/media/libritoabierto.png": "/static/media/libritoabierto.6be119195764f3fd1015.png",
     "static/media/triadapartedeatras.png": "/static/media/triadapartedeatras.7ee51d397ebbdb32184e.png",
     "static/media/brochure.png": "/static/media/brochure.393d992bafe405af653e.png",
-    "static/media/Arandano Acai 2.png": "/static/media/Arandano Acai 2.a895e769a6f4fe064a5d.png",
+    "static/media/Arandano Acai.png": "/static/media/Arandano Acai.56b66b154ca948b31b3c.png",
     "static/media/veamosquetal.png": "/static/media/veamosquetal.8a3548577d2adfa47544.png",
     "static/media/librolargofanzine.png": "/static/media/librolargofanzine.bdbd239854f896d81689.png",
     "static/media/cdd3.gif": "/static/media/cdd3.23a3b35a4d66be7d99ba.gif",
     "static/media/stickerscolecta.png": "/static/media/stickerscolecta.245742d21597e63cf462.png",
+    "static/media/Mango.png": "/static/media/Mango.06132d2fdd86c7ccf861.png",
     "static/media/triadacosapsd.png": "/static/media/triadacosapsd.5712a0d5d1d88197cae2.png",
+    "static/media/Limon Final.png": "/static/media/Limon Final.7a6067d918e31491ab26.png",
     "static/media/fomefome.png": "/static/media/fomefome.40474a155b0017190faa.png",
     "static/media/bcfahorasi.png": "/static/media/bcfahorasi.c7763209fac09144b94c.png",
-    "static/media/Mango 2.png": "/static/media/Mango 2.a3d2b081e64f5d678c07.png",
-    "static/media/Limon 2.png": "/static/media/Limon 2.3c99029a243924aae3af.png",
     "static/media/mockuptriada.png": "/static/media/mockuptriada.0de82c62597278293663.png",
     "static/media/tecno2.png": "/static/media/tecno2.c412ee129d11c65c5de5.png",
     "static/media/abiertos.png": "/static/media/abiertos.20475a729aa261f1d53f.png",
@@ -172,10 +172,10 @@
     "static/media/yoteapoyo-01.png": "/static/media/yoteapoyo-01.a757e7c8a9a1a484518f.png",
     "index.html": "/index.html",
     "main.10e6a406.css.map": "/static/css/main.10e6a406.css.map",
-    "main.99f52af7.js.map": "/static/js/main.99f52af7.js.map"
+    "main.1281788f.js.map": "/static/js/main.1281788f.js.map"
   },
   "entrypoints": [
     "static/css/main.10e6a406.css",
-    "static/js/main.99f52af7.js"
+    "static/js/main.1281788f.js"
   ]
 }
