@@ -487,7 +487,9 @@
         "paletapersia.webp",
         "persia8.webp",
         "persia9.webp",
-        "persia6.webp"
+        "credenciales p.png",
+        "lanyards persia.png",
+        "persia123.png"
       ],
       "cta": [
         {
@@ -609,18 +611,20 @@
       }
     },
     {
-      "title": "Kambo Sushi",
+      "title": "Kambo Sushi – Vegan Sushi",
       "client": null,
-      "description": ["A brand concept for a line of prebiotic drinks that combines health benefits with a playful and modern identity. Designed to balance wellness and convenience through a fresh, approachable aesthetic." ],
+      "description": ["A brand concept for a plant-based sushi experience, blending traditional Japanese inspiration with a modern, sustainable identity. Designed to highlight freshness, creativity, and conscious eating." ],
         "release_year": "2025",
       "release_month": "08",
-      "featured": false,
+      "featured": true,
       "has_page": false,
       "src": "kambo",
       "thumbnails": [
         "polera kambo.png",
-        "logokambo1.png",
-        "tarjeta kambo.png"
+        "cajita kambo.png",
+        "tarjeta kambo.png",
+        "Bags _3n.png",
+        "logokambo1.png"
       ],
       "cta": null,
       "team": {
@@ -871,7 +875,7 @@
       }
     },
     {
-      "title": "EasyRoomie - Prototype Animation and Oficial Presentation",
+      "title": "EasyRoomie - Prototype Animations and Oficial Presentation",
       "client": null,
       "description": [
         "Visual presentation for investors during the UDD New Business Creation Seminar.",
@@ -879,11 +883,12 @@
       ],
       "release_year": "2024",
       "release_month": "10",
-      "featured": true,
+      "featured": false,
       "has_page": false,
       "src": "easyroomie",
       "thumbnails": [
-        "easyroomie.webp"
+        "easyroomie.webp",
+        "easyeasy.gif"
       ],
       "cta": null,
       "team": {
