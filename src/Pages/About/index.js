@@ -25,7 +25,7 @@ function About() {
   <img src="/img/yowebp.webp" alt="Antonia Figueroa" className="about-photo" />
 </div>
         <h3 className="big-statement">
-        Design meets connection — let’s build something?
+        Design is connection — let’s build something?
         </h3>
         <p className="big-statement-subtitle"></p>
         <div className="about-me-paragraphs">

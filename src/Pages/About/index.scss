@@ -22,11 +22,11 @@
   a {
     font-size: 1em;
     text-decoration: underline;
-    color: rgb(139, 139, 139); //rgba(16, 99, 238, 1) botones enlaces externos
+    color: rgb(190, 254, 28); //rgba(16, 99, 238, 1) botones enlaces externos
     transition: color 0.4s cubic-bezier(0.2, 0.9, 0.42, 1);
     @media (hover: hover) {
       &:hover {
-        color: rgb(77, 70, 70); //rgba(0, 0, 0, 1)
+        color: rgb(85, 85, 85); //rgba(0, 0, 0, 1)
       }
     }
   }
@@ -74,7 +74,7 @@
   }
   .big-statement-subtitle {
     font-size: 16px;
-    color: rgb(114, 114, 114);
+    color: rgb(190, 254, 28);
     margin: 20px auto 0 auto;
     text-align: center;
     animation: fadeIn 0.5s ease-out 0s;

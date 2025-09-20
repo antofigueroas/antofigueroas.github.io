@@ -28,7 +28,7 @@
   margin: 0 0 calc(var(--global-padding) * 2);
   padding: 0;
   z-index: 100;
-  background: var(--background-color, black); //rgba(255, 255, 255, 1)
+  background: var(--background-color, rgb(26, 28, 30)); //rgba(255, 255, 255, 1)
   &[data-sticky="true"] {
     position: sticky;
     top: 0px;
@@ -41,15 +41,15 @@
     right: 0;
     bottom: 0;
     left: 0;
-    background: var(--background-color, black); //rgba(255, 255, 255, 1)
+    background: var(--background-color, rgb(26, 28, 30)); //rgba(255, 255, 255, 1)
     transition: border-bottom 0.4s ease, transform 0.4s ease, background-color 0.4s ease;
     border-bottom: 1px solid rgba(231, 232, 233, 0);
     @at-root [data-show-border="true"]#{&} {
-      background: black; //rgba(255, 255, 255, 1)
+      background: rgb(26, 28, 30); //rgba(255, 255, 255, 1) Search
       border-bottom: 1px solid rgb(29, 29, 29); //rgba(231, 232, 233, 1)
     }
     @at-root [data-nav-open="true"]#{&} {
-      background: black; //rgba(255, 255, 255, 1)
+      background: rgb(26, 28, 30); //rgba(255, 255, 255, 1)
     }
   }
   .translucent-overlay {
@@ -59,7 +59,7 @@
     right: 0;
     bottom: 0;
     left: 0;
-    background: white; //rgba(0, 0, 0, 0.5)
+    background: rgb(26, 28, 30); //rgba(0, 0, 0, 0.5)
     z-index: -1;
     transition: opacity 1s cubic-bezier(0.86, 0, 0.07, 1) 0.2s;
     pointer-events: none;
@@ -135,7 +135,7 @@
           @media (hover: hover) {
             .nav-item:hover,
             &.nav-item:hover {
-              color: rgb(113, 114, 116);
+              color: rgb(190, 254, 28);
             }
           }
         }
@@ -148,7 +148,7 @@
     background: transparent;
     .translucent-overlay {
       transition: opacity 0.4s ease 0s;
-      background: black; //rgba(249, 248, 248, 1)
+      background: rgb(26, 28, 30); //rgba(249, 248, 248, 1)
     }
     &:before {
       @at-root [data-search-open="true"]#{&} {
@@ -333,7 +333,7 @@
 .search-box-container {
   --search-bar-border-radius: 5px;
   --search-bar-height: 40px;
-  --search-bar-background-color: rgb(236, 234, 248); //rgba(243, 242, 244, 1)
+  --search-bar-background-color: rgb(234, 248, 239); //rgba(243, 242, 244, 1)
   position: absolute;
   top: 0;
   right: 0;
@@ -411,7 +411,7 @@
     left: 0;
     max-width: 400px;
     ul {
-      background: var(--background-color, rgba(255, 255, 255, 1));
+      background: var(--background-color, rgb(22, 22, 22));
       margin: 0;
       padding: 0;
       list-style: none;
@@ -424,7 +424,7 @@
         -webkit-appearance: none;
         padding: 10px;
         &:not(:last-child) {
-          border-bottom: 0.5px solid rgba(136, 139, 144, 0.2);
+          border-bottom: 0.5px solid rgba(84, 81, 81, 0.2);
         }
         .project-thumbnail {
           display: grid;
@@ -441,7 +441,7 @@
           }
           .project-artwork {
             height: fit-content;
-            --radius: 2px;
+            --radius: 8px;
           }
           .project-info {
             padding: 0;
@@ -451,7 +451,7 @@
               font-size: 16px;
             }
             .date {
-              font-size: 16px;
+              font-size: 14px;
             }
           }
           &:after {
