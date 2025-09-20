@@ -175,10 +175,10 @@ class GlobalHeader extends React.PureComponent {
               </span>
             </div>
             <h1 aria-hidden={this.state.navOpen}>
-  <NavLink className="nav-item" exact to="/" aria-hidden="true">
-    <img src={logo} alt="Logo" style={{ height: "28px", marginTop: "10px" }} />
-  </NavLink>
-</h1>
+              <NavLink className="nav-item" exact to="/" aria-hidden="true">
+                <img src={logo} alt="Logo" style={{ height: "28px", marginTop: "10px" }} />
+              </NavLink>
+            </h1>
           </div>
           <nav data-open={this.state.navOpen}>
             <ul>
@@ -199,74 +199,12 @@ class GlobalHeader extends React.PureComponent {
                   exact
                   to="/about"
                 >
-                  About
+                  About Me
                 </NavLink>
               </li>
-              <li>
-                <a
-                  className="nav-item"
-                  href="/resume/Antonia Figueroa_CV.pdf"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                >
-                  Resume
-                </a>
-              </li>
-              <li className="search-button" onClick={this._openSearch}>
-                <span className="nav-item">Search</span>
-              </li>
+              {/* Resume y Search eliminados */}
             </ul>
           </nav>
-          <div
-            className="search-box-container"
-            data-open={this.state.searchOpen}
-          >
-            <div className="search-container">
-              <label htmlFor="search-field" className="search-icon">
-                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 18">
-                  <path
-                    fillRule="nonzero"
-                    d="M6.5 0A6.5 6.5 0 0113 6.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 016.5 13a6.5 6.5 0 110-13m0 2C4 2 2 4 2 6.5S4 11 6.5 11 11 9 11 6.5 9 2 6.5 2z"
-                  />
-                </svg>
-              </label>
-              <input
-                id="search-field"
-                className="search-field"
-                type="search"
-                placeholder="Search"
-                value={this.state.searchQuery}
-                onChange={this._updateSearchQuery}
-                onFocus={this._openSearch}
-                onBlur={this._closeSearch}
-                ref={this.searchField}
-                autoComplete="off"
-                spellCheck="false"
-              />
-              <div className="cancel-button-container" aria-hidden={this.state.searchOpen ? "false" : "true"}>
-                <label
-                  htmlFor="search-field"
-                  className="search-field-placeholder"
-                ></label>
-                <button className="cancel-button">Cancel</button>
-              </div>
-            </div>
-            <div className="search-results">
-              <ul ref={this.searchResults}>
-                {searchResults.slice(0, 5).map((result, i) => {
-                  return (
-                    <li key={i}>
-                      <ProjectThumbnail
-                        {...result}
-                        thumbnail={result.thumbnails[0]}
-                        hover
-                      />
-                    </li>
-                  );
-                })}
-              </ul>
-            </div>
-          </div>
         </div>
         <div className="translucent-overlay" />
       </header>
