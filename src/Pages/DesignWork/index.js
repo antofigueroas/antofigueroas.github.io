@@ -129,7 +129,7 @@ class DesignWork extends React.PureComponent {
           />
         </Grid>
         <Callout>
-          <p>This portfolio makes use of the code from laurasandoval's <a href="https://github.com/laurasandoval/" rel="noopener noreferrer">GitHub</a></p> repository, a big thank you for sharing your work. 
+          <p>I’d love to work together :-) Get in touch <a href="mailto:antoniaf525@gmail.com" rel="noopener noreferrer">here.</a></p>
         </Callout>
       </Fragment>
     );
