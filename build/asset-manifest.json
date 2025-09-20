@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.0efc2e06.css",
-    "main.js": "/static/js/main.6e26dec9.js",
+    "main.js": "/static/js/main.7ca5be20.js",
     "static/media/videoinstructivo.mp4": "/static/media/videoinstructivo.203cc9f2d7c7628475f2.mp4",
     "static/media/leaf.mp4": "/static/media/leaf.0a1add229eafd2cbc0da.mp4",
     "static/media/fondogrisvideo.mp4": "/static/media/fondogrisvideo.1b089cbb1457f491c0b0.mp4",
@@ -85,6 +85,7 @@
     "static/media/parantenavidad.png": "/static/media/parantenavidad.689da0a9994290fc6b66.png",
     "static/media/hombredeverdad_web-02.jpg": "/static/media/hombredeverdad_web-02.60c4171779fd250e40ac.jpg",
     "static/media/easyeasy.gif": "/static/media/easyeasy.ef82805adb1702b6ddd6.gif",
+    "static/media/Banner-principal.png": "/static/media/Banner-principal.8a3db84986256eb747b1.png",
     "static/media/rrsstriada.mp4": "/static/media/rrsstriada.8a088a81b11523d29182.mp4",
     "static/media/matri.webp": "/static/media/matri.8e53d8088bee0b8f8ac1.webp",
     "static/media/vistapreviacuaderno.png": "/static/media/vistapreviacuaderno.dadfef0c03b240183919.png",
@@ -183,10 +184,10 @@
     "static/media/yoteapoyo-01.png": "/static/media/yoteapoyo-01.a757e7c8a9a1a484518f.png",
     "index.html": "/index.html",
     "main.0efc2e06.css.map": "/static/css/main.0efc2e06.css.map",
-    "main.6e26dec9.js.map": "/static/js/main.6e26dec9.js.map"
+    "main.7ca5be20.js.map": "/static/js/main.7ca5be20.js.map"
   },
   "entrypoints": [
     "static/css/main.0efc2e06.css",
-    "static/js/main.6e26dec9.js"
+    "static/js/main.7ca5be20.js"
   ]
 }

@@ -7,6 +7,7 @@ import GlobalHeader from "../../Components/GlobalHeader";
 import { Helmet } from "react-helmet";
 import RemainingItems from "./RemainingItems";
 import Callout from "../../Components/Callout";
+import HeaderImage from "./Banner-principal.png";
 
 class DesignWork extends React.PureComponent {
   constructor(props) {
@@ -73,8 +74,36 @@ class DesignWork extends React.PureComponent {
         <Helmet>
           <title>The Growth Studio</title>
         </Helmet>
-
         <GlobalHeader sticky />
+        <div style={{ textAlign: "center" }}>
+  {/* Animación embebida */}
+  <style>
+    {`
+      @keyframes slideUpFadeIn {
+        from {
+          opacity: 0;
+          transform: translateY(20px); /* empieza un poco abajo */
+        }
+        to {
+          opacity: 1;
+          transform: translateY(0); /* posición final */
+        }
+      }
+
+      .slide-up {
+        opacity: 0;
+        animation: slideUpFadeIn 1s ease forwards;
+      }
+    `}
+  </style>
+
+  <img 
+    src={HeaderImage} 
+    alt="Header" 
+    style={{ maxWidth: "93%", display: "inline-block" }} 
+    className="slide-up" 
+  />
+</div>
         <AccessibilityLabel as="h2">Selected Works</AccessibilityLabel>
         <Grid featured>
           {featuredProjectsLimited.map((project, index) => {
