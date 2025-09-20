@@ -30,13 +30,10 @@ function About() {
         <p className="big-statement-subtitle"></p>
         <div className="about-me-paragraphs">
           <p>
-          Freelance designer from Chile. I turn concepts into clean, intentional design that connects, performs, and inspires.
-          </p>
+          Freelance designer from Chile. I turn concepts into clean, intentional designs that connect, perform, and inspire.         
+           </p>
           <p>
-          Got an idea? Let’s turn it into design that connects and performs!
-          </p>
-          <p>
-          Find out more in my {" "}
+          For more, check out my {" "}
             <a target="_blank"
               href="/resume/Antonia Figueroa_CV.pdf"
               rel="noopener noreferrer"
@@ -50,7 +47,10 @@ function About() {
             >
               Linkedin
             </a>
-            {<AccessibilityLabel>.</AccessibilityLabel>}.
+            {<AccessibilityLabel>.</AccessibilityLabel>} :-)
+          </p>
+          <p>
+          Got an idea? Let’s make it real: antoniaf525@gmail.com
           </p>
           <AccessibilityLabel>
             <a target="_blank"
