@@ -10,6 +10,7 @@ import "./index.scss";
 import AccessibilityLabel from "../AccessibilityLabel";
 import DesignWork from "../../Assets/design-work.json";
 import ProjectThumbnail from "../ProjectThumbnail";
+import logo from "./tgs.png";
 
 class GlobalHeader extends React.PureComponent {
   constructor(props) {
@@ -174,11 +175,10 @@ class GlobalHeader extends React.PureComponent {
               </span>
             </div>
             <h1 aria-hidden={this.state.navOpen}>
-              <AccessibilityLabel>Antonia Figueroa</AccessibilityLabel>
-              <NavLink className="nav-item" exact to="/" aria-hidden="true">
-              The Growth Studio
-              </NavLink>
-            </h1>
+  <NavLink className="nav-item" exact to="/" aria-hidden="true">
+    <img src={logo} alt="Logo" style={{ height: "28px", marginTop: "10px" }} />
+  </NavLink>
+</h1>
           </div>
           <nav data-open={this.state.navOpen}>
             <ul>

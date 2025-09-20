@@ -71,7 +71,7 @@ class DesignWork extends React.PureComponent {
     return (
       <Fragment>
         <Helmet>
-          <title>Antonia Figueroa — Work</title>
+          <title>The Growth Studio</title>
         </Helmet>
 
         <GlobalHeader sticky />

@@ -25,15 +25,15 @@ function About() {
   <img src="/img/yowebp.webp" alt="Antonia Figueroa" className="about-photo" />
 </div>
         <h3 className="big-statement">
-        Design is connection — let’s build something?
+        Turning ideas into stunning visuals.
         </h3>
         <p className="big-statement-subtitle"></p>
         <div className="about-me-paragraphs">
           <p>
-          Chilean designer ({Age}) with a degree in Integral Design from Pontificia Universidad Católica de Chile.
+          Freelance designer from Chile. I turn concepts into clean, intentional design that connects, performs, and inspires.
           </p>
           <p>
-          I create thoughtful, intentional design that looks good and works even better — always thinking about who’s on the other side. Currently learning to code and using AI tools to create whatever pops into my head (and maybe yours too).
+          Got an idea? Let’s turn it into design that connects and performs!
           </p>
           <p>
           Find out more in my {" "}

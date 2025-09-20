@@ -72,7 +72,7 @@
     margin: 0 auto;
     width: 100%;
     max-width: calc(1440px + calc(var(--global-padding) * 4));
-    padding: calc(var(--global-padding) * 1.5) calc(var(--global-padding) * 2);
+    padding: calc(var(--global-padding)) calc(var(--global-padding) * 2);
     box-sizing: border-box;
     display: grid;
     grid-template-columns: 1fr auto;
