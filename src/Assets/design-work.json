@@ -589,11 +589,11 @@
       "src": "popandgo",
       "thumbnails": [
         "Naranja.png",
-        "hola pop.png",
+        "cartel-mango.webp",
         "Limon Final.png",
-        "letrero pop.png",
+        "pop-letrero.webp",
         "Mango.png",
-        "bolsa pop.png",
+        "bolsa-pop.webp",
         "Arandano Acai.png"
       ],
       "cta": null,
@@ -620,8 +620,8 @@
       "has_page": false,
       "src": "kambo",
       "thumbnails": [
-        "polera kambo.png",
-        "cajita kambo.png",
+        "polera-kambo.webp",
+        "caja-kambo.webp",
         "tarjeta kambo.png",
         "Bags _3n.png",
         "logokambo1.png"
@@ -836,7 +836,7 @@
         ],
         "Client": [
           {
-            "name": "ADAE & Vida Universitaria, Universidad de los Andes"
+            "name": "Universidad de los Andes"
           }
         ]
       }

@@ -1,15 +1,12 @@
 {
   "files": {
     "main.css": "/static/css/main.0efc2e06.css",
-    "main.js": "/static/js/main.0271d2c6.js",
+    "main.js": "/static/js/main.0ed455b3.js",
     "static/media/videoinstructivo.mp4": "/static/media/videoinstructivo.203cc9f2d7c7628475f2.mp4",
     "static/media/leaf.mp4": "/static/media/leaf.0a1add229eafd2cbc0da.mp4",
     "static/media/fondogrisvideo.mp4": "/static/media/fondogrisvideo.1b089cbb1457f491c0b0.mp4",
-    "static/media/hola pop.png": "/static/media/hola pop.1cc81da4f144e5ffb52f.png",
-    "static/media/bolsa pop.png": "/static/media/bolsa pop.3bd2fb99fb5f6e8a5294.png",
     "static/media/plantillas.png": "/static/media/plantillas.291b4ea112e9a37918b2.png",
     "static/media/videoclaro.mp4": "/static/media/videoclaro.9ad30e801a645a2e04d7.mp4",
-    "static/media/polera kambo.png": "/static/media/polera kambo.27da7a084043f77f1cf8.png",
     "static/media/letrero pop.png": "/static/media/letrero pop.be146366604284e6aded.png",
     "static/media/posmetafisica-01.webp": "/static/media/posmetafisica-01.4de526aa6cca0ffbb067.webp",
     "static/media/bolsita.png": "/static/media/bolsita.9c7a70518a73007b509c.png",
@@ -22,7 +19,6 @@
     "static/media/tarjetete.png": "/static/media/tarjetete.27c1295514f139015335.png",
     "static/media/bcf video oficial.mp4": "/static/media/bcf video oficial.f0625bc9e2ab6ef81f82.mp4",
     "static/media/tarjetas1.png": "/static/media/tarjetas1.955b5797bc33ff27a169.png",
-    "static/media/cajita kambo.png": "/static/media/cajita kambo.41c232a4eb52de294910.png",
     "static/media/tarjetas2.png": "/static/media/tarjetas2.7c7f1faf7ad0b8fd5483.png",
     "static/media/tarjeta kambo.png": "/static/media/tarjeta kambo.6fb1b18e12881b84b287.png",
     "static/media/1920x1080px_Merlin.mp4": "/static/media/1920x1080px_Merlin.66c3703255b3d64f0d24.mp4",
@@ -117,6 +113,7 @@
     "static/media/amundsen1.webp": "/static/media/amundsen1.35b571dc18c2bdbff65a.webp",
     "static/media/uandes3.webp": "/static/media/uandes3.ccb33dcea24a5fb4aa6f.webp",
     "static/media/oliver1.webp": "/static/media/oliver1.3cf1a67e0787914f0149.webp",
+    "static/media/cartel-mango.webp": "/static/media/cartel-mango.84c6ee2a5fbadab300a9.webp",
     "static/media/amundsen4.webp": "/static/media/amundsen4.311b6038bff75714b8a6.webp",
     "static/media/clinica3.webp": "/static/media/clinica3.6e36b5ed96bd4f873503.webp",
     "static/media/standcolecta.jpg": "/static/media/standcolecta.a4200b8d22606e582de0.jpg",
@@ -150,6 +147,7 @@
     "static/media/psi.webp": "/static/media/psi.1733f30a3108ee5ca82f.webp",
     "static/media/amazon1.webp": "/static/media/amazon1.32400e036e8f0336e67e.webp",
     "static/media/amazon2.webp": "/static/media/amazon2.db0a077c88da00482d8e.webp",
+    "static/media/bolsa-pop.webp": "/static/media/bolsa-pop.01f122ce6bbb868ba973.webp",
     "static/media/igmascara.jpg": "/static/media/igmascara.4ecaf0e4caca6da2bec8.jpg",
     "static/media/campussaludable.webp": "/static/media/campussaludable.07710bc20cf06363583f.webp",
     "static/media/grik1.webp": "/static/media/grik1.0c5c25d713bc315a637f.webp",
@@ -160,6 +158,7 @@
     "static/media/clinica1.webp": "/static/media/clinica1.8a49e15e47fdaa7f95aa.webp",
     "static/media/bolsapersia.webp": "/static/media/bolsapersia.8c5a38ceedd23b3c849d.webp",
     "static/media/paletapersia.webp": "/static/media/paletapersia.c4c9ac36ad3d9dfc2d79.webp",
+    "static/media/pop-letrero.webp": "/static/media/pop-letrero.46ef2062e1ac47005eb3.webp",
     "static/media/instamascaras.jpg": "/static/media/instamascaras.765aa1ea201b5c3ab01a.jpg",
     "static/media/sketch1.webp": "/static/media/sketch1.cd8ab626e93ddad76cfc.webp",
     "static/media/persia8.webp": "/static/media/persia8.5ed9f3d616fe562e72db.webp",
@@ -173,9 +172,11 @@
     "static/media/uandes2.webp": "/static/media/uandes2.a68add0a73212f6d737f.webp",
     "static/media/silencio2.webp": "/static/media/silencio2.33a2df988daa9cb49efe.webp",
     "static/media/sketch2.webp": "/static/media/sketch2.27008eb010c75ef0e618.webp",
+    "static/media/polera-kambo.webp": "/static/media/polera-kambo.e9e33750ebcc269095f1.webp",
     "static/media/grik2.webp": "/static/media/grik2.5b2940e2bff122d77747.webp",
     "static/media/yoteapoyo-02.png": "/static/media/yoteapoyo-02.dced9bc2ea4ec615e7ab.png",
     "static/media/cajaspersia.webp": "/static/media/cajaspersia.13ba52a04245ac491aee.webp",
+    "static/media/caja-kambo.webp": "/static/media/caja-kambo.eace06670be4f3b13032.webp",
     "static/media/ilko1.webp": "/static/media/ilko1.f4d7414bdd25a7048937.webp",
     "static/media/ilko2.webp": "/static/media/ilko2.920c82eb9b3f4b14d8fb.webp",
     "static/media/mascara1.webp": "/static/media/mascara1.4f0a9d14ef7ca49ebe47.webp",
@@ -184,10 +185,10 @@
     "static/media/yoteapoyo-01.png": "/static/media/yoteapoyo-01.a757e7c8a9a1a484518f.png",
     "index.html": "/index.html",
     "main.0efc2e06.css.map": "/static/css/main.0efc2e06.css.map",
-    "main.0271d2c6.js.map": "/static/js/main.0271d2c6.js.map"
+    "main.0ed455b3.js.map": "/static/js/main.0ed455b3.js.map"
   },
   "entrypoints": [
     "static/css/main.0efc2e06.css",
-    "static/js/main.0271d2c6.js"
+    "static/js/main.0ed455b3.js"
   ]
 }
