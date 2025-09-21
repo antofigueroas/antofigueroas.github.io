@@ -1,21 +1,24 @@
 {
   "files": {
     "main.css": "/static/css/main.0efc2e06.css",
-    "main.js": "/static/js/main.0ed455b3.js",
+    "main.js": "/static/js/main.8296d685.js",
     "static/media/videoinstructivo.mp4": "/static/media/videoinstructivo.203cc9f2d7c7628475f2.mp4",
     "static/media/leaf.mp4": "/static/media/leaf.0a1add229eafd2cbc0da.mp4",
     "static/media/fondogrisvideo.mp4": "/static/media/fondogrisvideo.1b089cbb1457f491c0b0.mp4",
     "static/media/plantillas.png": "/static/media/plantillas.291b4ea112e9a37918b2.png",
     "static/media/videoclaro.mp4": "/static/media/videoclaro.9ad30e801a645a2e04d7.mp4",
     "static/media/letrero pop.png": "/static/media/letrero pop.be146366604284e6aded.png",
+    "static/media/Peugeot.mp4": "/static/media/Peugeot.df46207655cc26fdaae5.mp4",
     "static/media/posmetafisica-01.webp": "/static/media/posmetafisica-01.4de526aa6cca0ffbb067.webp",
     "static/media/bolsita.png": "/static/media/bolsita.9c7a70518a73007b509c.png",
     "static/media/videitoilkooficial.mp4": "/static/media/videitoilkooficial.62b3cabff3afad24754e.mp4",
     "static/media/finisterrae-01.webp": "/static/media/finisterrae-01.fbe64bac97a3b7e9e1b6.webp",
     "static/media/2023.mp4": "/static/media/2023.fd79d6ce4e01cee0d920.mp4",
+    "static/media/P3.mp4": "/static/media/P3.b6357553e99ca430c486.mp4",
     "static/media/Proximamente_Merlin.mp4": "/static/media/Proximamente_Merlin.815e5739c0d0529b07fd.mp4",
     "static/media/pulseras3.png": "/static/media/pulseras3.81fcd79c6b75d7822910.png",
     "static/media/portadillas.mp4": "/static/media/portadillas.90554e9fd48eda216ed5.mp4",
+    "static/media/P2.mp4": "/static/media/P2.9d1ca4c0fca0b0e57a30.mp4",
     "static/media/tarjetete.png": "/static/media/tarjetete.27c1295514f139015335.png",
     "static/media/bcf video oficial.mp4": "/static/media/bcf video oficial.f0625bc9e2ab6ef81f82.mp4",
     "static/media/tarjetas1.png": "/static/media/tarjetas1.955b5797bc33ff27a169.png",
@@ -37,6 +40,7 @@
     "static/media/TOTE1.png": "/static/media/TOTE1.25d06da3abda690c4cfb.png",
     "static/media/masomfe.png": "/static/media/masomfe.bb3e34a33d7a3d822eaf.png",
     "static/media/paperman_2poster.png": "/static/media/paperman_2poster.eadfa6842389bea4468c.png",
+    "static/media/P4.mp4": "/static/media/P4.f43012b686fa5f0d1c01.mp4",
     "static/media/gifprociudad.mp4": "/static/media/gifprociudad.8b9bb7a5ab7d3013d5fd.mp4",
     "static/media/libritoabierto.png": "/static/media/libritoabierto.6be119195764f3fd1015.png",
     "static/media/triadapartedeatras.png": "/static/media/triadapartedeatras.7ee51d397ebbdb32184e.png",
@@ -58,6 +62,7 @@
     "static/media/guia1matematicas_Mesa de trabajo 1.png": "/static/media/guia1matematicas_Mesa de trabajo 1.e12b3e33a936fa39aa9f.png",
     "static/media/yoteapoyo-03.png": "/static/media/yoteapoyo-03.60a162a47d8fc94198a0.png",
     "static/media/hoop-01.png": "/static/media/hoop-01.814f6406e0c005cc494d.png",
+    "static/media/Peugeot2.mp4": "/static/media/Peugeot2.c4c93233b2f6022c435e.mp4",
     "static/media/manuldit.png": "/static/media/manuldit.6e24fab01f5523d43105.png",
     "static/media/tote123-01.jpg": "/static/media/tote123-01.9288fc32158fa0ced048.jpg",
     "static/media/pulseras2.png": "/static/media/pulseras2.184b27c45522d70099e9.png",
@@ -152,9 +157,11 @@
     "static/media/campussaludable.webp": "/static/media/campussaludable.07710bc20cf06363583f.webp",
     "static/media/grik1.webp": "/static/media/grik1.0c5c25d713bc315a637f.webp",
     "static/media/mascara2.webp": "/static/media/mascara2.436f6e05e2fadeb340ee.webp",
+    "static/media/scouting.webp": "/static/media/scouting.41398317b333dd011ca4.webp",
     "static/media/minecrat.webp": "/static/media/minecrat.24be49b55b85bdaac0d2.webp",
     "static/media/persia9.webp": "/static/media/persia9.439fb41722f2d1e292a1.webp",
     "static/media/matri2.webp": "/static/media/matri2.48b86ef75f7ebea88f48.webp",
+    "static/media/rodaje2.webp": "/static/media/rodaje2.7148fe319d26f339ced3.webp",
     "static/media/clinica1.webp": "/static/media/clinica1.8a49e15e47fdaa7f95aa.webp",
     "static/media/bolsapersia.webp": "/static/media/bolsapersia.8c5a38ceedd23b3c849d.webp",
     "static/media/paletapersia.webp": "/static/media/paletapersia.c4c9ac36ad3d9dfc2d79.webp",
@@ -163,6 +170,8 @@
     "static/media/sketch1.webp": "/static/media/sketch1.cd8ab626e93ddad76cfc.webp",
     "static/media/persia8.webp": "/static/media/persia8.5ed9f3d616fe562e72db.webp",
     "static/media/paperman2.webp": "/static/media/paperman2.64d6f79f1be648633bc2.webp",
+    "static/media/rodaje.webp": "/static/media/rodaje.85d33d8937cec1a64952.webp",
+    "static/media/peugeot.webp": "/static/media/peugeot.08a3d0211bc62b6fd7f9.webp",
     "static/media/maths30.gif": "/static/media/maths30.85cee56a6ca852ff7e28.gif",
     "static/media/paperman1.webp": "/static/media/paperman1.473b1cfc66abecfdb85b.webp",
     "static/media/silencio1.webp": "/static/media/silencio1.44ec623c0c6e9fb03f52.webp",
@@ -172,6 +181,7 @@
     "static/media/uandes2.webp": "/static/media/uandes2.a68add0a73212f6d737f.webp",
     "static/media/silencio2.webp": "/static/media/silencio2.33a2df988daa9cb49efe.webp",
     "static/media/sketch2.webp": "/static/media/sketch2.27008eb010c75ef0e618.webp",
+    "static/media/peugeot2.webp": "/static/media/peugeot2.3ea1e9e4a56e86ce8313.webp",
     "static/media/polera-kambo.webp": "/static/media/polera-kambo.e9e33750ebcc269095f1.webp",
     "static/media/grik2.webp": "/static/media/grik2.5b2940e2bff122d77747.webp",
     "static/media/yoteapoyo-02.png": "/static/media/yoteapoyo-02.dced9bc2ea4ec615e7ab.png",
@@ -185,10 +195,10 @@
     "static/media/yoteapoyo-01.png": "/static/media/yoteapoyo-01.a757e7c8a9a1a484518f.png",
     "index.html": "/index.html",
     "main.0efc2e06.css.map": "/static/css/main.0efc2e06.css.map",
-    "main.0ed455b3.js.map": "/static/js/main.0ed455b3.js.map"
+    "main.8296d685.js.map": "/static/js/main.8296d685.js.map"
   },
   "entrypoints": [
     "static/css/main.0efc2e06.css",
-    "static/js/main.0ed455b3.js"
+    "static/js/main.8296d685.js"
   ]
 }

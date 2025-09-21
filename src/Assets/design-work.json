@@ -635,7 +635,38 @@
         ],
         "Client": [
           {
-            "name": "Pop & Go"
+            "name": "Kambo Sushi"
+          }
+        ]
+      }
+    },
+    {
+      "title": "Peugeot Commercials - Production Support",
+      "client": null,
+      "description": ["Provided support in pre-production, including location scouting and shooting schedule preparation." ],
+        "release_year": "2024",
+      "release_month": "09",
+      "featured": true,
+      "has_page": false,
+      "src": "peugeot",
+      "thumbnails": [
+        "rodaje2.webp",
+        "peugeot.webp",
+        "Peugeot.mp4",
+        "scouting.webp",
+        "peugeot2.webp",
+        "rodaje.webp"
+      ],
+      "cta": null,
+      "team": {
+        "Assistant Producer": [
+          {
+            "name": "Antonia Figueroa"
+          }
+        ],
+        "Client": [
+          {
+            "name": "Dopamine Works"
           }
         ]
       }
