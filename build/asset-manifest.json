@@ -1,12 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.0efc2e06.css",
-    "main.js": "/static/js/main.604c296f.js",
+    "main.js": "/static/js/main.9ddb1113.js",
     "static/media/videoinstructivo.mp4": "/static/media/videoinstructivo.203cc9f2d7c7628475f2.mp4",
     "static/media/leaf.mp4": "/static/media/leaf.0a1add229eafd2cbc0da.mp4",
     "static/media/fondogrisvideo.mp4": "/static/media/fondogrisvideo.1b089cbb1457f491c0b0.mp4",
+    "static/media/cbsdjhkncldsk.png": "/static/media/cbsdjhkncldsk.51fecd1d867337ac7dcc.png",
+    "static/media/Hanging Vertical Banner Mockup.png": "/static/media/Hanging Vertical Banner Mockup.9714a1554a997c7886b7.png",
     "static/media/plantillas.png": "/static/media/plantillas.291b4ea112e9a37918b2.png",
+    "static/media/Free_Billboard_Mockup.png": "/static/media/Free_Billboard_Mockup.74d1788000c57db6458e.png",
     "static/media/videoclaro.mp4": "/static/media/videoclaro.9ad30e801a645a2e04d7.mp4",
+    "static/media/MOCKUP CORIOLIS 08.png": "/static/media/MOCKUP CORIOLIS 08.52e515e35ffb08ee6382.png",
+    "static/media/MOCKUP CORIOLIS 04.png": "/static/media/MOCKUP CORIOLIS 04.ab0624f7e100e1395bc9.png",
     "static/media/letrero pop.png": "/static/media/letrero pop.be146366604284e6aded.png",
     "static/media/Peugeot.mp4": "/static/media/Peugeot.df46207655cc26fdaae5.mp4",
     "static/media/posmetafisica-01.webp": "/static/media/posmetafisica-01.4de526aa6cca0ffbb067.webp",
@@ -46,6 +51,7 @@
     "static/media/paperman_2poster.png": "/static/media/paperman_2poster.eadfa6842389bea4468c.png",
     "static/media/P4.mp4": "/static/media/P4.f43012b686fa5f0d1c01.mp4",
     "static/media/gifprociudad.mp4": "/static/media/gifprociudad.8b9bb7a5ab7d3013d5fd.mp4",
+    "static/media/openart-image_vx-gNuO9_1766099053924_raw.png": "/static/media/openart-image_vx-gNuO9_1766099053924_raw.d5a69416e59fe61fa52f.png",
     "static/media/libritoabierto.png": "/static/media/libritoabierto.6be119195764f3fd1015.png",
     "static/media/triadapartedeatras.png": "/static/media/triadapartedeatras.7ee51d397ebbdb32184e.png",
     "static/media/brochure.png": "/static/media/brochure.393d992bafe405af653e.png",
@@ -59,6 +65,7 @@
     "static/media/Limon Final.png": "/static/media/Limon Final.7a6067d918e31491ab26.png",
     "static/media/fomefome.png": "/static/media/fomefome.40474a155b0017190faa.png",
     "static/media/bcfahorasi.png": "/static/media/bcfahorasi.c7763209fac09144b94c.png",
+    "static/media/cdsklcsd vf.png": "/static/media/cdsklcsd vf.21ebb06cb351e55250a1.png",
     "static/media/lata 1 de femini.png": "/static/media/lata 1 de femini.bf1c13595ef7c42fd44c.png",
     "static/media/mockuptriada.png": "/static/media/mockuptriada.0de82c62597278293663.png",
     "static/media/tecno2.png": "/static/media/tecno2.c412ee129d11c65c5de5.png",
@@ -73,6 +80,7 @@
     "static/media/pulseras2.png": "/static/media/pulseras2.184b27c45522d70099e9.png",
     "static/media/ciudad.jpg": "/static/media/ciudad.f3addc4beb840d305ee7.jpg",
     "static/media/finiss.png": "/static/media/finiss.6f4aa83798ecc34c869a.png",
+    "static/media/Gemini_Generated_Image_68ltm968ltm968lt.png": "/static/media/Gemini_Generated_Image_68ltm968ltm968lt.843c98af907f6c87be67.png",
     "static/media/bcfscreen2.png": "/static/media/bcfscreen2.0732e9a0806c3c9150be.png",
     "static/media/finis.png": "/static/media/finis.cbd7d8f490197307ff35.png",
     "static/media/videomascara2.mp4": "/static/media/videomascara2.d9741e09cded7b4848fa.mp4",
@@ -97,6 +105,8 @@
     "static/media/Banner-principal.png": "/static/media/Banner-principal.8a3db84986256eb747b1.png",
     "static/media/rrsstriada.mp4": "/static/media/rrsstriada.8a088a81b11523d29182.mp4",
     "static/media/matri.webp": "/static/media/matri.8e53d8088bee0b8f8ac1.webp",
+    "static/media/MOCKUP CORIOLIS 07.png": "/static/media/MOCKUP CORIOLIS 07.e80289bf705ea87139c1.png",
+    "static/media/Captura de pantalla 2025-12-19 a la(s) 2.58.13 p. m..png": "/static/media/Captura de pantalla 2025-12-19 a la(s) 2.58.13 p. m..016d8cd40dc8f9196b15.png",
     "static/media/vistapreviacuaderno.png": "/static/media/vistapreviacuaderno.dadfef0c03b240183919.png",
     "static/media/stickersclaro.png": "/static/media/stickersclaro.88590b7064e8fc282c56.png",
     "static/media/lalalallalal.png": "/static/media/lalalallalal.c39b444cf7b52bd6ce3f.png",
@@ -120,6 +130,7 @@
     "static/media/mascarapng2.jpg": "/static/media/mascarapng2.408520277fab7a393b7d.jpg",
     "static/media/triada_web-04.jpg": "/static/media/triada_web-04.646bb98cac166fd04ab8.jpg",
     "static/media/portadaril2.png": "/static/media/portadaril2.3b3f60ecb854cbd8695f.png",
+    "static/media/MOCKUP CORIOLIS 10.jpg": "/static/media/MOCKUP CORIOLIS 10.f40146c392bd3df27719.jpg",
     "static/media/yoteapoyo-04.png": "/static/media/yoteapoyo-04.df3f8ec22df6705ff98a.png",
     "static/media/innova.webp": "/static/media/innova.a360e3ccf844590063f7.webp",
     "static/media/sistema.jpg": "/static/media/sistema.ea28a28f751827f66bc4.jpg",
@@ -204,10 +215,10 @@
     "static/media/yoteapoyo-01.png": "/static/media/yoteapoyo-01.a757e7c8a9a1a484518f.png",
     "index.html": "/index.html",
     "main.0efc2e06.css.map": "/static/css/main.0efc2e06.css.map",
-    "main.604c296f.js.map": "/static/js/main.604c296f.js.map"
+    "main.9ddb1113.js.map": "/static/js/main.9ddb1113.js.map"
   },
   "entrypoints": [
     "static/css/main.0efc2e06.css",
-    "static/js/main.604c296f.js"
+    "static/js/main.9ddb1113.js"
   ]
 }

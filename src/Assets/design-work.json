@@ -942,7 +942,7 @@
       ],
       "release_year": "2025",
       "release_month": "11",
-      "featured": false,
+      "featured": true,
       "has_page": false,
       "src": "coriolis",
       "thumbnails": [
@@ -973,7 +973,7 @@
       ],
       "release_year": "2025",
       "release_month": "11",
-      "featured": false,
+      "featured": true,
       "has_page": false,
       "src": "cipres",
       "thumbnails": [
