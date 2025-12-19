@@ -190,7 +190,7 @@
       }
     },
     {
-      "title": "Exploring the Minecraft Nether Update: A Visual Guide",
+      "title": "Exploring the Minecraft Nether Update: A Visual Illustrated Guide",
       "client": null,
       "description": [
         "Infographic designed to quickly and engagingly highlight the features and changes in the Nether Minecraft Update.",
@@ -212,30 +212,6 @@
         }
       ],
       "team": null
-    },
-    {
-      "title": "Brandbook for Clínica Elements",
-      "client": "Clínica Elements",
-      "description": [
-        "Visual update and simplification of Clínica Elements’ brand identity, compiled into a concise and modern brandbook with updated guidelines."
-      ],
-      "release_year": "2025",
-      "release_month": "01",
-      "featured": false,
-      "has_page": false,
-      "src": "brandbook",
-      "thumbnails": [
-        "book2.webp",
-        "book1.webp"
-      ],
-      "cta": null,
-      "team": {
-        "Design": [
-          {
-            "name": "Antonia Figueroa"
-          }
-        ]
-      }
     },
     {
       "title": "Productivity & Ergonomics in Agriculture: RCP-19",
@@ -483,12 +459,13 @@
       "src": "persia",
       "thumbnails": [
         "persia1.webp",
+        "persiapersia.webp",
         "persia5.webp",
         "paletapersia.webp",
-        "persia8.webp",
         "persia9.webp",
         "credenciales p.png",
         "persia123.png",
+        "persia8.webp",
         "lanyards persia.png"
       ],
       "cta": [
@@ -523,9 +500,13 @@
       "src": "clinicaelements",
       "thumbnails": [
         "clinica1.webp",
-        "clinica2.webp",
+        "clinica4.webp",
+        "book2.webp",
         "clinica3.webp",
-        "clinica4.webp"
+        "ele4.webp",
+        "ele1.webp",
+        "ele2.webp",
+        "ele3.webp"
       ],
       "cta": [
         {
@@ -588,17 +569,17 @@
       "has_page": false,
       "src": "popandgo",
       "thumbnails": [
-        "mango.jpg",
-        "moramora.png",
-        "naranjin.png",
-        "quetal.png",
-        "lalalallalal.png",
+        "pop1.webp",
+        "pop2.webp",
+        "pop3.webp",
+        "pop4.webp",
+        "pop5.webp",
         "bolsa-pop.webp",
-        "lata 1 de femini.png"
+        "pop6.webp"
       ],
       "cta": null,
       "team": {
-        "Graphic Design": [
+        "Brand and Packaging Design": [
           {
             "name": "Antonia Figueroa"
           }
@@ -621,14 +602,12 @@
       "src": "kambo",
       "thumbnails": [
         "polera-kambo.webp",
-        "caja-kambo.webp",
         "tarjeta kambo.png",
-        "Bags _3n.png",
-        "logokambo1.png"
+        "Bags _3n.png"
       ],
       "cta": null,
       "team": {
-        "Graphic Design": [
+        "Brand Design and Illustrations": [
           {
             "name": "Antonia Figueroa"
           }
@@ -946,10 +925,10 @@
       "has_page": false,
       "src": "coriolis",
       "thumbnails": [
-        "openart-image_vx-gNuO9_1766099053924_raw.png",
-        "MOCKUP CORIOLIS 04.png",
-        "MOCKUP CORIOLIS 08.png",
-        "Hanging Vertical Banner Mockup.png"
+        "coriolis1.webp",
+        "coriolis2.webp",
+        "coriolis3.webp",
+        "coriolis4.webp"
       ],
       "cta": [
         {
@@ -977,9 +956,9 @@
       "has_page": false,
       "src": "cipres",
       "thumbnails": [
-        "cdsklcsd vf.png",
-        "Free_Billboard_Mockup.png",
-        "cbsdjhkncldsk.png",
+        "cipres1.webp",
+        "cipres2.webp",
+        "cipres3.webp",
         "Captura de pantalla 2025-12-19 a la(s) 2.58.13 p. m..png"
       ],
       "cta": [
