@@ -33,7 +33,7 @@
       }
     },
     {
-      "title": "Un Hombre de Verdad - Fanzines",
+      "title": "Un Hombre de Verdad - Illustrated Fanzines",
       "client": null,
       "description": [
         "Fanzine that compiles the testimonies of 246 Chilean men who consider themselves affected by the hegemonic model of masculinity.",
@@ -41,12 +41,12 @@
       ],
       "release_year": "2022",
       "release_month": "07",
-      "featured": false,
+      "featured": true,
       "has_page": false,
       "src": "hombre-de-verdad/fanzine",
       "thumbnails": [
-        "hombredeverdad_web.jpg",
         "hombredeverdad_web-02.jpg",
+        "hombredeverdad_web.jpg",
         "hombredeverdad_web-03.jpg"
       ],
       "cta": [
@@ -141,7 +141,7 @@
       ],
       "release_year": "2020",
       "release_month": "06",
-      "featured": false,
+      "featured": true,
       "has_page": false,
       "src": "paperman",
       "thumbnails": [
@@ -198,7 +198,7 @@
       ],
       "release_year": "2021",
       "release_month": "09",
-      "featured": false,
+      "featured": true,
       "has_page": false,
       "src": "minecraft",
       "thumbnails": [
@@ -588,13 +588,13 @@
       "has_page": false,
       "src": "popandgo",
       "thumbnails": [
-        "Naranja.png",
-        "cartel-mango.webp",
-        "Limon Final.png",
-        "pop-letrero.webp",
-        "Mango.png",
+        "mango.jpg",
+        "moramora.png",
+        "naranjin.png",
+        "quetal.png",
+        "lalalallalal.png",
         "bolsa-pop.webp",
-        "Arandano Acai.png"
+        "lata 1 de femini.png"
       ],
       "cta": null,
       "team": {
@@ -643,7 +643,7 @@
     {
       "title": "Peugeot Commercials - Production Support",
       "client": null,
-      "description": ["Provided support in pre-production, including location scouting and shooting schedule preparation." ],
+      "description": ["Provided support in pre-production, location scouting and shooting schedule preparation." ],
         "release_year": "2024",
       "release_month": "09",
       "featured": true,
@@ -906,7 +906,7 @@
       }
     },
     {
-      "title": "EasyRoomie - Prototype Animations and Oficial Presentation",
+      "title": "EasyRoomie - Prototype Animations, Illustrations and Oficial Presentation",
       "client": null,
       "description": [
         "Visual presentation for investors during the UDD New Business Creation Seminar.",
@@ -930,6 +930,68 @@
         "Client": [
           {
             "name": "Private"
+          }
+        ]
+      }
+    },
+    {
+      "title": "Branding - Coriolis Lab, Supplement Brand",
+      "client": null,
+      "description": [
+        "I developed a comprehensive branding system for a supplements brand, defining its visual identity, tone of voice, and packaging direction. The project focused on creating a modern, clean, and trustworthy aesthetic that communicates performance, quality, and lifestyle."
+      ],
+      "release_year": "2025",
+      "release_month": "11",
+      "featured": false,
+      "has_page": false,
+      "src": "coriolis",
+      "thumbnails": [
+        "openart-image_vx-gNuO9_1766099053924_raw.png",
+        "MOCKUP CORIOLIS 04.png",
+        "MOCKUP CORIOLIS 08.png",
+        "Hanging Vertical Banner Mockup.png"
+      ],
+      "cta": [
+        {
+          "title": " ",
+          "url": " "
+        }
+      ],
+      "team": {
+        "Brand Designer": [
+          {
+            "name": "Antonia Figueroa"
+          }
+        ]
+      }
+    },
+    {
+      "title": "Branding – Ciprés, Modular Architecture",
+      "client": null,
+      "description": [
+        "I created the branding for a modular architecture studio, building a visual identity that reflects functionality, innovation, and structural clarity. The brand balances architectural precision with a contemporary, flexible language aligned with modular design principles."
+      ],
+      "release_year": "2025",
+      "release_month": "11",
+      "featured": false,
+      "has_page": false,
+      "src": "cipres",
+      "thumbnails": [
+        "cdsklcsd vf.png",
+        "Free_Billboard_Mockup.png",
+        "cbsdjhkncldsk.png",
+        "Captura de pantalla 2025-12-19 a la(s) 2.58.13 p. m..png"
+      ],
+      "cta": [
+        {
+          "title": " ",
+          "url": " "
+        }
+      ],
+      "team": {
+        "Designer": [
+          {
+            "name": "Antonia Figueroa"
           }
         ]
       }

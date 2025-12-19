@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.0efc2e06.css",
-    "main.js": "/static/js/main.8296d685.js",
+    "main.js": "/static/js/main.604c296f.js",
     "static/media/videoinstructivo.mp4": "/static/media/videoinstructivo.203cc9f2d7c7628475f2.mp4",
     "static/media/leaf.mp4": "/static/media/leaf.0a1add229eafd2cbc0da.mp4",
     "static/media/fondogrisvideo.mp4": "/static/media/fondogrisvideo.1b089cbb1457f491c0b0.mp4",
@@ -15,6 +15,7 @@
     "static/media/finisterrae-01.webp": "/static/media/finisterrae-01.fbe64bac97a3b7e9e1b6.webp",
     "static/media/2023.mp4": "/static/media/2023.fd79d6ce4e01cee0d920.mp4",
     "static/media/P3.mp4": "/static/media/P3.b6357553e99ca430c486.mp4",
+    "static/media/latiti.png": "/static/media/latiti.91ee1c27b705172dd5db.png",
     "static/media/Proximamente_Merlin.mp4": "/static/media/Proximamente_Merlin.815e5739c0d0529b07fd.mp4",
     "static/media/pulseras3.png": "/static/media/pulseras3.81fcd79c6b75d7822910.png",
     "static/media/portadillas.mp4": "/static/media/portadillas.90554e9fd48eda216ed5.mp4",
@@ -29,10 +30,13 @@
     "static/media/cuadernillo.png": "/static/media/cuadernillo.5af73b4c0c96485b62be.png",
     "static/media/colectacositas.png": "/static/media/colectacositas.6fe97fb40b7b95e1e837.png",
     "static/media/persia123.png": "/static/media/persia123.5624af05729538b2888c.png",
+    "static/media/naranjin.png": "/static/media/naranjin.8085d3cd7f567f505262.png",
     "static/media/Naranja.png": "/static/media/Naranja.e64bb3bdec7559e97a6c.png",
     "static/media/librom30mportafolio.png": "/static/media/librom30mportafolio.9f6e36ae3534630b31f1.png",
     "static/media/paperman_1poster.png": "/static/media/paperman_1poster.66a9392e7a77dfd28525.png",
     "static/media/tote2.png": "/static/media/tote2.1073535f980fd5bb39a4.png",
+    "static/media/moramora.png": "/static/media/moramora.dbf0d4677e4069e8d184.png",
+    "static/media/openart-image_J4r93LVa_1766086827624_raw.png": "/static/media/openart-image_J4r93LVa_1766086827624_raw.dbf0d4677e4069e8d184.png",
     "static/media/mathreciclado.png": "/static/media/mathreciclado.5f77f79582a370caa700.png",
     "static/media/triadaimagen.png": "/static/media/triadaimagen.7f3cc8c4fc23ac13c01e.png",
     "static/media/devices1.png": "/static/media/devices1.d26c196a6905b58ff715.png",
@@ -55,6 +59,7 @@
     "static/media/Limon Final.png": "/static/media/Limon Final.7a6067d918e31491ab26.png",
     "static/media/fomefome.png": "/static/media/fomefome.40474a155b0017190faa.png",
     "static/media/bcfahorasi.png": "/static/media/bcfahorasi.c7763209fac09144b94c.png",
+    "static/media/lata 1 de femini.png": "/static/media/lata 1 de femini.bf1c13595ef7c42fd44c.png",
     "static/media/mockuptriada.png": "/static/media/mockuptriada.0de82c62597278293663.png",
     "static/media/tecno2.png": "/static/media/tecno2.c412ee129d11c65c5de5.png",
     "static/media/abiertos.png": "/static/media/abiertos.20475a729aa261f1d53f.png",
@@ -81,16 +86,20 @@
     "static/media/triada_web.jpg": "/static/media/triada_web.ba9dfa4b770e73159b7c.jpg",
     "static/media/compupu.png": "/static/media/compupu.5502cfcaa20ab3dd31a6.png",
     "static/media/fomefomefome.png": "/static/media/fomefomefome.ecb0c043be9b977dffa4.png",
+    "static/media/ndjsna.png": "/static/media/ndjsna.b71df9bd024f28e427a5.png",
     "static/media/prueba amazon.mp4": "/static/media/prueba amazon.1ab89dec7c54c6fdb100.mp4",
+    "static/media/quetal.png": "/static/media/quetal.c01d1019967b202ccaf1.png",
     "static/media/colectazoom.png": "/static/media/colectazoom.6edd6b2859de99d3eec1.png",
     "static/media/parantenavidad.png": "/static/media/parantenavidad.689da0a9994290fc6b66.png",
     "static/media/hombredeverdad_web-02.jpg": "/static/media/hombredeverdad_web-02.60c4171779fd250e40ac.jpg",
+    "static/media/mango.jpg": "/static/media/mango.256b4a03b39539644725.jpg",
     "static/media/easyeasy.gif": "/static/media/easyeasy.ef82805adb1702b6ddd6.gif",
     "static/media/Banner-principal.png": "/static/media/Banner-principal.8a3db84986256eb747b1.png",
     "static/media/rrsstriada.mp4": "/static/media/rrsstriada.8a088a81b11523d29182.mp4",
     "static/media/matri.webp": "/static/media/matri.8e53d8088bee0b8f8ac1.webp",
     "static/media/vistapreviacuaderno.png": "/static/media/vistapreviacuaderno.dadfef0c03b240183919.png",
     "static/media/stickersclaro.png": "/static/media/stickersclaro.88590b7064e8fc282c56.png",
+    "static/media/lalalallalal.png": "/static/media/lalalallalal.c39b444cf7b52bd6ce3f.png",
     "static/media/ciudad de dios panfleto.jpg": "/static/media/ciudad de dios panfleto.a9f39b4b561cb180d557.jpg",
     "static/media/detalles organos.png": "/static/media/detalles organos.a6b98dafcc31c9ee3494.png",
     "static/media/hombredeverdad_web.jpg": "/static/media/hombredeverdad_web.e264d1a99171e90c177f.jpg",
@@ -195,10 +204,10 @@
     "static/media/yoteapoyo-01.png": "/static/media/yoteapoyo-01.a757e7c8a9a1a484518f.png",
     "index.html": "/index.html",
     "main.0efc2e06.css.map": "/static/css/main.0efc2e06.css.map",
-    "main.8296d685.js.map": "/static/js/main.8296d685.js.map"
+    "main.604c296f.js.map": "/static/js/main.604c296f.js.map"
   },
   "entrypoints": [
     "static/css/main.0efc2e06.css",
-    "static/js/main.8296d685.js"
+    "static/js/main.604c296f.js"
   ]
 }
