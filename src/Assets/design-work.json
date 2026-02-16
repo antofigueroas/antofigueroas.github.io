@@ -927,8 +927,11 @@
       "thumbnails": [
         "coriolis1.webp",
         "coriolis2.webp",
+        "coriolis4.webp",
         "coriolis3.webp",
-        "coriolis4.webp"
+        "supre3.webp",
+        "suple1.webp",
+        "suple2.webp"
       ],
       "cta": [
         {
@@ -948,8 +951,7 @@
       "title": "Branding – Ciprés, Modular Architecture",
       "client": null,
       "description": [
-        "I created the branding for a modular architecture studio, building a visual identity that reflects functionality, innovation, and structural clarity. The brand balances architectural precision with a contemporary, flexible language aligned with modular design principles."
-      ],
+"Brand identity development for a modular architecture studio, articulating a visual system grounded in functionality, innovation, and structural clarity. The identity merges architectural precision with a contemporary, adaptable language inspired by modular design logic."      ],
       "release_year": "2025",
       "release_month": "11",
       "featured": true,
@@ -961,12 +963,7 @@
         "cipres3.webp",
         "Captura de pantalla 2025-12-19 a la(s) 2.58.13 p. m..png"
       ],
-      "cta": [
-        {
-          "title": " ",
-          "url": " "
-        }
-      ],
+     "cta": null,
       "team": {
         "Designer": [
           {
