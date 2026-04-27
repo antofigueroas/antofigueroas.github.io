@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.0efc2e06.css",
-    "main.js": "/static/js/main.7f84c865.js",
+    "main.css": "/static/css/main.2d458224.css",
+    "main.js": "/static/js/main.9032d27c.js",
     "static/media/videoinstructivo.mp4": "/static/media/videoinstructivo.203cc9f2d7c7628475f2.mp4",
     "static/media/leaf.mp4": "/static/media/leaf.0a1add229eafd2cbc0da.mp4",
     "static/media/fondogrisvideo.mp4": "/static/media/fondogrisvideo.1b089cbb1457f491c0b0.mp4",
@@ -205,11 +205,14 @@
     "static/media/sketch1.webp": "/static/media/sketch1.cd8ab626e93ddad76cfc.webp",
     "static/media/persia8.webp": "/static/media/persia8.5ed9f3d616fe562e72db.webp",
     "static/media/paperman2.webp": "/static/media/paperman2.64d6f79f1be648633bc2.webp",
+    "static/media/suple1.webp": "/static/media/suple1.72fba46383704b3a8c52.webp",
     "static/media/rodaje.webp": "/static/media/rodaje.85d33d8937cec1a64952.webp",
     "static/media/peugeot.webp": "/static/media/peugeot.08a3d0211bc62b6fd7f9.webp",
     "static/media/maths30.gif": "/static/media/maths30.85cee56a6ca852ff7e28.gif",
     "static/media/persiapersia.webp": "/static/media/persiapersia.283ba9e0e3fce2b6c48f.webp",
     "static/media/paperman1.webp": "/static/media/paperman1.473b1cfc66abecfdb85b.webp",
+    "static/media/suple2.webp": "/static/media/suple2.1258f50a9d86bfee1608.webp",
+    "static/media/supre3.webp": "/static/media/supre3.5deb79a934f7c8979cc8.webp",
     "static/media/silencio1.webp": "/static/media/silencio1.44ec623c0c6e9fb03f52.webp",
     "static/media/clinica4.webp": "/static/media/clinica4.d28b931b80d0d28dd088.webp",
     "static/media/biblioteca3.webp": "/static/media/biblioteca3.514ece4285f179066ad4.webp",
@@ -232,11 +235,11 @@
     "static/media/logokambo1.png": "/static/media/logokambo1.8f5350c2f96434a966c3.png",
     "static/media/yoteapoyo-01.png": "/static/media/yoteapoyo-01.a757e7c8a9a1a484518f.png",
     "index.html": "/index.html",
-    "main.0efc2e06.css.map": "/static/css/main.0efc2e06.css.map",
-    "main.7f84c865.js.map": "/static/js/main.7f84c865.js.map"
+    "main.2d458224.css.map": "/static/css/main.2d458224.css.map",
+    "main.9032d27c.js.map": "/static/js/main.9032d27c.js.map"
   },
   "entrypoints": [
-    "static/css/main.0efc2e06.css",
-    "static/js/main.7f84c865.js"
+    "static/css/main.2d458224.css",
+    "static/js/main.9032d27c.js"
   ]
 }
