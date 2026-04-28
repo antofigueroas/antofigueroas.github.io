@@ -243,7 +243,7 @@
       "team": {
         "Graphic and Product Design": [
           {
-            "name": null
+            "name": ""
           }
         ],
         "Team": [
@@ -508,12 +508,7 @@
         "ele2.webp",
         "ele3.webp"
       ],
-      "cta": [
-        {
-          "title": null,
-          "url": null
-        }
-      ],
+      "cta": null,
       "team": {
         "Graphic Design": [
           {
@@ -654,6 +649,60 @@
         ]
       }
     },
+     {
+    "title": "m Klotz x Endemik Collection — Visual Direction & Campaign",
+    "client": null,
+      "description": [
+      "Furniture collection by Chilean architect Matías Klotz—Borromini Prize—developed in collaboration with Endemik over a four-year period.",
+      "",
+       "AI-generated imagery for product presentation and lifestyle scenes for e-commerce, alongside visual content for the launch campaign, including mailings, newsletters, social media reels, and audiovisual pieces."
+      ],
+      "release_year": "2026",
+      "release_month": "04",
+      "featured": true,
+      "has_page": false,
+      "src": "klotz",
+      "thumbnails": [
+        "k-17.webp",
+        "k-01.webp",
+        "k-02.webp",
+        "k-03.webp",
+        "k-04.webp",
+        "k-05.webp",
+        "k-06.webp",
+        "k-07.webp",
+        "k-08.webp",
+        "k-09.webp",
+        "k-10.webp",
+        "k-11.webp",
+        "k-12.webp",
+        "k-13.webp", 
+        "k-15.webp",
+        "k-16.webp",
+        "k-21.webp",
+        "k-22.webp",
+        "k-23.webp",
+        "k-24.webp",
+        "k-20.webp",
+        "k-25.webp",
+        "k-26.webp",
+        "k-27.webp"
+
+      ],
+      "cta": null,
+      "team": {
+        "Visual Direction & Campaign Content": [
+          {
+            "name": "Antonia Figueroa"
+          }
+        ],
+        "Client": [
+          {
+            "name": "m Klotz x Endemik"
+          }
+        ]
+      }
+    },
     {
       "title": "Universidad de los Andes - Crisis Management and Well-Being Guidelines",
       "client": null,
@@ -728,7 +777,7 @@
         "Key visual design for Challengers 2025, an entrepreneurship and innovation tournament that empowers young talent across the country to solve real-world challenges through creative and impactful solutions."
       ],
       "release_year": "2025",
-      "release_month": "1",
+      "release_month": "01",
       "featured": false,
       "has_page": false,
       "src": "challengers",
