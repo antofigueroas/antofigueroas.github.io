@@ -569,13 +569,17 @@
       "has_page": false,
       "src": "popandgo",
       "thumbnails": [
-        "pop1.webp",
-        "pop2.webp",
-        "pop3.webp",
-        "pop4.webp",
-        "pop5.webp",
+        "medidas porta-01.webp",
+        "medidas porta-05.webp",
+        "medidas porta-04.webp",
+        "medidas porta-06.webp",
+        "medidas porta-03.webp",
+        "medidas porta-07.webp",
+        "medidas porta-02.webp",
         "bolsa-pop.webp",
-        "pop6.webp"
+        "pop3.webp",
+        "pop6.webp",
+         "pop5.webp"
       ],
       "cta": null,
       "team": {
@@ -835,7 +839,6 @@
       "cta": [
         {
           "title": "About Merlín, un musical de Leyenda",
-          "url": "https://www.uandes.cl/merlin/",
           "url": "https://www.uandes.cl/merlin/"
         }
       ],
@@ -918,7 +921,7 @@
       "title": "Branding - Coriolis Lab, Supplement Brand",
       "client": null,
       "description": [
-        "I developed a comprehensive branding system for a supplements brand, defining its visual identity, tone of voice, and packaging direction. The project focused on creating a modern, clean, and trustworthy aesthetic that communicates performance, quality, and lifestyle."
+        "Developed a comprehensive branding system for a supplements brand, defining its visual identity, tone of voice, and packaging direction. The project focused on creating a modern, clean, and trustworthy aesthetic that communicates performance, quality, and lifestyle."
       ],
       "release_year": "2025",
       "release_month": "11",

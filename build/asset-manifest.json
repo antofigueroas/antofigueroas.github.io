@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.2d458224.css",
-    "main.js": "/static/js/main.9032d27c.js",
+    "main.js": "/static/js/main.2969f6ff.js",
     "static/media/videoinstructivo.mp4": "/static/media/videoinstructivo.203cc9f2d7c7628475f2.mp4",
     "static/media/leaf.mp4": "/static/media/leaf.0a1add229eafd2cbc0da.mp4",
     "static/media/fondogrisvideo.mp4": "/static/media/fondogrisvideo.1b089cbb1457f491c0b0.mp4",
@@ -227,19 +227,26 @@
     "static/media/grik2.webp": "/static/media/grik2.5b2940e2bff122d77747.webp",
     "static/media/yoteapoyo-02.png": "/static/media/yoteapoyo-02.dced9bc2ea4ec615e7ab.png",
     "static/media/cajaspersia.webp": "/static/media/cajaspersia.13ba52a04245ac491aee.webp",
+    "static/media/medidas porta-04.webp": "/static/media/medidas porta-04.a801503536cef9f6ecb5.webp",
     "static/media/caja-kambo.webp": "/static/media/caja-kambo.eace06670be4f3b13032.webp",
     "static/media/ilko1.webp": "/static/media/ilko1.f4d7414bdd25a7048937.webp",
     "static/media/ilko2.webp": "/static/media/ilko2.920c82eb9b3f4b14d8fb.webp",
     "static/media/mascara1.webp": "/static/media/mascara1.4f0a9d14ef7ca49ebe47.webp",
+    "static/media/medidas porta-01.webp": "/static/media/medidas porta-01.5aee3597b9f5421ebbea.webp",
     "static/media/lanyardpersia.webp": "/static/media/lanyardpersia.952b733a1a71a251c245.webp",
     "static/media/logokambo1.png": "/static/media/logokambo1.8f5350c2f96434a966c3.png",
+    "static/media/medidas porta-05.webp": "/static/media/medidas porta-05.d2114eb47831509f2568.webp",
     "static/media/yoteapoyo-01.png": "/static/media/yoteapoyo-01.a757e7c8a9a1a484518f.png",
+    "static/media/medidas porta-02.webp": "/static/media/medidas porta-02.a56acd71d6824cd465e3.webp",
+    "static/media/medidas porta-07.webp": "/static/media/medidas porta-07.a62a2aee0f43a34afe05.webp",
+    "static/media/medidas porta-06.webp": "/static/media/medidas porta-06.153e330589647a5070fd.webp",
+    "static/media/medidas porta-03.webp": "/static/media/medidas porta-03.fe4105d742e2ac9a9998.webp",
     "index.html": "/index.html",
     "main.2d458224.css.map": "/static/css/main.2d458224.css.map",
-    "main.9032d27c.js.map": "/static/js/main.9032d27c.js.map"
+    "main.2969f6ff.js.map": "/static/js/main.2969f6ff.js.map"
   },
   "entrypoints": [
     "static/css/main.2d458224.css",
-    "static/js/main.9032d27c.js"
+    "static/js/main.2969f6ff.js"
   ]
 }
