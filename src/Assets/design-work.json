@@ -41,7 +41,7 @@
       ],
       "release_year": "2022",
       "release_month": "07",
-      "featured": true,
+      "featured": false,
       "has_page": false,
       "src": "hombre-de-verdad/fanzine",
       "thumbnails": [
@@ -222,7 +222,7 @@
       ],
       "release_year": "2019",
       "release_month": "08",
-      "featured": true,
+      "featured": false,
       "has_page": false,
       "src": "rcp/project",
       "thumbnails": [
@@ -272,7 +272,7 @@
       ],
       "release_year": "2025",
       "release_month": "02",
-      "featured": true,
+      "featured": false,
       "has_page": false,
       "src": "wedding",
       "thumbnails": [
@@ -297,7 +297,7 @@
       ],
       "release_year": "2020",
       "release_month": "03",
-      "featured": true,
+      "featured": false,
       "has_page": false,
       "src": "yo-pongo-la-cara",
       "thumbnails": [
@@ -430,7 +430,7 @@
       ],
       "release_year": "2022",
       "release_month": "03",
-      "featured": true,
+      "featured": false,
       "has_page": false,
       "src": "amazon-bcf",
       "thumbnails": [
@@ -500,13 +500,12 @@
       "src": "clinicaelements",
       "thumbnails": [
         "clinica1.webp",
-        "clinica4.webp",
-        "book2.webp",
-        "clinica3.webp",
         "ele4.webp",
         "ele1.webp",
         "ele2.webp",
-        "ele3.webp"
+        "ele3.webp",
+        "book2.webp",
+        "clinica3.webp"
       ],
       "cta": null,
       "team": {
@@ -568,13 +567,11 @@
         "medidas porta-05.webp",
         "medidas porta-04.webp",
         "medidas porta-06.webp",
-        "medidas porta-03.webp",
-        "medidas porta-07.webp",
-        "medidas porta-02.webp",
-        "bolsa-pop.webp",
         "pop3.webp",
-        "pop6.webp",
-         "pop5.webp"
+        "medidas porta-03.webp",
+       "medidas porta-07.webp",
+        "medidas porta-02.webp",
+        "bolsa-pop.webp"
       ],
       "cta": null,
       "team": {
@@ -602,7 +599,8 @@
       "thumbnails": [
         "polera-kambo.webp",
         "tarjeta kambo.png",
-        "Bags _3n.png"
+        "Bags _3n.png",
+        "suxi.webp"
       ],
       "cta": null,
       "team": {
@@ -749,7 +747,8 @@
       "has_page": false,
       "src": "clinica-alemana",
       "thumbnails": [
-        "alemana.webp"
+        "alemana.webp",
+        "alemana-01.webp"
       ],
       "cta": [
         {
@@ -842,7 +841,7 @@
         ],
       "release_year": "2024",
       "release_month": "10",
-      "featured": true,
+      "featured": false,
       "has_page": false,
       "src": "biblioteca",
       "thumbnails": [
@@ -946,7 +945,7 @@
       ],
       "release_year": "2024",
       "release_month": "10",
-      "featured": true,
+      "featured": false,
       "has_page": false,
       "src": "easyroomie",
       "thumbnails": [
@@ -978,13 +977,12 @@
       "has_page": false,
       "src": "coriolis",
       "thumbnails": [
-        "coriolis1.webp",
-        "coriolis2.webp",
-        "coriolis4.webp",
+        "suple2.webp",
         "coriolis3.webp",
         "supre3.webp",
         "suple1.webp",
-        "suple2.webp"
+                        "coriolis2.webp",
+                "coriolis4.webp"
       ],
       "cta": [
         {

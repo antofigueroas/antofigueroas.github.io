@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.2d458224.css",
-    "main.js": "/static/js/main.6b9f87d6.js",
+    "main.js": "/static/js/main.b76ce2d4.js",
     "static/media/videoinstructivo.mp4": "/static/media/videoinstructivo.203cc9f2d7c7628475f2.mp4",
     "static/media/leaf.mp4": "/static/media/leaf.0a1add229eafd2cbc0da.mp4",
     "static/media/fondogrisvideo.mp4": "/static/media/fondogrisvideo.1b089cbb1457f491c0b0.mp4",
@@ -193,6 +193,7 @@
     "static/media/persia5.webp": "/static/media/persia5.fac786445395f11d76e7.webp",
     "static/media/minecraft2.webp": "/static/media/minecraft2.753f0ee3f391e2bab857.webp",
     "static/media/oliver2.webp": "/static/media/oliver2.3f3f8cc40e22db1572af.webp",
+    "static/media/kambin-02.webp": "/static/media/kambin-02.b152df6a437f7f5abef8.webp",
     "static/media/easyroomie.webp": "/static/media/easyroomie.3dc438048b0a6cf69510.webp",
     "static/media/uandes1.webp": "/static/media/uandes1.5cd570ccdea50830d319.webp",
     "static/media/mascara4.webp": "/static/media/mascara4.4b0e8d299b059f64c445.webp",
@@ -250,14 +251,18 @@
     "static/media/pop2.webp": "/static/media/pop2.c18696f252d854c2ac26.webp",
     "static/media/peugeot2.webp": "/static/media/peugeot2.3ea1e9e4a56e86ce8313.webp",
     "static/media/polera-kambo.webp": "/static/media/polera-kambo.e9e33750ebcc269095f1.webp",
+    "static/media/alemana-01.webp": "/static/media/alemana-01.9a762f3790fe6dd40e81.webp",
     "static/media/grik2.webp": "/static/media/grik2.5b2940e2bff122d77747.webp",
     "static/media/yoteapoyo-02.png": "/static/media/yoteapoyo-02.dced9bc2ea4ec615e7ab.png",
     "static/media/k-26.webp": "/static/media/k-26.5cd1fb2859eca9600cf4.webp",
     "static/media/cajaspersia.webp": "/static/media/cajaspersia.13ba52a04245ac491aee.webp",
+    "static/media/alemana-02.webp": "/static/media/alemana-02.2a6177f6fa577b6c1156.webp",
     "static/media/medidas porta-04.webp": "/static/media/medidas porta-04.a801503536cef9f6ecb5.webp",
     "static/media/caja-kambo.webp": "/static/media/caja-kambo.eace06670be4f3b13032.webp",
     "static/media/ilko1.webp": "/static/media/ilko1.f4d7414bdd25a7048937.webp",
     "static/media/ilko2.webp": "/static/media/ilko2.920c82eb9b3f4b14d8fb.webp",
+    "static/media/suxi.webp": "/static/media/suxi.059c0ee38b129b94342a.webp",
+    "static/media/kambin-01.webp": "/static/media/kambin-01.e2b07eda8c9e0cb9ba3b.webp",
     "static/media/mascara1.webp": "/static/media/mascara1.4f0a9d14ef7ca49ebe47.webp",
     "static/media/medidas porta-01.webp": "/static/media/medidas porta-01.5aee3597b9f5421ebbea.webp",
     "static/media/lanyardpersia.webp": "/static/media/lanyardpersia.952b733a1a71a251c245.webp",
@@ -270,10 +275,10 @@
     "static/media/medidas porta-03.webp": "/static/media/medidas porta-03.fe4105d742e2ac9a9998.webp",
     "index.html": "/index.html",
     "main.2d458224.css.map": "/static/css/main.2d458224.css.map",
-    "main.6b9f87d6.js.map": "/static/js/main.6b9f87d6.js.map"
+    "main.b76ce2d4.js.map": "/static/js/main.b76ce2d4.js.map"
   },
   "entrypoints": [
     "static/css/main.2d458224.css",
-    "static/js/main.6b9f87d6.js"
+    "static/js/main.b76ce2d4.js"
   ]
 }
