@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.2d458224.css",
-    "main.js": "/static/js/main.7e098a2c.js",
+    "main.js": "/static/js/main.96172be4.js",
     "static/media/videoinstructivo.mp4": "/static/media/videoinstructivo.203cc9f2d7c7628475f2.mp4",
     "static/media/leaf.mp4": "/static/media/leaf.0a1add229eafd2cbc0da.mp4",
     "static/media/fondogrisvideo.mp4": "/static/media/fondogrisvideo.1b089cbb1457f491c0b0.mp4",
@@ -273,6 +273,7 @@
     "static/media/mascara1.webp": "/static/media/mascara1.4f0a9d14ef7ca49ebe47.webp",
     "static/media/coti-05.webp": "/static/media/coti-05.ef679e7fe40c56e7c5be.webp",
     "static/media/medidas porta-01.webp": "/static/media/medidas porta-01.5aee3597b9f5421ebbea.webp",
+    "static/media/coti-01.webp": "/static/media/coti-01.886088593c0eddfe2a92.webp",
     "static/media/lanyardpersia.webp": "/static/media/lanyardpersia.952b733a1a71a251c245.webp",
     "static/media/logokambo1.png": "/static/media/logokambo1.8f5350c2f96434a966c3.png",
     "static/media/medidas porta-05.webp": "/static/media/medidas porta-05.d2114eb47831509f2568.webp",
@@ -283,10 +284,10 @@
     "static/media/medidas porta-03.webp": "/static/media/medidas porta-03.fe4105d742e2ac9a9998.webp",
     "index.html": "/index.html",
     "main.2d458224.css.map": "/static/css/main.2d458224.css.map",
-    "main.7e098a2c.js.map": "/static/js/main.7e098a2c.js.map"
+    "main.96172be4.js.map": "/static/js/main.96172be4.js.map"
   },
   "entrypoints": [
     "static/css/main.2d458224.css",
-    "static/js/main.7e098a2c.js"
+    "static/js/main.96172be4.js"
   ]
 }

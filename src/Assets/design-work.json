@@ -592,7 +592,7 @@
       "client": null,
       "description": ["A brand concept for a plant-based sushi experience, blending traditional Japanese inspiration with a modern, sustainable identity. Designed to highlight freshness, creativity, and conscious eating." ],
         "release_year": "2025",
-      "release_month": "08",
+      "release_month": "10",
       "featured": true,
       "has_page": false,
       "src": "kambo",
@@ -602,7 +602,8 @@
         "Bags _3n.png",
         "sushin-01.webp",
         "suxi.webp",
-        "sushin-02.webp"
+        "sushin-02.webp",
+        "coti-01.webp"
       ],
       "cta": null,
       "team": {
@@ -687,9 +688,13 @@
         "k-25.webp",
         "k-26.webp",
         "k-27.webp"
-
       ],
-      "cta": null,
+      "cta": [
+        {
+          "title": "More about this project",
+          "url": "https://www.instagram.com/p/DXpK0-3kYCv/"
+        }
+      ],
       "team": {
         "Visual Direction & Campaign Content": [
           {
@@ -698,9 +703,9 @@
         ],
         "Client": [
           {
-            "name": "m Klotz x Endemik"
+            "name": "Milk x m Klotz x Endemik"
           }
-        ]
+        ] 
       }
     },
     {
@@ -776,7 +781,8 @@
       "client": null,
       "description": [
         "A new stationery system was developed for MILK, one of Chile’s leading furniture and antiques stores, to refine and unify its client-facing communications.",
-        "The project reimagines essential documents such as quotations and informational sheets through a minimal and structured approach. Designed with a more considered intent, the system encourages each piece to move beyond its functional use, allowing clients to keep and collect them rather than discard them—almost like a postcard or keepsake. This is especially relevant in a context where the brand receives a significant number of international visitors."
+        "The project reimagines essential documents such as quotations and informational sheets through a minimal, structured approach. Each piece is designed to extend beyond its functional role, encouraging clients to keep and collect them rather than discard them—like postcards or keepsakes. This becomes especially relevant in a context with a high volume of international visitors.",
+        "The stationery system and visual compositions were designed and art-directed, incorporating AI-generated imagery as part of the creative process."
       ],
       "release_year": "2026",
       "release_month": "03",
@@ -798,7 +804,7 @@
         }
       ],
       "team": {
-        "Graphic Design": [
+        "Graphic Design & Art Direction": [
           {
             "name": "Antonia Figueroa"
           }
