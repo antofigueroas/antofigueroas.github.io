@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.2d458224.css",
-    "main.js": "/static/js/main.b76ce2d4.js",
+    "main.js": "/static/js/main.1fbc5999.js",
     "static/media/videoinstructivo.mp4": "/static/media/videoinstructivo.203cc9f2d7c7628475f2.mp4",
     "static/media/leaf.mp4": "/static/media/leaf.0a1add229eafd2cbc0da.mp4",
     "static/media/fondogrisvideo.mp4": "/static/media/fondogrisvideo.1b089cbb1457f491c0b0.mp4",
@@ -197,12 +197,14 @@
     "static/media/easyroomie.webp": "/static/media/easyroomie.3dc438048b0a6cf69510.webp",
     "static/media/uandes1.webp": "/static/media/uandes1.5cd570ccdea50830d319.webp",
     "static/media/mascara4.webp": "/static/media/mascara4.4b0e8d299b059f64c445.webp",
+    "static/media/sushin-01.webp": "/static/media/sushin-01.7368f9c7c23529573300.webp",
     "static/media/mascara3.webp": "/static/media/mascara3.7fe11a56796922524f26.webp",
     "static/media/persia4.webp": "/static/media/persia4.cb8543351418342c5b31.webp",
     "static/media/pop4.webp": "/static/media/pop4.a038527dd1c604f3bcbd.webp",
     "static/media/psi.webp": "/static/media/psi.1733f30a3108ee5ca82f.webp",
     "static/media/amazon1.webp": "/static/media/amazon1.32400e036e8f0336e67e.webp",
     "static/media/ele4.webp": "/static/media/ele4.b5417b1b15b417ca7c60.webp",
+    "static/media/sushin-02.webp": "/static/media/sushin-02.f77c5451b1e0e8c4c6ee.webp",
     "static/media/amazon2.webp": "/static/media/amazon2.db0a077c88da00482d8e.webp",
     "static/media/pop1.webp": "/static/media/pop1.b47f1c0fcb8a6fd5120a.webp",
     "static/media/bolsa-pop.webp": "/static/media/bolsa-pop.01f122ce6bbb868ba973.webp",
@@ -275,10 +277,10 @@
     "static/media/medidas porta-03.webp": "/static/media/medidas porta-03.fe4105d742e2ac9a9998.webp",
     "index.html": "/index.html",
     "main.2d458224.css.map": "/static/css/main.2d458224.css.map",
-    "main.b76ce2d4.js.map": "/static/js/main.b76ce2d4.js.map"
+    "main.1fbc5999.js.map": "/static/js/main.1fbc5999.js.map"
   },
   "entrypoints": [
     "static/css/main.2d458224.css",
-    "static/js/main.b76ce2d4.js"
+    "static/js/main.1fbc5999.js"
   ]
 }
