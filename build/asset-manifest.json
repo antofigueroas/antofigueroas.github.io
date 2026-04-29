@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.2d458224.css",
-    "main.js": "/static/js/main.1fbc5999.js",
+    "main.js": "/static/js/main.7e098a2c.js",
     "static/media/videoinstructivo.mp4": "/static/media/videoinstructivo.203cc9f2d7c7628475f2.mp4",
     "static/media/leaf.mp4": "/static/media/leaf.0a1add229eafd2cbc0da.mp4",
     "static/media/fondogrisvideo.mp4": "/static/media/fondogrisvideo.1b089cbb1457f491c0b0.mp4",
@@ -226,6 +226,7 @@
     "static/media/bolsapersia.webp": "/static/media/bolsapersia.8c5a38ceedd23b3c849d.webp",
     "static/media/k-20.webp": "/static/media/k-20.28424183f47d04b68c5b.webp",
     "static/media/paletapersia.webp": "/static/media/paletapersia.c4c9ac36ad3d9dfc2d79.webp",
+    "static/media/coti-04.webp": "/static/media/coti-04.557f945d6d5fe7ee0e7e.webp",
     "static/media/pop-letrero.webp": "/static/media/pop-letrero.46ef2062e1ac47005eb3.webp",
     "static/media/pop3.webp": "/static/media/pop3.101fd6179eec487e4bd8.webp",
     "static/media/k-18.webp": "/static/media/k-18.8faa69717801d58ef4ab.webp",
@@ -238,6 +239,7 @@
     "static/media/rodaje.webp": "/static/media/rodaje.85d33d8937cec1a64952.webp",
     "static/media/peugeot.webp": "/static/media/peugeot.08a3d0211bc62b6fd7f9.webp",
     "static/media/maths30.gif": "/static/media/maths30.85cee56a6ca852ff7e28.gif",
+    "static/media/coti-02.webp": "/static/media/coti-02.b8ca9763d73b2756d8cb.webp",
     "static/media/persiapersia.webp": "/static/media/persiapersia.283ba9e0e3fce2b6c48f.webp",
     "static/media/paperman1.webp": "/static/media/paperman1.473b1cfc66abecfdb85b.webp",
     "static/media/suple2.webp": "/static/media/suple2.1258f50a9d86bfee1608.webp",
@@ -257,15 +259,19 @@
     "static/media/grik2.webp": "/static/media/grik2.5b2940e2bff122d77747.webp",
     "static/media/yoteapoyo-02.png": "/static/media/yoteapoyo-02.dced9bc2ea4ec615e7ab.png",
     "static/media/k-26.webp": "/static/media/k-26.5cd1fb2859eca9600cf4.webp",
+    "static/media/coti-06.webp": "/static/media/coti-06.61b43173eab214776467.webp",
+    "static/media/coti-07.webp": "/static/media/coti-07.d9da997e880621dd3bb7.webp",
     "static/media/cajaspersia.webp": "/static/media/cajaspersia.13ba52a04245ac491aee.webp",
     "static/media/alemana-02.webp": "/static/media/alemana-02.2a6177f6fa577b6c1156.webp",
     "static/media/medidas porta-04.webp": "/static/media/medidas porta-04.a801503536cef9f6ecb5.webp",
+    "static/media/coti-03.webp": "/static/media/coti-03.94e821760520726c1b24.webp",
     "static/media/caja-kambo.webp": "/static/media/caja-kambo.eace06670be4f3b13032.webp",
     "static/media/ilko1.webp": "/static/media/ilko1.f4d7414bdd25a7048937.webp",
     "static/media/ilko2.webp": "/static/media/ilko2.920c82eb9b3f4b14d8fb.webp",
     "static/media/suxi.webp": "/static/media/suxi.059c0ee38b129b94342a.webp",
     "static/media/kambin-01.webp": "/static/media/kambin-01.e2b07eda8c9e0cb9ba3b.webp",
     "static/media/mascara1.webp": "/static/media/mascara1.4f0a9d14ef7ca49ebe47.webp",
+    "static/media/coti-05.webp": "/static/media/coti-05.ef679e7fe40c56e7c5be.webp",
     "static/media/medidas porta-01.webp": "/static/media/medidas porta-01.5aee3597b9f5421ebbea.webp",
     "static/media/lanyardpersia.webp": "/static/media/lanyardpersia.952b733a1a71a251c245.webp",
     "static/media/logokambo1.png": "/static/media/logokambo1.8f5350c2f96434a966c3.png",
@@ -277,10 +283,10 @@
     "static/media/medidas porta-03.webp": "/static/media/medidas porta-03.fe4105d742e2ac9a9998.webp",
     "index.html": "/index.html",
     "main.2d458224.css.map": "/static/css/main.2d458224.css.map",
-    "main.1fbc5999.js.map": "/static/js/main.1fbc5999.js.map"
+    "main.7e098a2c.js.map": "/static/js/main.7e098a2c.js.map"
   },
   "entrypoints": [
     "static/css/main.2d458224.css",
-    "static/js/main.1fbc5999.js"
+    "static/js/main.7e098a2c.js"
   ]
 }

@@ -771,6 +771,45 @@
         ]
       }
     },
+     {
+      "title": "MILK — Stationery Redesign",
+      "client": null,
+      "description": [
+        "A new stationery system was developed for MILK, one of Chile’s leading furniture and antiques stores, to refine and unify its client-facing communications.",
+        "The project reimagines essential documents such as quotations and informational sheets through a minimal and structured approach. Designed with a more considered intent, the system encourages each piece to move beyond its functional use, allowing clients to keep and collect them rather than discard them—almost like a postcard or keepsake. This is especially relevant in a context where the brand receives a significant number of international visitors."
+      ],
+      "release_year": "2026",
+      "release_month": "03",
+      "featured": true,
+      "has_page": false,
+      "src": "milk1",
+      "thumbnails": [
+        "coti-03.webp",
+        "coti-04.webp",
+        "coti-06.webp",
+        "coti-02.webp",
+        "coti-05.webp",
+        "coti-07.webp"
+      ],
+      "cta": [
+        {
+          "title": "About Milk",
+          "url": "https://www.milk.cl/"
+        }
+      ],
+      "team": {
+        "Graphic Design": [
+          {
+            "name": "Antonia Figueroa"
+          }
+        ],
+        "Client": [
+          {
+            "name": "Milk"
+          }
+        ]
+      }
+    },
     {
       "title": "Challengers South Korea 2025 - Universidad de los Andes",
       "client": null,
