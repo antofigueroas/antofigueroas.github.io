@@ -1,10 +1,11 @@
 {
   "files": {
     "main.css": "/static/css/main.2d458224.css",
-    "main.js": "/static/js/main.96172be4.js",
+    "main.js": "/static/js/main.1e303b6c.js",
     "static/media/videoinstructivo.mp4": "/static/media/videoinstructivo.203cc9f2d7c7628475f2.mp4",
     "static/media/leaf.mp4": "/static/media/leaf.0a1add229eafd2cbc0da.mp4",
     "static/media/fondogrisvideo.mp4": "/static/media/fondogrisvideo.1b089cbb1457f491c0b0.mp4",
+    "static/media/690_2.mp4": "/static/media/690_2.9d829eb0fb9e7e6f7fe8.mp4",
     "static/media/cbsdjhkncldsk.png": "/static/media/cbsdjhkncldsk.51fecd1d867337ac7dcc.png",
     "static/media/Hanging Vertical Banner Mockup.png": "/static/media/Hanging Vertical Banner Mockup.9714a1554a997c7886b7.png",
     "static/media/plantillas.png": "/static/media/plantillas.291b4ea112e9a37918b2.png",
@@ -234,6 +235,7 @@
     "static/media/sketch1.webp": "/static/media/sketch1.cd8ab626e93ddad76cfc.webp",
     "static/media/k-15.webp": "/static/media/k-15.f77ed7468084c1976e83.webp",
     "static/media/persia8.webp": "/static/media/persia8.5ed9f3d616fe562e72db.webp",
+    "static/media/tissot prueba.jpg": "/static/media/tissot prueba.13fd73886052fabd7b3c.jpg",
     "static/media/paperman2.webp": "/static/media/paperman2.64d6f79f1be648633bc2.webp",
     "static/media/suple1.webp": "/static/media/suple1.72fba46383704b3a8c52.webp",
     "static/media/rodaje.webp": "/static/media/rodaje.85d33d8937cec1a64952.webp",
@@ -284,10 +286,10 @@
     "static/media/medidas porta-03.webp": "/static/media/medidas porta-03.fe4105d742e2ac9a9998.webp",
     "index.html": "/index.html",
     "main.2d458224.css.map": "/static/css/main.2d458224.css.map",
-    "main.96172be4.js.map": "/static/js/main.96172be4.js.map"
+    "main.1e303b6c.js.map": "/static/js/main.1e303b6c.js.map"
   },
   "entrypoints": [
     "static/css/main.2d458224.css",
-    "static/js/main.96172be4.js"
+    "static/js/main.1e303b6c.js"
   ]
 }

@@ -557,8 +557,8 @@
       "title": "Pop & Go - Prebiotic Drinks",
       "client": null,
       "description": ["A brand concept for a line of prebiotic drinks that combines health benefits with a playful and modern identity. Designed to balance wellness and convenience through a fresh, approachable aesthetic." ],
-        "release_year": "2025",
-      "release_month": "08",
+        "release_year": "2026",
+      "release_month": "01",
       "featured": true,
       "has_page": false,
       "src": "popandgo",
@@ -583,6 +583,35 @@
         "Client": [
           {
             "name": "Pop & Go"
+          }
+        ]
+      }
+    },
+    {
+      "title": "Tissot x Parque Arauco — Motion Assets",
+      "client": null,
+      "description": [
+        "A motion graphic system developed for a collaborative campaign between Tissot, Parque Arauco — one of Chile’s leading retail destinations — for the launch of Tissot’s first pop-up store in the country.",
+      "Featuring professional cyclist Martín Vidaurre and prominent digital creator Dylantero, the work focused on animated typographic compositions, “bubble text” elements, and graphic overlays."
+      ],
+        "release_year": "2024",
+      "release_month": "12",
+      "featured": true,
+      "has_page": false,
+      "src": "tissot",
+      "thumbnails": [
+        "690_2.mp4"
+      ],
+      "cta": null,
+      "team": {
+        "Graphic Designer (Motion)": [
+          {
+            "name": "Antonia Figueroa"
+          }
+        ],
+        "Client": [
+          {
+            "name": "Dopamine Work"
           }
         ]
       }
