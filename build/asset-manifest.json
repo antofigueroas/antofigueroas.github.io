@@ -1,20 +1,21 @@
 {
   "files": {
     "main.css": "/static/css/main.2d458224.css",
-    "main.js": "/static/js/main.1e303b6c.js",
+    "main.js": "/static/js/main.b366c076.js",
     "static/media/videoinstructivo.mp4": "/static/media/videoinstructivo.203cc9f2d7c7628475f2.mp4",
     "static/media/leaf.mp4": "/static/media/leaf.0a1add229eafd2cbc0da.mp4",
     "static/media/fondogrisvideo.mp4": "/static/media/fondogrisvideo.1b089cbb1457f491c0b0.mp4",
-    "static/media/690_2.mp4": "/static/media/690_2.9d829eb0fb9e7e6f7fe8.mp4",
     "static/media/cbsdjhkncldsk.png": "/static/media/cbsdjhkncldsk.51fecd1d867337ac7dcc.png",
     "static/media/Hanging Vertical Banner Mockup.png": "/static/media/Hanging Vertical Banner Mockup.9714a1554a997c7886b7.png",
     "static/media/plantillas.png": "/static/media/plantillas.291b4ea112e9a37918b2.png",
     "static/media/Free_Billboard_Mockup.png": "/static/media/Free_Billboard_Mockup.74d1788000c57db6458e.png",
+    "static/media/690_5.mp4": "/static/media/690_5.4d130a826a117d578bea.mp4",
     "static/media/videoclaro.mp4": "/static/media/videoclaro.9ad30e801a645a2e04d7.mp4",
     "static/media/MOCKUP CORIOLIS 08.png": "/static/media/MOCKUP CORIOLIS 08.52e515e35ffb08ee6382.png",
     "static/media/MOCKUP CORIOLIS 04.png": "/static/media/MOCKUP CORIOLIS 04.ab0624f7e100e1395bc9.png",
     "static/media/letrero pop.png": "/static/media/letrero pop.be146366604284e6aded.png",
     "static/media/Peugeot.mp4": "/static/media/Peugeot.df46207655cc26fdaae5.mp4",
+    "static/media/690_3.mp4": "/static/media/690_3.538edcc31d3d998de329.mp4",
     "static/media/posmetafisica-01.webp": "/static/media/posmetafisica-01.4de526aa6cca0ffbb067.webp",
     "static/media/bolsita.png": "/static/media/bolsita.9c7a70518a73007b509c.png",
     "static/media/videitoilkooficial.mp4": "/static/media/videitoilkooficial.62b3cabff3afad24754e.mp4",
@@ -286,10 +287,10 @@
     "static/media/medidas porta-03.webp": "/static/media/medidas porta-03.fe4105d742e2ac9a9998.webp",
     "index.html": "/index.html",
     "main.2d458224.css.map": "/static/css/main.2d458224.css.map",
-    "main.1e303b6c.js.map": "/static/js/main.1e303b6c.js.map"
+    "main.b366c076.js.map": "/static/js/main.b366c076.js.map"
   },
   "entrypoints": [
     "static/css/main.2d458224.css",
-    "static/js/main.1e303b6c.js"
+    "static/js/main.b366c076.js"
   ]
 }
